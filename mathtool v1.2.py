@@ -55,6 +55,7 @@ def primefactor(n): #直接调用
         formatted_factors.append(str(factor) + "\n")
         factors = [x for x in factors if x != factor]
     a = '--> '.join(formatted_factors)
+    a = a.rstrip()
     if a == "":
         a = "0 (None)"
     return a
