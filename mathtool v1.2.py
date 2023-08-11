@@ -60,18 +60,15 @@ def trsss():
         alpha = degrees(acos((b**2 + c**2 - a**2) / (2 * b * c)))
         beta = degrees(acos((a**2 + c**2 - b**2) / (2 * a * c)))
         gamma = 180 - alpha - beta
-
         # Print angles
         print("--> Angles (in degrees):")
         print(f"--> A: {alpha:.2f}")
         print(f"--> B: {beta:.2f}")
         print(f"--> C: {gamma:.2f}")
-
         # Calculate area using Heron's formula
         s = (a + b + c) / 2
         area = sqrt(s * (s - a) * (s - b) * (s - c))
         print(f"--> Area: {area:.2f}")
-
         # Print additional information
         print(f"--> Perimeter: {a + b + c:.2f}")
     else:
