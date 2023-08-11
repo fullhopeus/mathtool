@@ -37,19 +37,6 @@ def primefactors(n):
 def primefactor(n): #直接调用
     factors = primefactors(n)
     formatted_factors = []
-    
-    for factor in factors:
-        count = factors.count(factor)
-        formatted_factors.append(str(factor))
-        factors = [x for x in factors if x != factor]
-    a = ' * '.join(formatted_factors)
-    if a == "":
-        a = "0 (None)"
-    return a
-
-def primefactor(n): #直接调用
-    factors = primefactors(n)
-    formatted_factors = []
     for factor in factors:
         count = factors.count(factor)
         formatted_factors.append(str(factor) + "\n")
