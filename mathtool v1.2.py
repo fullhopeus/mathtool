@@ -1,4 +1,4 @@
-import math
+from math import *
 
 def prime(number):
     for x in range(2, number):
@@ -25,27 +25,12 @@ def factor(number): #直接调用
 def primefactors(n):
     factors = []
     divisor = 2
-    
     while n > 1:
         while n % divisor == 0:
             factors.append(divisor)
             n //= divisor
         divisor += 1
-    
     return factors
-
-def primefactor(n): #直接调用
-    factors = primefactors(n)
-    formatted_factors = []
-    
-    for factor in factors:
-        count = factors.count(factor)
-        formatted_factors.append(str(factor))
-        factors = [x for x in factors if x != factor]
-    a = ' * '.join(formatted_factors)
-    if a == "":
-        a = "0 (None)"
-    return a
 
 def primefactor(n): #直接调用
     factors = primefactors(n)
@@ -72,21 +57,18 @@ def trsss():
     # Check if the sides form a valid triangle
     if a + b > c and a + c > b and b + c > a:
         # Calculate angles using law of cosines
-        alpha = math.degrees(math.acos((b**2 + c**2 - a**2) / (2 * b * c)))
-        beta = math.degrees(math.acos((a**2 + c**2 - b**2) / (2 * a * c)))
+        alpha = degrees(acos((b**2 + c**2 - a**2) / (2 * b * c)))
+        beta = degrees(acos((a**2 + c**2 - b**2) / (2 * a * c)))
         gamma = 180 - alpha - beta
-        
         # Print angles
         print("--> Angles (in degrees):")
         print(f"--> A: {alpha:.2f}")
         print(f"--> B: {beta:.2f}")
         print(f"--> C: {gamma:.2f}")
-        
         # Calculate area using Heron's formula
         s = (a + b + c) / 2
-        area = math.sqrt(s * (s - a) * (s - b) * (s - c))
+        area = sqrt(s * (s - a) * (s - b) * (s - c))
         print(f"--> Area: {area:.2f}")
-        
         # Print additional information
         print(f"--> Perimeter: {a + b + c:.2f}")
     else:
