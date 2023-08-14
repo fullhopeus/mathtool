@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- PEALISTv1: TextSize:0| -->
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sectionName</key>
+		<string></string>
+		<key>groups</key>
+		<array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Boost</string>
+							<key>parameterID</key>
+							<integer>2</integer>
+							<key>preferredControlType</key>
+							<string>knob</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Boost Mode</string>
+							<key>parameterID</key>
+							<integer>3</integer>
+							<key>preferredControlType</key>
+							<string>segmentedControl</string>
+						</dict>
+					</array>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

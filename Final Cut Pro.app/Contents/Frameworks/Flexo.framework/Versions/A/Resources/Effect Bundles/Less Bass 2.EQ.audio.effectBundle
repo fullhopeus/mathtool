@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EffectBundle version="2">
+    <!--This table defines an effect bundle-->
+    <EffectBundleParts>
+        <EffectBundlePart name="Less Bass 2.EQ">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="AUHipass" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678687061736170706c</effectID>
+                    <Parameters>
+                        <parameter name="Cutoff Frequency" id="0">1039.93</parameter>
+                        <parameter name="Resonance" id="1">0.58079</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="1" value="0">
+                    <EffectSnapshot name="AUHipass" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Cutoff Frequency" id="0">0.93</parameter>
+                            <parameter name="Resonance" id="1">0.0</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="50">
+                    <EffectSnapshot name="AUHipass" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Cutoff Frequency" id="0">500.93</parameter>
+                            <parameter name="Resonance" id="1">0.28079</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="100">
+                    <EffectSnapshot name="AUHipass" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Cutoff Frequency" id="0">1039.93</parameter>
+                            <parameter name="Resonance" id="1">0.58079</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+    </EffectBundleParts>
+</EffectBundle>

@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EffectBundle version="1">
+    <!--This table defines an effect bundle-->
+    <EffectBundleParts>
+        <EffectBundlePart name="1931 Radio">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="Compressor" effectIndex="0">
+                    <effectID>AudioUnit: 0x617566780000009a454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Peak/RMS" id="7" referenceEnumValue="PEAK">0</parameter>
+                        <parameter name="Auto Gain" id="8" referenceEnumValue="0dB">1</parameter>
+                        <parameter name="Wet Distortion" id="9" referenceEnumValue="Off">0</parameter>
+                        <parameter name="Circuit Type" id="10" referenceEnumValue="Platinum Digital">0</parameter>
+                        <parameter name="Limiter" id="13" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Auto Release" id="14" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Dry/Wet Mix [%]" id="25">200</parameter>
+                        <parameter name="Input Gain [dB]" id="27">60</parameter>
+                        <parameter name="Output Gain [dB]" id="28">60</parameter>
+                        <parameter name="Display Select" id="29" referenceEnumValue="Meter">0</parameter>
+                        <parameter name="View Select" id="30" referenceEnumValue="Output">0</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="Distortion II" effectIndex="1">
+                    <effectID>AudioUnit: 0x61756678000000e4454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Distortion Type" id="4" referenceEnumValue="Growl">0</parameter>
+                        <parameter name="Distortion Output Level [dB]" id="5">40</parameter>
+                        <parameter name="Mix [%]" id="6">100</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="Channel EQ" effectIndex="2">
+                    <effectID>AudioUnit: 0x61756678000000ec454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Low Cut On/Off" id="1" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Low Cut Slope [dB/Oct]" id="3" referenceEnumValue="24">3</parameter>
+                        <parameter name="Low Shelf On/Off" id="5" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Low Shelf Frequency [Hz]" id="6">210</parameter>
+                        <parameter name="Low Shelf Gain [dB]" id="7">240</parameter>
+                        <parameter name="Low Shelf Q-Factor" id="8">34</parameter>
+                        <parameter name="Peak 1 On/Off" id="9" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Peak 1 Frequency [Hz]" id="10">350</parameter>
+                        <parameter name="Peak 1 Gain [dB]" id="11">240</parameter>
+                        <parameter name="Peak 1 Q-Factor" id="12">36</parameter>
+                        <parameter name="Peak 2 On/Off" id="13" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Peak 3 On/Off" id="17" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Peak 4 On/Off" id="21" referenceBoolValue="YES">1</parameter>
+                        <parameter name="High Shelf On/Off" id="25" referenceBoolValue="YES">1</parameter>
+                        <parameter name="High Cut On/Off" id="29" referenceBoolValue="YES">1</parameter>
+                        <parameter name="High Cut Slope [dB/Oct]" id="31" referenceEnumValue="12">1</parameter>
+                        <parameter name="High Cut Q-Factor" id="32">36</parameter>
+                        <parameter name="Analyzer On/Off" id="34" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Analyzer Resolution" id="35" referenceEnumValue="low (2048 points)">0</parameter>
+                        <parameter name="Analyzer Top [dB]" id="36">4</parameter>
+                        <parameter name="Analyzer Position" id="39" referenceEnumValue="post EQ">1</parameter>
+                        <parameter name="Analyzer Mode" id="40" referenceEnumValue="Peak">0</parameter>
+                        <parameter name="Analyzer Decay [dB/s]" id="41">10</parameter>
+                        <parameter name="Gain-Q coupling" id="42" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Gain-Q Couple Mode" id="43" referenceEnumValue="light">1</parameter>
+                        <parameter name="Oversampling" id="45" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Channel Mode" id="46" referenceEnumValue="Stereo">0</parameter>
+                        <parameter name="Visualize Master Gain" id="47" referenceBoolValue="YES">1</parameter>
+                        <parameter name="EQ dB Scale Mode" id="48" referenceEnumValue="Linear 60 dB">2</parameter>
+                        <parameter name="EQ Scale Shift" id="49">5</parameter>
+                        <parameter name="Analyzer Range [dB]" id="50" referenceEnumValue="60">0</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="3" value="0">
+                    <EffectSnapshot name="Compressor" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Threshold [dB]" id="1">60</parameter>
+                            <parameter name="Limiter Threshold [dB]" id="12">76</parameter>
+                            <parameter name="Ratio" id="2">25</parameter>
+                            <parameter name="Attack [ms]" id="3">0</parameter>
+                            <parameter name="Release [ms]" id="4">92</parameter>
+                            <parameter name="Make Up [dB]" id="5">44</parameter>
+                            <parameter name="Knee" id="6">9</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Distortion II" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Pre Gain [dB]" id="1">20</parameter>
+                            <parameter name="Drive" id="2">0</parameter>
+                            <parameter name="Tone [dB]" id="3">40</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Channel EQ" effectIndex="2">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Peak 2 Frequency [Hz]" id="14">500</parameter>
+                            <parameter name="Peak 2 Gain [dB]" id="15">240</parameter>
+                            <parameter name="Peak 2 Q-Factor" id="16">36</parameter>
+                            <parameter name="Peak 3 Frequency [Hz]" id="18">608</parameter>
+                            <parameter name="Peak 3 Gain [dB]" id="19">355</parameter>
+                            <parameter name="Low Cut Frequency [Hz]" id="2">415</parameter>
+                            <parameter name="Peak 3 Q-Factor" id="20">50</parameter>
+                            <parameter name="Peak 4 Frequency [Hz]" id="22">852</parameter>
+                            <parameter name="Peak 4 Gain [dB]" id="23">250</parameter>
+                            <parameter name="Peak 4 Q-Factor" id="24">36</parameter>
+                            <parameter name="High Shelf Frequency [Hz]" id="26">783</parameter>
+                            <parameter name="High Shelf Gain [dB]" id="27">175</parameter>
+                            <parameter name="High Shelf Q-Factor" id="28">34</parameter>
+                            <parameter name="High Cut Frequency [Hz]" id="30">894</parameter>
+                            <parameter name="Master  Gain [dB]" id="33">240</parameter>
+                            <parameter name="Low Cut Q-Factor" id="4">37</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="3" value="50">
+                    <EffectSnapshot name="Compressor" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Threshold [dB]" id="1">74</parameter>
+                            <parameter name="Limiter Threshold [dB]" id="12">74</parameter>
+                            <parameter name="Ratio" id="2">36</parameter>
+                            <parameter name="Attack [ms]" id="3">20</parameter>
+                            <parameter name="Release [ms]" id="4">53</parameter>
+                            <parameter name="Make Up [dB]" id="5">27</parameter>
+                            <parameter name="Knee" id="6">7</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Distortion II" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Pre Gain [dB]" id="1">23</parameter>
+                            <parameter name="Drive" id="2">26</parameter>
+                            <parameter name="Tone [dB]" id="3">55</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Channel EQ" effectIndex="2">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Peak 2 Frequency [Hz]" id="14">542</parameter>
+                            <parameter name="Peak 2 Gain [dB]" id="15">480</parameter>
+                            <parameter name="Peak 2 Q-Factor" id="16">42</parameter>
+                            <parameter name="Peak 3 Frequency [Hz]" id="18">620</parameter>
+                            <parameter name="Peak 3 Gain [dB]" id="19">240</parameter>
+                            <parameter name="Low Cut Frequency [Hz]" id="2">445</parameter>
+                            <parameter name="Peak 3 Q-Factor" id="20">36</parameter>
+                            <parameter name="Peak 4 Frequency [Hz]" id="22">618</parameter>
+                            <parameter name="Peak 4 Gain [dB]" id="23">280</parameter>
+                            <parameter name="Peak 4 Q-Factor" id="24">80</parameter>
+                            <parameter name="High Shelf Frequency [Hz]" id="26">580</parameter>
+                            <parameter name="High Shelf Gain [dB]" id="27">340</parameter>
+                            <parameter name="High Shelf Q-Factor" id="28">33</parameter>
+                            <parameter name="High Cut Frequency [Hz]" id="30">745</parameter>
+                            <parameter name="Master  Gain [dB]" id="33">145</parameter>
+                            <parameter name="Low Cut Q-Factor" id="4">36</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="3" value="100">
+                    <EffectSnapshot name="Compressor" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Threshold [dB]" id="1">74</parameter>
+                            <parameter name="Limiter Threshold [dB]" id="12">74</parameter>
+                            <parameter name="Ratio" id="2">36</parameter>
+                            <parameter name="Attack [ms]" id="3">20</parameter>
+                            <parameter name="Release [ms]" id="4">53</parameter>
+                            <parameter name="Make Up [dB]" id="5">27</parameter>
+                            <parameter name="Knee" id="6">7</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Distortion II" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Pre Gain [dB]" id="1">24</parameter>
+                            <parameter name="Drive" id="2">30</parameter>
+                            <parameter name="Tone [dB]" id="3">59</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Channel EQ" effectIndex="2">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Peak 2 Frequency [Hz]" id="14">542</parameter>
+                            <parameter name="Peak 2 Gain [dB]" id="15">480</parameter>
+                            <parameter name="Peak 2 Q-Factor" id="16">42</parameter>
+                            <parameter name="Peak 3 Frequency [Hz]" id="18">620</parameter>
+                            <parameter name="Peak 3 Gain [dB]" id="19">240</parameter>
+                            <parameter name="Low Cut Frequency [Hz]" id="2">445</parameter>
+                            <parameter name="Peak 3 Q-Factor" id="20">36</parameter>
+                            <parameter name="Peak 4 Frequency [Hz]" id="22">618</parameter>
+                            <parameter name="Peak 4 Gain [dB]" id="23">280</parameter>
+                            <parameter name="Peak 4 Q-Factor" id="24">80</parameter>
+                            <parameter name="High Shelf Frequency [Hz]" id="26">580</parameter>
+                            <parameter name="High Shelf Gain [dB]" id="27">340</parameter>
+                            <parameter name="High Shelf Q-Factor" id="28">33</parameter>
+                            <parameter name="High Cut Frequency [Hz]" id="30">745</parameter>
+                            <parameter name="Master  Gain [dB]" id="33">145</parameter>
+                            <parameter name="Low Cut Q-Factor" id="4">36</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+        <EffectBundlePart name="1945 Radio">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="AUDynamicsProcessor" effectIndex="0">
+                    <effectID>AudioUnit: 0x6175667864636d706170706c</effectID>
+                    <Parameters>
+                        <parameter name="expansion ratio" id="2">1</parameter>
+                        <parameter name="expansion threshold" id="3">-100</parameter>
+                        <parameter name="attack time" id="4">0.02999999932944775</parameter>
+                        <parameter name="release time" id="5">0.02999999932944775</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="AUBandpass" effectIndex="1">
+                    <effectID>AudioUnit: 0x61756678627061736170706c</effectID>
+                    <Parameters>
+                        <parameter name="center frequency" id="0">1046.493041992188</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="2" value="0">
+                    <EffectSnapshot name="AUDynamicsProcessor" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="compression threshold" id="0">-19.42856597900391</parameter>
+                            <parameter name="headroom" id="1">15.58251190185547</parameter>
+                            <parameter name="master gain" id="6">11.43005847930908</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="AUBandpass" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="bandwidth" id="1">4000</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="2" value="50">
+                    <EffectSnapshot name="AUDynamicsProcessor" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="compression threshold" id="0">-37.71427917480469</parameter>
+                            <parameter name="headroom" id="1">17.1063232421875</parameter>
+                            <parameter name="master gain" id="6">17.99341583251953</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="AUBandpass" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="bandwidth" id="1">2000</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="2" value="100">
+                    <EffectSnapshot name="AUDynamicsProcessor" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="compression threshold" id="0">-33.14285278320312</parameter>
+                            <parameter name="headroom" id="1">11.45986938476562</parameter>
+                            <parameter name="master gain" id="6">22.36898803710938</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="AUBandpass" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="bandwidth" id="1">900</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+        <EffectBundlePart name="1957 Console">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="Overdrive" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678000000a5454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Output [dB]" id="3">80</parameter>
+                        <parameter name="Level Compensation" id="4" referenceBoolValue="NO">0</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="Channel EQ" effectIndex="1">
+                    <effectID>AudioUnit: 0x61756678000000ec454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Low Cut On/Off" id="1" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Low Cut Frequency [Hz]" id="2">50</parameter>
+                        <parameter name="Low Cut Slope [dB/Oct]" id="3" referenceEnumValue="24">3</parameter>
+                        <parameter name="Low Cut Q-Factor" id="4">36</parameter>
+                        <parameter name="Low Shelf On/Off" id="5" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Low Shelf Frequency [Hz]" id="6">210</parameter>
+                        <parameter name="Low Shelf Gain [dB]" id="7">240</parameter>
+                        <parameter name="Low Shelf Q-Factor" id="8">34</parameter>
+                        <parameter name="Peak 1 On/Off" id="9" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Peak 1 Frequency [Hz]" id="10">350</parameter>
+                        <parameter name="Peak 1 Gain [dB]" id="11">240</parameter>
+                        <parameter name="Peak 1 Q-Factor" id="12">36</parameter>
+                        <parameter name="Peak 2 On/Off" id="13" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Peak 3 On/Off" id="17" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Peak 3 Frequency [Hz]" id="18">620</parameter>
+                        <parameter name="Peak 3 Q-Factor" id="20">36</parameter>
+                        <parameter name="Peak 4 On/Off" id="21" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Peak 4 Frequency [Hz]" id="22">775</parameter>
+                        <parameter name="Peak 4 Gain [dB]" id="23">240</parameter>
+                        <parameter name="Peak 4 Q-Factor" id="24">36</parameter>
+                        <parameter name="High Shelf On/Off" id="25" referenceBoolValue="YES">1</parameter>
+                        <parameter name="High Shelf Frequency [Hz]" id="26">906</parameter>
+                        <parameter name="High Shelf Gain [dB]" id="27">230</parameter>
+                        <parameter name="High Shelf Q-Factor" id="28">34</parameter>
+                        <parameter name="High Cut On/Off" id="29" referenceBoolValue="YES">1</parameter>
+                        <parameter name="High Cut Slope [dB/Oct]" id="31" referenceEnumValue="12">1</parameter>
+                        <parameter name="High Cut Q-Factor" id="32">36</parameter>
+                        <parameter name="Master  Gain [dB]" id="33">240</parameter>
+                        <parameter name="Analyzer On/Off" id="34" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Analyzer Resolution" id="35" referenceEnumValue="low (2048 points)">0</parameter>
+                        <parameter name="Analyzer Top [dB]" id="36">4</parameter>
+                        <parameter name="Analyzer Position" id="39" referenceEnumValue="post EQ">1</parameter>
+                        <parameter name="Analyzer Mode" id="40" referenceEnumValue="Peak">0</parameter>
+                        <parameter name="Analyzer Decay [dB/s]" id="41">10</parameter>
+                        <parameter name="Gain-Q coupling" id="42" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Gain-Q Couple Mode" id="43" referenceEnumValue="light">1</parameter>
+                        <parameter name="Oversampling" id="45" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Channel Mode" id="46" referenceEnumValue="Stereo">0</parameter>
+                        <parameter name="Visualize Master Gain" id="47" referenceBoolValue="YES">1</parameter>
+                        <parameter name="EQ dB Scale Mode" id="48" referenceEnumValue="Linear 60 dB">2</parameter>
+                        <parameter name="EQ Scale Shift" id="49">5</parameter>
+                        <parameter name="Analyzer Range [dB]" id="50" referenceEnumValue="60">0</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="Compressor" effectIndex="2">
+                    <effectID>AudioUnit: 0x617566780000009a454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Make Up [dB]" id="5">40</parameter>
+                        <parameter name="Knee" id="6">10</parameter>
+                        <parameter name="Peak/RMS" id="7" referenceEnumValue="PEAK">0</parameter>
+                        <parameter name="Auto Gain" id="8" referenceEnumValue="0dB">1</parameter>
+                        <parameter name="Wet Distortion" id="9" referenceEnumValue="Off">0</parameter>
+                        <parameter name="Circuit Type" id="10" referenceEnumValue="Platinum Digital">0</parameter>
+                        <parameter name="Limiter" id="13" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Auto Release" id="14" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Dry/Wet Mix [%]" id="25">200</parameter>
+                        <parameter name="Input Gain [dB]" id="27">60</parameter>
+                        <parameter name="Output Gain [dB]" id="28">60</parameter>
+                        <parameter name="Display Select" id="29" referenceEnumValue="Meter">0</parameter>
+                        <parameter name="View Select" id="30" referenceEnumValue="Output">0</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="3" value="0">
+                    <EffectSnapshot name="Overdrive" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Drive [dB]" id="1">0</parameter>
+                            <parameter name="Tone [Hz]" id="2">68</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Channel EQ" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Peak 2 Frequency [Hz]" id="14">500</parameter>
+                            <parameter name="Peak 2 Gain [dB]" id="15">240</parameter>
+                            <parameter name="Peak 2 Q-Factor" id="16">36</parameter>
+                            <parameter name="Peak 3 Gain [dB]" id="19">240</parameter>
+                            <parameter name="High Cut Frequency [Hz]" id="30">916</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Compressor" effectIndex="2">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Threshold [dB]" id="1">86</parameter>
+                            <parameter name="Limiter Threshold [dB]" id="12">100</parameter>
+                            <parameter name="Ratio" id="2">17</parameter>
+                            <parameter name="Attack [ms]" id="3">0</parameter>
+                            <parameter name="Release [ms]" id="4">92</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="3" value="50">
+                    <EffectSnapshot name="Overdrive" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Drive [dB]" id="1">0</parameter>
+                            <parameter name="Tone [Hz]" id="2">68</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Channel EQ" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Peak 2 Frequency [Hz]" id="14">500</parameter>
+                            <parameter name="Peak 2 Gain [dB]" id="15">240</parameter>
+                            <parameter name="Peak 2 Q-Factor" id="16">36</parameter>
+                            <parameter name="Peak 3 Gain [dB]" id="19">240</parameter>
+                            <parameter name="High Cut Frequency [Hz]" id="30">748</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Compressor" effectIndex="2">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Threshold [dB]" id="1">60</parameter>
+                            <parameter name="Limiter Threshold [dB]" id="12">100</parameter>
+                            <parameter name="Ratio" id="2">17</parameter>
+                            <parameter name="Attack [ms]" id="3">0</parameter>
+                            <parameter name="Release [ms]" id="4">92</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="3" value="100">
+                    <EffectSnapshot name="Overdrive" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Drive [dB]" id="1">24</parameter>
+                            <parameter name="Tone [Hz]" id="2">72</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Channel EQ" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Peak 2 Frequency [Hz]" id="14">290</parameter>
+                            <parameter name="Peak 2 Gain [dB]" id="15">310</parameter>
+                            <parameter name="Peak 2 Q-Factor" id="16">25</parameter>
+                            <parameter name="Peak 3 Gain [dB]" id="19">290</parameter>
+                            <parameter name="High Cut Frequency [Hz]" id="30">748</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Compressor" effectIndex="2">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Threshold [dB]" id="1">52</parameter>
+                            <parameter name="Limiter Threshold [dB]" id="12">72</parameter>
+                            <parameter name="Ratio" id="2">56</parameter>
+                            <parameter name="Attack [ms]" id="3">13</parameter>
+                            <parameter name="Release [ms]" id="4">77</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+        <EffectBundlePart name="1967 Pocket Transistor">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="Compressor" effectIndex="0">
+                    <effectID>AudioUnit: 0x617566780000009a454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Attack [ms]" id="3">11</parameter>
+                        <parameter name="Release [ms]" id="4">67</parameter>
+                        <parameter name="Make Up [dB]" id="5">28</parameter>
+                        <parameter name="Knee" id="6">7</parameter>
+                        <parameter name="Peak/RMS" id="7" referenceEnumValue="PEAK">0</parameter>
+                        <parameter name="Auto Gain" id="8" referenceEnumValue="0dB">1</parameter>
+                        <parameter name="Wet Distortion" id="9" referenceEnumValue="Off">0</parameter>
+                        <parameter name="Circuit Type" id="10" referenceEnumValue="Platinum Digital">0</parameter>
+                        <parameter name="Limiter Threshold [dB]" id="12">25</parameter>
+                        <parameter name="Limiter" id="13" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Auto Release" id="14" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Dry/Wet Mix [%]" id="25">200</parameter>
+                        <parameter name="Input Gain [dB]" id="27">60</parameter>
+                        <parameter name="Output Gain [dB]" id="28">60</parameter>
+                        <parameter name="Display Select" id="29" referenceEnumValue="Meter">0</parameter>
+                        <parameter name="View Select" id="30" referenceEnumValue="Output">0</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="Channel EQ" effectIndex="1">
+                    <effectID>AudioUnit: 0x61756678000000ec454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Low Cut On/Off" id="1" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Low Cut Slope [dB/Oct]" id="3" referenceEnumValue="24">3</parameter>
+                        <parameter name="Low Cut Q-Factor" id="4">39</parameter>
+                        <parameter name="Low Shelf On/Off" id="5" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Low Shelf Frequency [Hz]" id="6">210</parameter>
+                        <parameter name="Low Shelf Gain [dB]" id="7">240</parameter>
+                        <parameter name="Low Shelf Q-Factor" id="8">34</parameter>
+                        <parameter name="Peak 1 On/Off" id="9" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Peak 1 Frequency [Hz]" id="10">350</parameter>
+                        <parameter name="Peak 1 Gain [dB]" id="11">240</parameter>
+                        <parameter name="Peak 1 Q-Factor" id="12">36</parameter>
+                        <parameter name="Peak 2 On/Off" id="13" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Peak 2 Frequency [Hz]" id="14">500</parameter>
+                        <parameter name="Peak 2 Gain [dB]" id="15">240</parameter>
+                        <parameter name="Peak 2 Q-Factor" id="16">36</parameter>
+                        <parameter name="Peak 3 On/Off" id="17" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Peak 3 Frequency [Hz]" id="18">650</parameter>
+                        <parameter name="Peak 3 Gain [dB]" id="19">325</parameter>
+                        <parameter name="Peak 3 Q-Factor" id="20">27</parameter>
+                        <parameter name="Peak 4 On/Off" id="21" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Peak 4 Frequency [Hz]" id="22">918</parameter>
+                        <parameter name="Peak 4 Q-Factor" id="24">30</parameter>
+                        <parameter name="High Shelf On/Off" id="25" referenceBoolValue="YES">1</parameter>
+                        <parameter name="High Shelf Frequency [Hz]" id="26">934</parameter>
+                        <parameter name="High Cut On/Off" id="29" referenceBoolValue="YES">1</parameter>
+                        <parameter name="High Cut Slope [dB/Oct]" id="31" referenceEnumValue="12">1</parameter>
+                        <parameter name="High Cut Q-Factor" id="32">36</parameter>
+                        <parameter name="Master  Gain [dB]" id="33">165</parameter>
+                        <parameter name="Analyzer On/Off" id="34" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Analyzer Resolution" id="35" referenceEnumValue="low (2048 points)">0</parameter>
+                        <parameter name="Analyzer Top [dB]" id="36">4</parameter>
+                        <parameter name="Analyzer Position" id="39" referenceEnumValue="post EQ">1</parameter>
+                        <parameter name="Analyzer Mode" id="40" referenceEnumValue="Peak">0</parameter>
+                        <parameter name="Analyzer Decay [dB/s]" id="41">10</parameter>
+                        <parameter name="Gain-Q coupling" id="42" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Gain-Q Couple Mode" id="43" referenceEnumValue="light">1</parameter>
+                        <parameter name="Oversampling" id="45" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Channel Mode" id="46" referenceEnumValue="Stereo">0</parameter>
+                        <parameter name="Visualize Master Gain" id="47" referenceBoolValue="YES">1</parameter>
+                        <parameter name="EQ dB Scale Mode" id="48" referenceEnumValue="Linear 60 dB">2</parameter>
+                        <parameter name="EQ Scale Shift" id="49">5</parameter>
+                        <parameter name="Analyzer Range [dB]" id="50" referenceEnumValue="60">0</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="2" value="0">
+                    <EffectSnapshot name="Compressor" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Threshold [dB]" id="1">67</parameter>
+                            <parameter name="Ratio" id="2">17</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Channel EQ" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Low Cut Frequency [Hz]" id="2">375</parameter>
+                            <parameter name="Peak 4 Gain [dB]" id="23">280</parameter>
+                            <parameter name="High Shelf Gain [dB]" id="27">255</parameter>
+                            <parameter name="High Shelf Q-Factor" id="28">30</parameter>
+                            <parameter name="High Cut Frequency [Hz]" id="30">990</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="2" value="50">
+                    <EffectSnapshot name="Compressor" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Threshold [dB]" id="1">44</parameter>
+                            <parameter name="Ratio" id="2">31</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Channel EQ" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Low Cut Frequency [Hz]" id="2">510</parameter>
+                            <parameter name="Peak 4 Gain [dB]" id="23">325</parameter>
+                            <parameter name="High Shelf Gain [dB]" id="27">245</parameter>
+                            <parameter name="High Shelf Q-Factor" id="28">34</parameter>
+                            <parameter name="High Cut Frequency [Hz]" id="30">962</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="2" value="100">
+                    <EffectSnapshot name="Compressor" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Threshold [dB]" id="1">44</parameter>
+                            <parameter name="Ratio" id="2">33</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Channel EQ" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Low Cut Frequency [Hz]" id="2">606</parameter>
+                            <parameter name="Peak 4 Gain [dB]" id="23">325</parameter>
+                            <parameter name="High Shelf Gain [dB]" id="27">290</parameter>
+                            <parameter name="High Shelf Q-Factor" id="28">34</parameter>
+                            <parameter name="High Cut Frequency [Hz]" id="30">994</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+    </EffectBundleParts>
+</EffectBundle>

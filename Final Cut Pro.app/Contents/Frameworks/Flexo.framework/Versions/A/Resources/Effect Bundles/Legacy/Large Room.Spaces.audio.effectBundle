@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EffectBundle version="1">
+    <!--This table defines an effect bundle-->
+    <EffectBundleParts>
+        <EffectBundlePart name="Live">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="AUMatrixReverb" effectIndex="0">
+                    <effectID>AudioUnit: 0x617566786d7265766170706c</effectID>
+                    <Parameters>
+                        <ParameterFolder name="Global" id="1">
+                            <parameter name="small/large mix" id="1">66</parameter>
+                            <parameter name="pre-delay" id="4">0.006800000090152025</parameter>
+                            <parameter name="modulation rate" id="12">1.289999961853027</parameter>
+                            <parameter name="modulation depth" id="13">0.1800000071525574</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="Small Room" id="2">
+                            <parameter name="small size" id="2">0.03550000116229057</parameter>
+                            <parameter name="small density" id="6">0.4699999988079071</parameter>
+                            <parameter name="small hifreq absorption" id="9">0.9819999933242798</parameter>
+                            <parameter name="small delay range" id="11">0.5649999976158142</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="Large Room" id="3">
+                            <parameter name="large size" id="3">0.03400000184774399</parameter>
+                            <parameter name="large delay" id="5">0.02969999983906746</parameter>
+                            <parameter name="large density" id="7">0.9449999928474426</parameter>
+                            <parameter name="large delay range" id="8">0.2849999964237213</parameter>
+                            <parameter name="large hifreq absorption" id="10">0.3370000123977661</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="EQ" id="4">
+                            <parameter name="filter frequency" id="14">800</parameter>
+                            <parameter name="filter bandwidth" id="15">3</parameter>
+                            <parameter name="filter gain" id="16">0</parameter>
+                        </ParameterFolder>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="1" value="0">
+                    <EffectSnapshot name="AUMatrixReverb" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <ParameterFolder name="Global" id="1">
+                                <parameter name="dry/wet mix" id="0">0</parameter>
+                            </ParameterFolder>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="50">
+                    <EffectSnapshot name="AUMatrixReverb" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <ParameterFolder name="Global" id="1">
+                                <parameter name="dry/wet mix" id="0">50</parameter>
+                            </ParameterFolder>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="100">
+                    <EffectSnapshot name="AUMatrixReverb" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <ParameterFolder name="Global" id="1">
+                                <parameter name="dry/wet mix" id="0">100</parameter>
+                            </ParameterFolder>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+        <EffectBundlePart name="Lecture Room">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="PlatinumVerb" effectIndex="0">
+                    <effectID>AudioUnit: 0x6175667800000097454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Predelay [ms]" id="2">15</parameter>
+                        <parameter name="Room Size [m]" id="3">40</parameter>
+                        <parameter name="Room Shape" id="4">2</parameter>
+                        <parameter name="Stereo Base [m]" id="5">2</parameter>
+                        <parameter name="Balance ER/Reverb [%]" id="6">72</parameter>
+                        <parameter name="Initial Delay [ms]" id="7">32</parameter>
+                        <parameter name="Spread [%]" id="8">94</parameter>
+                        <parameter name="Reverb Time [sec]" id="9">17</parameter>
+                        <parameter name="Density [%]" id="10">100</parameter>
+                        <parameter name="Low Ratio [%]" id="11">30</parameter>
+                        <parameter name="Crossover [Hz]" id="12">71</parameter>
+                        <parameter name="High Cut [Hz]" id="13">23</parameter>
+                        <parameter name="Low Freq Level [dB]" id="14">78</parameter>
+                        <parameter name="Diffusion [%]" id="15">100</parameter>
+                        <parameter name="ER Scale [%]" id="16">99</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="1" value="0">
+                    <EffectSnapshot name="PlatinumVerb" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Dry [%]" id="19">100</parameter>
+                            <parameter name="Wet [%]" id="20">0</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="50">
+                    <EffectSnapshot name="PlatinumVerb" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Dry [%]" id="19">100</parameter>
+                            <parameter name="Wet [%]" id="20">78</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="100">
+                    <EffectSnapshot name="PlatinumVerb" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Dry [%]" id="19">0</parameter>
+                            <parameter name="Wet [%]" id="20">100</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+        <EffectBundlePart name="Basic">
+            <defaultValue>0</defaultValue>
+            <Effects>
+                <Effect version="1" name="AUMatrixReverb" effectIndex="0">
+                    <effectID>AudioUnit: 0x617566786d7265766170706c</effectID>
+                    <Parameters>
+                        <ParameterFolder name="Global" id="1">
+                            <parameter name="dry/wet mix" id="0">100</parameter>
+                            <parameter name="small/large mix" id="1">66</parameter>
+                            <parameter name="pre-delay" id="4">0.006800000090152025</parameter>
+                            <parameter name="modulation rate" id="12">1.289999961853027</parameter>
+                            <parameter name="modulation depth" id="13">0.1800000071525574</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="Small Room" id="2">
+                            <parameter name="small size" id="2">0.03550000116229057</parameter>
+                            <parameter name="small density" id="6">0.4699999988079071</parameter>
+                            <parameter name="small hifreq absorption" id="9">0.9819999933242798</parameter>
+                            <parameter name="small delay range" id="11">0.5649999976158142</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="Large Room" id="3">
+                            <parameter name="large size" id="3">0.03400000184774399</parameter>
+                            <parameter name="large delay" id="5">0.02969999983906746</parameter>
+                            <parameter name="large density" id="7">0.9449999928474426</parameter>
+                            <parameter name="large delay range" id="8">0.2849999964237213</parameter>
+                            <parameter name="large hifreq absorption" id="10">0.640500009059906</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="EQ" id="4">
+                            <parameter name="filter frequency" id="14">800</parameter>
+                            <parameter name="filter bandwidth" id="15">3</parameter>
+                            <parameter name="filter gain" id="16">0</parameter>
+                        </ParameterFolder>
+                    </Parameters>
+                </Effect>
+            </Effects>
+        </EffectBundlePart>
+    </EffectBundleParts>
+</EffectBundle>

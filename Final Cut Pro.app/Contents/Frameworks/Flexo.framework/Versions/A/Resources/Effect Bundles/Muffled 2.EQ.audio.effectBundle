@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EffectBundle version="2">
+    <!--This table defines an effect bundle-->
+    <EffectBundleParts>
+        <EffectBundlePart name="Muffled Clean">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="AULowpass" effectIndex="0">
+                    <effectID>AudioUnit: 0x617566786c7061736170706c</effectID>
+                    <Parameters></Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="1" value="0">
+                    <EffectSnapshot name="AULowpass" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="cutoff frequency" id="0">2309.7021484375</parameter>
+                            <parameter name="resonance" id="1">-4.299066543579102</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="50">
+                    <EffectSnapshot name="AULowpass" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="cutoff frequency" id="0">946.6635131835938</parameter>
+                            <parameter name="resonance" id="1">2.990653991699219</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="100">
+                    <EffectSnapshot name="AULowpass" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="cutoff frequency" id="0">111.7719192504883</parameter>
+                            <parameter name="resonance" id="1">12.52336120605469</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+        <EffectBundlePart name="Next Door Style A">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="AULowpass" effectIndex="0">
+                    <effectID>AudioUnit: 0x617566786c7061736170706c</effectID>
+                    <Parameters>
+                        <parameter name="cutoff frequency" id="0">79</parameter>
+                        <parameter name="resonance" id="1">7.48</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="SilverVerb" effectIndex="1">
+                    <effectID>AudioUnit: 0x6175667800000096454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Pre Delay [ms]" id="2">0</parameter>
+                        <parameter name="Reflectivity [%]" id="3">5</parameter>
+                        <parameter name="Room Size" id="4">0</parameter>
+                        <parameter name="High Cut [Hz]" id="5">60</parameter>
+                        <parameter name="Low Cut [Hz]" id="6">3</parameter>
+                        <parameter name="Density/Time [%]" id="7">10</parameter>
+                        <parameter name="Modulation Rate [Hz]" id="8">0</parameter>
+                        <parameter name="Modulation Phase [°]" id="10">4</parameter>
+                        <parameter name="Dry [%]" id="11">90</parameter>
+                        <parameter name="Wet [%]" id="12">68</parameter>
+                        <parameter name="Modulation On/Off" id="13">1</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+        </EffectBundlePart>
+        <EffectBundlePart name="Next Door Style B">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="SilverVerb" effectIndex="0">
+                    <effectID>AudioUnit: 0x6175667800000096454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Pre Delay [ms]" id="2">0</parameter>
+                        <parameter name="Reflectivity [%]" id="3">5</parameter>
+                        <parameter name="Room Size" id="4">0</parameter>
+                        <parameter name="High Cut [Hz]" id="5">60</parameter>
+                        <parameter name="Low Cut [Hz]" id="6">3</parameter>
+                        <parameter name="Density/Time [%]" id="7">10</parameter>
+                        <parameter name="Modulation Rate [Hz]" id="8">0</parameter>
+                        <parameter name="Modulation Phase [°]" id="10">4</parameter>
+                        <parameter name="Dry [%]" id="11">90</parameter>
+                        <parameter name="Wet [%]" id="12">68</parameter>
+                        <parameter name="Modulation On/Off" id="13">1</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="AULowpass" effectIndex="1">
+                    <effectID>AudioUnit: 0x617566786c7061736170706c</effectID>
+                    <Parameters></Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="2" value="0">
+                    <EffectSnapshot name="SilverVerb" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Dry [%]" id="11">50</parameter>
+                            <parameter name="Wet [%]" id="12">50</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="AULowpass" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="cutoff frequency" id="0">1692.116088867188</parameter>
+                            <parameter name="resonance" id="1">-8.224298477172852</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="2" value="50">
+                    <EffectSnapshot name="SilverVerb" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Dry [%]" id="11">75</parameter>
+                            <parameter name="Wet [%]" id="12">68</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="AULowpass" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="cutoff frequency" id="0">508.09423828125</parameter>
+                            <parameter name="resonance" id="1">4.112148284912109</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="2" value="100">
+                    <EffectSnapshot name="SilverVerb" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Dry [%]" id="11">90</parameter>
+                            <parameter name="Wet [%]" id="12">68</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="AULowpass" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="cutoff frequency" id="0">143.3617401123047</parameter>
+                            <parameter name="resonance" id="1">4.672897338867188</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+        <EffectBundlePart name="Basic">
+            <defaultValue>0</defaultValue>
+            <Effects>
+                <Effect version="1" name="AULowpass" effectIndex="0">
+                    <effectID>AudioUnit: 0x617566786c7061736170706c</effectID>
+                    <Parameters>
+                        <parameter name="cutoff frequency" id="0">1000</parameter>
+                        <parameter name="resonance" id="1">-0.3738327026367188</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+        </EffectBundlePart>
+    </EffectBundleParts>
+</EffectBundle>

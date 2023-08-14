@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bounds</key>
+	<string>{{0,0}, {320, 274}}</string>
+	<key>Layouts</key>
+
+	<array>
+		
+		<dict> <!-- Header Module -->
+			<key>Class</key>
+			<string>FFPlayerHeaderModule</string>
+			<key>Identifier</key>
+			<string>Header</string>
+			<key>Geometry</key>
+			<dict>
+				<key>Frame</key>
+				<string>{{0, 250}, {320, 24}}</string>
+			</dict>
+		</dict> <!-- Header Module -->
+			
+		<dict> <!-- Video Module -->
+			<key>Class</key>
+			<string>FFPlayerVideoModule</string>
+			<key>Identifier</key>
+			<string>Video</string>
+			<key>Geometry</key>
+			<dict>
+				<key>Frame</key>
+				<string>{{0, 50}, {320, 200}}</string>
+			</dict>
+		</dict> <!-- Video Module -->
+							
+		<dict> <!-- Controller Pane -->
+			<key>Class</key>
+			<string>FFPlayerControlsModule</string>
+			<key>Identifier</key>
+			<string>Controller</string>
+			<key>Geometry</key>
+			<dict>
+				<key>Frame</key>
+				<string>{{0, 0}, {320, 30}}</string>
+			</dict>
+		</dict> <!-- Controller Pane -->
+			
+	</array>
+
+</dict>
+</plist>

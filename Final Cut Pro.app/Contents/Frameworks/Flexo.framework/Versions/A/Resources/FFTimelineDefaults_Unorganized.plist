@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TLKAlternatingLaneColors</key>
+	<true/>
+	<key>TLKColorizeLaneItems</key>
+	<true/>
+	<key>TLKColorizeLanes</key>
+	<true/>
+	<key>TLKColorizeLanesInMonochrome</key>
+	<false/>
+	<key>TLKColorizeLaneStyle</key>
+	<string>background</string>
+	<key>TLKEnableSelectAllInLane</key>
+	<false/>
+	<key>TLKVerticalCompressionFactor</key>
+	<integer>1</integer>
+	<key>FFAudioLanePadding</key>
+	<integer>4</integer>
+	<key>FFAudioLaneSpacing</key>
+	<integer>10</integer>
+	<key>FFMinimizedLaneHeight</key>
+	<integer>8</integer>
+	<key>FFShowItemAnchors</key>
+	<false/>
+	<key>FFTimelineSelectionShowsRelatedComponents</key>
+	<true/>
+	<key>FFHideComponentWhenOnlyOne</key>
+	<false/>
+</dict>
+</plist>

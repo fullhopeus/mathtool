@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- PEALISTv1: TextSize:0| -->
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sectionName</key>
+		<string></string>
+		<key>groups</key>
+		<array>
+			<dict>
+				<key>groupName</key>
+				<string>Instrument Tapes</string>
+				<key>parameters</key>
+				<array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Layer 1</string>
+							<key>parameterID</key>
+							<integer>20</integer>
+							<key>preferredControlType</key>
+							<string>menu</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Transpose Layer 1</string>
+							<key>parameterID</key>
+							<integer>23</integer>
+							<key>preferredControlType</key>
+							<string>segmentedControl</string>
+						</dict>
+					</array>
+					<dict>
+						<key>name</key>
+						<string>Layer Blend</string>
+						<key>parameterID</key>
+						<integer>22</integer>
+						<key>preferredControlType</key>
+						<string>largeKnob</string>
+					</dict>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Layer 2</string>
+							<key>parameterID</key>
+							<integer>21</integer>
+							<key>preferredControlType</key>
+							<string>menu</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Transpose Layer 2</string>
+							<key>parameterID</key>
+							<integer>24</integer>
+							<key>preferredControlType</key>
+							<string>segmentedControl</string>
+						</dict>
+					</array>
+				</array>
+			</dict>
+			<dict>
+				<key>groupName</key>
+				<string>Sound Controls</string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Tape speed</string>
+						<key>parameterID</key>
+						<integer>25</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Tone</string>
+						<key>parameterID</key>
+						<integer>26</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Volume</string>
+						<key>parameterID</key>
+						<integer>27</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>groupName</key>
+				<string>Envelope</string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Attack</string>
+						<key>parameterID</key>
+						<integer>28</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Release</string>
+						<key>parameterID</key>
+						<integer>29</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Pitch Bend Range</string>
+						<key>parameterID</key>
+						<integer>30</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Fixed Velocity</string>
+						<key>parameterID</key>
+						<integer>44</integer>
+						<key>preferredControlType</key>
+						<string>toggle</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

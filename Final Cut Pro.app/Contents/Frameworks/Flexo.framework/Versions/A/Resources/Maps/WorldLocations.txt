@@ -1,0 +1,1618 @@
+Kabul		Afghanistan	34.591667,69.208333
+Afghanistan			33.939110,67.709953
+Algiers		Algeria	36.775000,3.058333
+Djemila		Algeria	36.300000,5.733333
+Algeria			28.033886,1.659626
+Tirana		Albania	41.308333,19.825000
+Ksamil Village		Albania	40.541667,19.475000
+Albania			41.153332,20.168331
+Andorra La Vella		Andorra	42.525000,1.541667
+Andorra			42.546245,1.601554
+Namibe		Angola	-15.175000,12.158333
+Angola			-11.202692,17.873887
+St Johns		Antigua & Barbuda	17.116667,-61.850000
+Antigua & Barbuda			17.074656,-61.817521
+Oranjestad		Aruba	12.508333,-69.975000
+Aruba			12.521110,-69.968338
+Buenos Aires		Argentina	-34.591667,-58.491667
+Cordoba		Argentina	-31.375000,-64.258333
+Tucuman		Argentina	-26.841667,-65.175000
+El Calafate		Argentina	-50.333333,-72.250000
+Los Cardones National Park		Argentina	-24.783333,-65.416667
+Nahuel Huapi National Park		Argentina	-41.000000,-71.500000
+Purmamarca		Argentina	-23.733333,-65.483333
+Ushuaia		Argentina	-54.800000,-68.300000
+Tolar Grande		Argentina	-24.600000,-67.450000
+Argentina			-38.416097,-63.616672
+Yerevan		Armenia	40.175000,44.525000
+Armenia			40.069100,45.038189
+Adelaide		Australia	-34.941667,138.591667
+Ayers Rock (Uluru)		Australia	-25.391667,131.091667
+Alice Springs		Australia	-23.808333,133.891667
+Brisbane		Australia	-27.475000,153.041667
+Broome		Australia	-17.961944,122.235833
+Cairns		Australia	-16.916667,145.766667
+Port Douglas		Australia	-16.483333,145.465000
+Darwin		Australia	-12.475000,130.858333
+Hobart		Australia	-42.880556,147.325000
+Daintree National Park		Australia	-15.959167,145.401944
+Kakadu National Park		Australia	-13.036389,132.439722
+Canberra		Australia	-35.291667,149.141667
+The Great Barrier Reef		Australia	-18.008333,146.841667
+Melbourne		Australia	-37.825000,144.975000
+Perth		Australia	-31.958333,115.858333
+Sydney		Australia	-33.875000,151.208333
+Australia			-25.274398,133.775136
+Vienna		Austria	48.258333,16.375000
+The Arlberg		Austria	47.127438,10.263775
+Kitzbuhel		Austria	47.445475,12.391944
+Podersdorf am See		Austria	47.850000,16.833333
+Austria			47.516231,14.550072
+Baku		Azerbaijan	40.375000,49.891667
+Azerbaijan			40.143105,47.576928
+Lajes (Terceira)		Azores	38.758333,-27.091667
+Azores			38.758333,-27.091667
+Nassau		Bahamas	25.091667,-77.358333
+Bahamas			25.034280,-77.396280
+Manama		Bahrain	26.175000,50.508333
+Bahrain			25.930414,50.637772
+Bridgetown		Barbados	13.175000,-59.541667
+Barbados			13.193887,-59.543198
+Dhaka		Bangladesh	23.725000,90.375000
+Bangladesh			23.684994,90.356331
+Minsk		Belarus	53.875000,27.508333
+Belarus			53.709807,27.953389
+Brussels		Belgium	50.808333,4.358333
+Belgium			50.503887,4.469936
+Belize City		Belize	17.425000,-88.008333
+Placencia		Belize	16.513889,-88.366667
+Belize			17.189877,-88.497650
+Hamilton		Bermuda	32.341667,-64.758333
+Bermuda			32.321384,-64.757370
+Porto-Novo		Benin	6.391667,2.708333
+Benin			9.307690,2.315834
+Thimphu		Bhutan	27.541667,89.725000
+Bhutan			27.514162,90.433601
+La Paz		Bolivia	-16.508333,-68.158333
+Bolivia			-16.290154,-63.588653
+Moremi Wildlife Reserve		Botswana	-19.181667,23.414167
+Mashatu Game Reserve		Botswana	-21.966667,28.333333
+Okavango Delta		Botswana	-19.000000,23.000000
+Gaborone		Botswana	-24.758333,25.958333
+Botswana			-22.328474,24.684866
+Sarajevo		Bosnia & Herzegovina	43.866667,18.416667
+Bosnia & Herzegovina			43.915886,17.679076
+Amazon Rainforest	Amazonas	Brazil	-5.008333,-65.008333
+Belem	Para	Brazil	-1.458333,-48.491667
+Belo Horizonte	Minas Gerais	Brazil	-19.941667,-43.958333
+Brasilia	Brazilian Federal District	Brazil	-15.875000,-47.925000
+Cuiaba	Mato Grosso	Brazil	-7.258333,-58.425000
+Curitiba	Parana	Brazil	-25.425000,-49.291667
+Fortaleza	Ceara	Brazil	-3.775000,-38.558333
+Iguazu Falls	Parana	Brazil	-25.695278,-54.436667
+Ilheus	Bahia	Brazil	-14.841667,-39.108333
+Manaus	Amazonas	Brazil	-3.108333,-60.008333
+Porto Alegre	Rio Grande do Sul	Brazil	-30.041667,-51.225000
+Porto Velho	Rondonia	Brazil	-8.758333,-63.908333
+Recife	Pernambuco	Brazil	-8.075000,-34.891667
+Rio De Janeiro	Rio de Janeiro	Brazil	-22.925000,-43.208333
+Salvador	Bahia	Brazil	-13.008333,-38.508333
+Santarem	Para	Brazil	-2.441667,-54.691667
+Sao Paulo	Sao Paulo	Brazil	-23.558333,-46.641667
+Valparaiso	Sao Paulo	Brazil	-21.275000,-50.908333
+Brazil			-14.235004,-51.925280
+Bandar Seri Begawan		Brunei Darussalam	4.875000,115.008333
+Brunei Darussalam			4.535277,144.727669
+Sofia		Bulgaria	42.708333,23.341667
+Bulgaria			42.73383,25.485830
+Ouagadougou		Burkina	12.375000,-1.525000
+Burkina			12.238333,-1.561593
+Bujumbura		Burundi	-3.275000,29.308333
+Burundi			-3.373056,29.918886
+Mandalay		Myanmar (Burma)	21.991667,96.108333
+Myanmar (Burma)			21.913965,95.956223
+Yangon		Myanmar (Burma)	16.791667,96.158333
+Bagan		Myanmar (Burma)	21.166667,94.883333
+Phnom Penh		Cambodia	11.558333,104.858333
+Angkor Wat		Cambodia	13.412500,103.866667
+Sihanouk		Cambodia	10.694342,103.756972
+Cambodia			12.565679,104.9900963
+Yaounde		Cameroon	3.875000,11.525000
+Cameroon			7.369722,12.354722
+Praia		Cape Verde	15.041667,-23.575000
+Cape Verde			16.002082,-24.013197
+George Town		Cayman Islands	19.508333,-80.508333
+Cayman Islands			19.513469,-80.566956
+Bangui		Central African Republic	4.391667,18.591667
+Central African Republic			6.611111,20.939444
+Ndjamena		Chad	12.175000,14.991667
+Chad			15.454166,18.732207
+Punta Arenas		Chile	-53.175000,-70.908333
+Easter Island		Chile	-27.091667,-109.341667
+Antofagasta		Chile	-23.675000,-70.391667
+Santiago		Chile	-33.458333,-70.708333
+Puerto Varas		Chile	-41.316667,-72.983333
+Valparaiso		Chile	-33.025000,-71.641667
+Chile			-35.675147,-71.542969
+Chongquing		China mainland	29.558333,106.558333
+Beijing		China mainland	39.925000,116.441667
+Dunhuang		China mainland	40.100000,94.650000
+Lhasa		China mainland	29.408333,90.975000
+Harbin		China mainland	45.758333,126.691667
+Hong Kong		Hong Kong	22.308333,114.175000
+Shanghai		China mainland	31.208333,121.441667
+Xi'an		China mainland	34.275000,108.908333
+Yanshou		China mainland	45.475000,128.375000
+Lijang		China mainland	37.958333,110.975000
+Guillin		China mainland	25.308333,110.258333
+Kashgar		China mainland	39.466667,76.050000
+China mainland			35.861660,104.195397
+Baranquilla		Colombia	10.991667,-74.808333
+Bogota		Colombia	4.608333,-74.091667
+Cali		Colombia	3.425000,-76.508333
+Medellin		Colombia	6.225000,-75.608333
+Colombia			4.570868,-74.297333
+Moroni		Comoros	-11.691667,43.275000
+Comoros			-11.691667,43.275000
+Brazzaville		Congo	-4.258333,15.258333
+Congo			0.228021,15.827659
+San Jose		Costa Rica	9.925000,-84.075000
+La Fortuna		Costa Rica	10.463333,-84.703333
+Papagayo		Costa Rica	10.508333,-85.841667
+Corcovado National Park		Costa Rica	8.550000,-83.583333
+Guanacaste		Costa Rica	10.675000,-85.075000
+Puntarenas		Costa Rica	10.008333,-84.841667
+Punta Islita		Costa Rica	9.850000,-85.366667
+Quepos		Costa Rica	9.450000,-84.150000
+Limon		Costa Rica	10.108333,-83.508333
+Costa Rica			9.748917,-83.753428
+Monteverde Cloud Forest Reserve		Costa Rica	10.308333,-84.791667
+Tortuguero National Park		Costa Rica	10.541111,-83.502222
+Dubrovnik		Croatia	42.658333,18.108333
+Plitvice Lakes National Park		Croatia	44.850000,15.620000
+Split		Croatia	43.500000,16.433333
+Korcula		Croatia	42.950000,17.116667
+Zagreb		Croatia	45.841667,15.975000
+Croatia			44.466244,16.461249
+Havana		Cuba	23.141667,-82.358333
+Cuba			21.521757,-77.781167
+Willemstad		Curacao	12.175000,-69.558333
+Curacao			12.126200,-68.930114
+Nicosia		Cyprus	35.175000,33.425000
+Cyprus			35.126413,33.429859
+Prague		Czech Republic	50.091667,14.425000
+Cesky Krumlov		Czech Republic	48.810833,14.315000
+Kutna Hora		Czech Republic	49.958333,15.275000
+Czech Republic			49.817492,15.472962
+Copenhagen		Denmark	55.691667,12.558333
+Bornholm		Denmark	55.175000,15.008333
+Legoland		Denmark	55.735556,9.126111
+Denmark			55.263920,9.501785
+Djibouti			11.508333,43.091667
+Portsmouth		Dominica	15.575000,-61.458333
+Dominica			15.414999,-61.370976
+Santo Domingo		Dominican Republic	18.491667,-69.908333
+Punta Cana		Dominican Republic	18.567500,-68.363333
+Dominican Republic			18.735693,-70.162651
+Guayaquil		Ecuador	-2.008333,-79.891667
+Otavalo		Ecuador	0.233333,-78.266667
+Quito		Ecuador	-0.225000,-78.541667
+Galapagos Island		Ecuador	-0.660538,-91.029968
+Ecuador			-1.831239,-78.183406
+Dili		East Timor	-8.575000,125.575000
+Abu Simbel		Egypt	21.308333,34.675000
+Cairo		Egypt	29.875000,31.341667
+Aswan		Egypt	24.091667,32.941667
+Pyramids of Giza		Egypt	29.975000,31.225000
+Valley of the Kings		Egypt	25.741667,32.608333
+Egypt			26.820553,30.802498
+San Salvador		El Salvador	13.708333,-89.225000
+El Salvador			13.794185,-88.896530
+Addis Ababa		Ethiopia	9.041667,38.758333
+Mago National Park		Ethiopia	5.666667,36.166667
+Ethiopia			9.145000,40.489673
+Asmara		Eritrea	15.291667,38.925000
+Eritrea			15.179384,39.782334
+Tallinn		Estonia	59.375000,24.808333
+Estonia			58.595273,25.013607
+Nadi		Fiji	-17.791667,177.491667
+Fiji			-16.578193,179.414413
+Helsinki		Finland	60.175000,24.958333
+Finland			61.924110,25.748151
+Aix-en-Provence	Provence	France	43.375000,5.458333
+Saint-Malo	Brittany	France	48.648056,-2.007500
+Lyon	Rhone-Alpes	France	45.708333,4.791667
+Monbazillac	Aquitaine	France	44.795000,0.492500
+Bordeaux	Aquitaine	France	44.841667,-0.575000
+Saint-Tropez	Provence-Alpes-Cote d'Azur	France	43.273056,6.639444
+Saulieu	Burgundy	France	47.280833,4.229444
+Epernay	Champagne	France	49.040278,3.960000
+Chamonix	Rhone-Alpes	France	45.918889,6.865278
+Colmar	Alsace	France	48.081667,7.355556
+Gordes	Provence-Alpes-Cote d'Azur	France	43.911667,5.200556
+Marseilles	Provence-Alpes-Cote d'Azur	France	43.308333,5.391667
+Carcassonne	Languedoc-Roussillon	France	43.220000,2.340000
+Le Mont-st-Michel	Normandy	France	48.675000,-1.508333
+Amboise	Center Loire Valley	France	47.404167,0.980000
+Nantes	Western Loire Valley	France	47.258333,-1.575000
+Nice	Provence-Alpes-Cote d'Azur	France	43.708333,7.275000
+Paris	Ile-de-France	France	48.825000,2.491667
+Avignon	Provence-Alpes-Cote d'Azur	France	44.590556,5.355278
+Port-en-Bessin	Normandy	France	49.345000,-0.753889
+Strasbourg	Alsace	France	48.584444,7.748611
+Saint-Jean-de-Luz	Aquitaine	France	43.391111,-1.658611
+Saint-Jean-Pied-de-Port	Aquitaine	France	43.165000,-1.235556
+Vaison-la-Romaine	Provence-Alpes-Cote d'Azur	France	44.242247,5.072422
+Villandry	Center Loire Valley	France	47.333333,0.516667
+Porto-Vecchio	Corsica	France	41.591667,9.280278
+Palace of Versailles	Ile-de-France	France	48.808333,2.141667
+Les Baux-de-Provence	Provence-Alpes-Cote d'Azur	France	43.743889,4.795278
+Mercantour National Park	Provence-Alpes-Cote d'Azur	France	44.142778,7.127500
+Cevennes National Park	Languedoc-Roussillon	France	44.193889,3.581389
+Port-Cros National Park	Provence-Alpes-Cote d'Azur	France	43.004167,6.395278
+Torreilles Plages	Languedoc-Roussillon	France	42.755690,2.992836
+Portes du Soleil	Rhone-Alpes	France	46.194547,6.76834
+Trois Vallees	Rhone-Alpes	France	45.322930,6.537571
+Val dIsere	Rhone-Alpes	France	45.448724,6.980346
+France			46.227638,2.213749
+Cayenne		French Guiana	4.941667,-52.458333
+French Guiana			3.933889,-53.125782
+Tahiti		French Polynesia	-17.875000,-149.941667
+French Polynesia			-17.679742,-149.406843
+Banjul		Gambia	13.453056,-16.577500
+Kiang West National Park		Gambia	13.383333,-15.916667
+Gambia			13.443182,-15.310139
+Libreville		Gabon	0.425000,9.441667
+Gabon			-0.803689,11.609444
+Berlin	Berlin	Germany	52.508333,13.425000
+Bremen	Bremen	Germany	53.075000,8.791667
+Dusseldorf	North Rhine-Westphalia	Germany	51.241667,6.791667
+Dresden	Saxony	Germany	51.033333,13.733333
+Badenweiler	Baden-Wurttemberg	Germany	47.801667,7.671944
+Bamberg	Franconia	Germany	49.891667,10.891667
+Hamburg	Hamburg	Germany	53.558333,9.975000
+Heidelberg	Baden-Wurttemberg	Germany	49.408333,8.708333
+Halle	Saxony-Anhalt	Germany	51.466667,11.966667
+Koblenz	Rhineland-Palatinate	Germany	50.358333,7.608333
+Frankfurt	Hesse	Germany	50.125000,8.691667
+Gottingen	Lower Saxony	Germany	51.533889,9.935556
+Hannover	Lower Saxony	Germany	52.408333,9.675000
+Goslar	Lower Saxony	Germany	51.907222,10.430000
+Lubeck	Schleswig-Holstein	Germany	53.869722,10.686389
+Cologne	North Rhine-Westphalia	Germany	50.941667,6.958333
+Mainz	Rhineland-Palatinate	Germany	50.025000,8.241667
+Mannheim	Baden-Wurttemberg	Germany	49.575000,8.475000
+Munich	Bavaria	Germany	48.158333,11.575000
+Magdeburg	Saxony-Anhalt	Germany	52.133333,11.616667
+Meissen	Saxony	Germany	51.163611,13.477500
+Neuschwanstein Castle	Bavaria	Germany	47.866667,12.166667
+Potsdam	Brandenburg	Germany	52.400000,13.066667
+Stuttgart	Baden-Wurttemberg	Germany	48.778611,9.179444
+Thuringian Forest	Thuringia	Germany	50.666667,10.833333
+Trier	Rhineland-Palatinate	Germany	49.758333,6.641667
+Wismar	Mecklenburg-Vorpommern	Germany	53.900000,11.466667
+Bavarian Forest National Park	Bavaria	Germany	49.112222,13.134444
+Germany			51.165691,10.451526
+Upper Rock nature Reserve		Gibraltar	36.141667,-5.358333
+Gibraltar			36.137741,-5.345374
+Accra		Ghana	5.558333,-0.208333
+Ghana			7.946527,-1.023194
+Athens	Attica	Greece	37.975000,23.725000
+Thessaloniki	Central Macedonia	Greece	40.625000,22.958333
+Mykonos	Cyclades	Greece	37.441667,25.341667
+Meteora	Thessaly	Greece	39.714167,21.631111
+Corfu	Ionian Islands	Greece	39.641667,19.841667
+Crete	Crete	Greece	35.258333,25.008333
+Delphi	Central Greece	Greece	38.633333,23.833333
+Ithaca	Ionian Islands	Greece	38.350000,20.650000
+Kefalonia	Ionian Islands	Greece	38.200000,20.500000
+Limeni	Peloponnese	Greece	36.677778,22.380278
+Santorini	South Aegean	Greece	36.391667,25.458333
+Samothraki	East Macedonia	Greece	39.808333,19.525000
+Symi	Dodecanese	Greece	36.583333,27.833333
+Naxos	Cyclades	Greece	37.141667,25.425000
+Chios	North Aegean	Greece	38.458333,26.158333
+Paros	Cyclades	Greece	37.083333,25.150000
+Samos	North Aegean	Greece	37.758333,26.841667
+Greece			39.074208,21.824312
+Narsarssuaq		Greenland	61.191667,-45.425000
+Scoresbysund		Greenland	70.508333,-22.008333
+Thule		Greenland	76.591667,-68.508333
+Greenland			71.706936,-42.604303
+St. Georges		Grenada	12.091667,-61.725000
+Grenada			12.262776,-61.604171
+Guatemala City		Guatemala	14.625000,-90.525000
+Tikal		Guatemala	17.225000,-89.408333
+Lake Atitlan		Guatemala	14.700000,-91.200000
+Guatemala			15.783471,-90.230759
+Conarky		Guinea	9.525000,-13.708333
+Guinea			9.945587,-9.696645
+Bissau		Guinea-Bissau	11.875000,-15.608333
+Guinea-Bissau			11.803749,-15.180413
+Georgetown		Guyana	6.841667,-58.208333
+Guyana			4.860416,-58.930180
+Port Au Prince		Haiti	18.558333,-72.341667
+Haiti			18.971187,-72.285215
+Tegucigalpa		Honduras	14.108333,-87.225000
+San Salvador		Honduras	13.690000,-89.190000
+Copan		Honduras	14.840000,-89.140000
+Honduras			15.199999,-86.241905
+Budapest		Hungary	47.525000,19.041667
+Gyor		Hungary	47.684167,17.634444
+Tarcal		Hungary	48.131111,21.342500
+Fertorakos		Hungary	47.720000,16.651944
+Hortobagy National Park		Hungary	47.583333,21.166667
+Hungary			47.162494,19.503304
+Reykjavik		Iceland	64.141667,-21.941667
+Iceland			64.963051,-19.020835
+Allahabad	Uttar Pradesh	India	25.425000,81.975000
+Amritsar	Punjab	India	31.591667,74.958333
+Puri	Orissa	India	19.841667,85.975000
+Bangalore	Karnataka	India	12.958333,77.625000
+Mumbai	Maharashtra	India	18.908333,72.825000
+Kochi	Kerala	India	9.976944,76.270000
+Dharamsala	Himachal Pradesh	India	32.275000,76.391667
+Calcutta	West Bengal	India	22.541667,88.341667
+Vrindavan	Uttar Pradesh	India	27.625000,77.675000
+Meenakshi Temple	Tamil Nadu	India	9.925000,78.175000
+Chennai	Tamil Nadu	India	13.075000,80.258333
+Nagpur	Maharashtra	India	21.158333,79.125000
+New Delhi	National Capital Territory of Delhi	India	28.591667,77.208333
+Varanasi	Uttar Pradesh	India	25.375000,83.008333
+Taj Mahal	Uttar Pradesh	India	27.291667,77.975000
+Kanha National Park	Madhya Pradesh	India	22.333333,80.633333
+Periyar National Park	Kerala	India	9.466667,77.166667
+Ladakh	Jammu and Kashmir	India	34.140000,77.550000
+Darjeeling	West Bengal	India	27.030000,88.160000
+Udaipur	Rajasthan	India	24.580000,73.680000
+Jodhpur	Rajasthan	India	26.280000,73.020000
+Jaipur	Rajasthan	India	26.925833,75.823333
+India			20.593684,78.962880
+Jakarta		Indonesia	-6.191667,106.841667
+Bali		Indonesia	-8.341667,115.008333
+Komodo		Indonesia	-8.625000,119.341667
+Borobudur		Indonesia	-6.891667,109.675000
+Sumatra		Indonesia	-3.008333,104.775000
+Indonesia			-0.789275,113.921327
+Abadan		Iran	30.358333,48.275000
+Meshed		Iran	36.291667,59.608333
+Tehran		Iran	35.691667,51.425000
+Iran			32.427908,53.688046
+Baghdad		Iraq	33.341667,44.408333
+Mosul		Iraq	36.325000,43.158333
+Iraq			33.223191,43.679291
+Cork		Ireland	51.908333,-8.475000
+Clifden		Ireland	53.483056,-10.016667
+Dublin		Ireland	53.375000,-6.358333
+Shannon		Ireland	52.691667,-8.925000
+Galway		Ireland	53.272778,-9.041667
+Killarney		Ireland	52.058333,-9.508333
+Ireland			53.412910,-8.243890
+Jerusalem		Israel	31.791667,35.225000
+Tel Aviv		Israel	32.108333,34.791667
+Israel			31.046051,34.851612
+Milan	Lombardy	Italy	45.458333,9.291667
+Avellino	Campania	Italy	40.908333,14.791667
+Bellagio	Lombardy	Italy	45.983333,9.250000
+Bari	Apulia	Italy	41.133333,16.866667
+Capri	Campania	Italy	40.558333,14.241667
+Cernobbio	Lombardy	Italy	45.833333,9.066667
+Courmayeur	Aosta Valley	Italy	45.783333,6.966667
+Florence	Tuscany	Italy	43.775000,11.258333
+Genova	Liguria	Italy	44.425000,8.958333
+Naples	Campania	Italy	40.891667,14.308333
+Monforte d'Alba	Piedmont	Italy	44.583333,7.966667
+Montepulciano	Tuscany	Italy	43.100000,11.783333
+Palermo	Sicily	Italy	38.125000,13.375000
+Leaning Tower of Pisa	Tuscany	Italy	43.725000,10.391667
+Pisa	Tuscany	Italy	43.683889,10.392500
+Rome	Lazio	Italy	41.808333,12.608333
+Orta San Giulio	Piedmont	Italy	45.800000,8.400000
+Orvieto	Umbria	Italy	42.716667,12.100000
+Pompeii	Campania	Italy	40.791667,14.375000
+Positano	Campania	Italy	40.641667,14.491667
+Siena	Tuscany	Italy	43.316667,11.350000
+Saluzzo	Piedmont	Italy	44.650000,7.483333
+Scicli	Ragusa	Italy	36.783333,15.150000
+San Gimignano	Tuscany	Italy	43.466667,11.050000
+Taormina	Sicily	Italy	37.850000,15.283333
+Turin	Piedmont	Italy	45.066667,7.700000
+Trieste	Friuli-Venezia Giulia	Italy	45.633333,13.800000
+Venice	Veneto	Italy	45.433333,12.333333
+Pollino National Park	Calabria	Italy	39.983056,16.300000
+Monti Sibillini National Park	Umbria	Italy	42.900000,13.216667
+The Dolomites	Veneto	Italy	46.383333,11.850000
+Cortina	Veneto	Italy	46.537383,12.138922
+Italy			41.871940,12.567380
+Abidjan		Cote Divoire	5.325000,-4.025000
+Cote Divoire			7.539989,-5.547080
+Kingston		Jamaica	18.258333,-77.508333
+Jamaica			18.109581,-77.297508
+Fukuoka		Japan	33.591667,130.458333
+Kagoshima		Japan	31.625000,130.541667
+Sapporo		Japan	43.075000,141.358333
+Tokyo		Japan	35.691667,139.775000
+Shinjuku		Japan	35.693840,139.703549
+Nara		Japan	34.675000,135.825000
+Mt Fuji		Japan	35.375000,138.741667
+Kyoto		Japan	35.008333,135.758333
+Osaka		Japan	34.675000,135.508333
+Nagano		Japan	36.075000,138.175000
+Yokohama		Japan	35.458333,139.475000
+Beppu		Japan	33.283333,131.483333
+Miyajima		Japan	34.295833,132.319722
+Nanao City		Japan	37.350000,136.933333
+Nikko		Japan	36.749559,139.610901
+Suwa		Japan	36.749559,139.610901
+Keramashuto	Okinawa	Japan	26.516762,128.085079
+Iriomote jima	Okinawa	Japan	24.330061,123.818798
+Izu		Japan	34.916715,139.103715
+Niseko		Japan	42.821003,140.683514
+Furano		Japan	43.403641,142.395294
+Kobe		Japan	34.692251,135.164986
+Kamakura		Japan	35.330580,139.535612
+Tokyo Opera City		Japan	35.595045,139.584999
+Japan			36.204824,138.252924
+Amman		Jordan	31.958333,35.958333
+Petra		Jordan	30.341667,35.375000
+Jordan			30.585164,36.238414
+Astana		Kazakhstan	51.175000,71.508333
+Kazakhstan			48.019573,66.923684
+Nairobi		Kenya	-1.275000,36.808333
+Masai Mara		Kenya	-1.816667,35.333056
+Amboseli National Park		Kenya	-2.675000,37.175000
+Kenya			-0.023559,37.906193
+South Tarawa		Kiribati	1.475000,173.041667
+Kiribati			1.475000,173.041667
+Pyongyang		North Korea	39.041667,125.691667
+North Korea			40.339852,127.510093
+Seoul		South Korea	37.575000,126.975000
+Mt Seoraksan National Park		South Korea	37.758333,128.491667
+Gyeongju		South Korea	35.850000,129.216667
+Busan		South Korea	35.091667,129.008333
+South Korea			35.907757,127.76692
+Pristina		Kosovo	42.666667,21.166667
+Kosovo			42.579698,20.691848
+Kuwait			29.341667,48.008333
+Bishek		Kyrgyzstan	42.866667,74.600000
+Kyrgyzstan			41.204380,74.766098
+Vientiane		Laos	17.975000,102.608333
+Laos			19.856270,102.495496
+Riga		Latvia	56.675000,24.133333
+Latvia			56.879635,24.603189
+Beirut		Lebanon	33.908333,35.475000
+Baalbek		Lebanon	34.008333,36.175000
+Lebanon			33.854721,35.862285
+Maseru		Lesotho	-29.300000,27.466667
+Lesotho			-29.300000,27.466667
+Monrovia		Liberia	6.308333,-10.808333
+Liberia			6.428055,-9.429499
+Benghazi		Libya	32.108333,20.075000
+Tripoli		Libya	32.908333,13.191667
+Libya			26.335100,17.228331
+Vaduz		Lichtenstein	47.141667,9.523333
+Lichtenstein			47.141667,9.523333
+Vilnius		Lithuania	54.641667,25.325000
+Lithuania			55.169438,23.881275
+Luxembourg			49.625000,6.158333
+Skopje		Macedonia	42.008333,21.441667
+Macedonia			41.608635,21.745275
+Antananarivo		Madagascar	-18.925000,47.558333
+Madagascar			-18.925000,47.558333
+Lilongwe		Malawi	-14.008333,33.783333
+Malawi			-14.008333,33.783333
+Male		Maldives	4.008333,73.008333
+Maldives			4.008333,73.008333
+Bamako		Mali	12.658333,-8.008333
+Timbuktu		Mali	16.825000,-2.991667
+Mali			17.570692,-3.996166
+Kuala Lumpur		Malaysia	3.125000,101.708333
+Penang		Malaysia	5.425000,100.325000
+Malaysia			4.210484,101.975766
+Valletta		Malta	35.908333,14.525000
+Malta			35.908333,14.525000
+Chisnau		Moldova	47.041667,28.841667
+Moldova			47.411631,28.369885
+Monte-Carlo		Monaco	43.775000,7.391667
+Monaco			43.775000,7.391667
+Fort De France		Martinique	14.625000,-61.091667
+Martinique			14.625000,-61.091667
+Port Louis		Mauritius	-20.175000,57.508333
+Mauritius			-20.175000,57.508333
+Nouakchott		Mauritania	18.158333,-15.975000
+Mauritania			21.007890,-10.940835
+Acapulco	Guerrero	Mexico	16.858333,-99.941667
+Guadalajara	Jalisco	Mexico	20.691667,-103.341667
+Cancun	Quintana Roo	Mexico	21.141667,-86.741667
+Chamela	Jalisco	Mexico	19.530000,-105.073333
+Cozumel	Quintana Roo	Mexico	20.525000,-86.925000
+Puerto Escondido	Oaxaca	Mexico	15.841667,-97.058333
+Playa del Carmen	Quintana Roo	Mexico	20.616667,-87.066667
+Puerto Angel	Oaxaca	Mexico	15.675000,-96.491667
+Puerto Vallarta	Jalisco	Mexico	20.608333,-105.258333
+Cabo San Lucas	Baja California Sur	Mexico	24.175000,-110.341667
+Chichen Itza	Yucatan	Mexico	20.666944,-88.569167
+Isla Mujeres	Quintana Roo	Mexico	21.216667,-86.716667
+Loreto	Baja California Sur	Mexico	26.016667,-111.350000
+Merida	Yucatan	Mexico	20.975000,-89.641667
+Mexico City	State of Mexico	Mexico	19.408333,-99.208333
+Oaxaca	Oaxaca	Mexico	17.041667,-96.675000
+San Miguel de Allende	Guanajuato	Mexico	20.925000,-100.758333
+Tijuana	Baja California	Mexico	32.541667,-117.025000
+Teotihuacan	State of Mexico	Mexico	20.175000,-98.675000
+Tulum	Quintana Roo	Mexico	20.214722,-87.428889
+Veracruz	Veracruz	Mexico	19.208333,-96.141667
+The Copper Canyon	Chihuahua	Mexico	27.516111,-107.765833
+Todos Santos	Baja California Sur	Mexico	23.448889,-110.225556
+Isla Espiritu Santo	Baja California Sur	Mexico	24.466667,-110.333333
+Mexico			23.634501,-102.552784
+Chuuk Islands		Micronesia	7.508333,151.841667
+Micronesia			7.508333,151.841667
+Mongolia			46.862496,103.846656
+Casablanca		Morocco	33.591667,-7.658333
+Fez		Morocco	34.008333,-5.008333
+Tangier		Morocco	35.841667,-5.825000
+Rabat		Morocco	34.041667,-6.808333
+Marrakech		Morocco	31.158333,-8.008333
+Essaouira		Morocco	31.513056,-9.769722
+Morocco			31.791702,-7.092620
+Podgorica		Montenegro	42.470000,19.280000
+Durmitor National Park		Montenegro	43.133333,19.016667
+Sveti Stefan		Montenegro	42.255556,18.891111
+Kotor		Montenegro	42.430000,18.770000
+Montenegro			42.708678,19.374390
+Beira		Mozambique	-19.825000,34.875000
+Maputo		Mozambique	-25.975000,32.591667
+Mozambique			-18.665695,35.529562
+Sossusvlei		Namibia	-24.733333,15.366667
+Windhoek		Namibia	-22.574167,17.080556
+Etosha National Park		Namibia	-18.520000,16.275000
+Twyfelfontein		Namibia	-20.590556,14.372222
+Namibia			-22.957640,18.490410
+Yaren		Nauru	-0.558333,166.925000
+Nauru			-0.558333,166.925000
+Katmandu		Nepal	27.708333,85.208333
+Mt Everest		Nepal	27.988056,86.925278
+Nepal			28.394857,84.124008
+Amsterdam		The Netherlands	52.391667,4.925000
+Hoge Veluwe National Park		The Netherlands	52.083333,5.833333
+Kinderdijk		The Netherlands	51.883333,4.633333
+The Netherlands			52.132633,5.291266
+Abel Tasman National Park		New Zealand	-40.833333,172.900000
+Auckland		New Zealand	-36.858333,174.775000
+Arthur's Pass		New Zealand	-42.903056,171.561667
+Christchurch		New Zealand	-43.541667,172.625000
+Dunedin		New Zealand	-45.866667,170.500000
+Franz Josef Glacier		New Zealand	-43.466944,170.191389
+Queenstown		New Zealand	-45.025000,168.675000
+Milford Sound		New Zealand	-44.691667,167.791667
+Stewart Island/Rakiura		New Zealand	-46.900000,168.133333
+Wellington		New Zealand	-41.291667,174.775000
+Waitangi		New Zealand	-35.266111,174.080000
+New Zealand			-40.900557,174.885971
+Managua		Nicaragua	12.175000,-86.258333
+Nicaragua			12.865416,-85.207229
+Niamey		Niger	13.521389,2.105278
+Niger			17.607789,8.081666
+Lagos		Nigeria	6.458333,3.408333
+Kano		Nigeria	12.008333,8.525000
+Nigeria			9.081999,8.675277
+Bergen		Norway	60.408333,5.325000
+Voss		Norway	60.702500,6.423056
+Jostedal Glacier		Norway	61.666667,6.983333
+Oslo		Norway	59.941667,10.741667
+Lofoten Islands		Norway	67.308333,4.441667
+Hardangervidda National Park		Norway	60.050000,7.416667
+Norway			60.472024,8.468946
+Muscat		Oman	23.625000,58.608333
+Oman			21.512583,55.923255
+Karachi		Pakistan	24.808333,66.991667
+Islamabad		Pakistan	33.675000,73.141667
+Lahore		Pakistan	31.591667,74.341667
+Peshwar		Pakistan	34.025000,71.591667
+Pakistan			30.375321,69.345116
+Panama City		Panama	8.975000,-79.558333
+Boquete		Panama	8.780000,-82.440000
+Panama			8.537981,-80.782127
+Melekeok		Palau	7.358333,134.475000
+Palau			7.358333,134.475000
+Port Moresby		Papua New Guinea	-9.491667,147.158333
+Papua New Guinea			-6.314993,143.955550
+Ascuncion		Paraguay	-25.291667,-57.508333
+Paraguay			-23.442503,-58.443832
+Lima		Peru	-12.091667,-77.058333
+Arequipa		Peru	-16.425000,-71.541667
+Iquitos		Peru	-3.858333,-73.225000
+Machu Picchu		Peru	-13.163056,-72.545556
+Peru			-9.189967,-75.015152
+Manila		Philippines	14.591667,120.991667
+Banaue		Philippines	17.125000,120.975000
+Philippines			12.879721,121.774017
+Krakow		Poland	50.075000,19.958333
+Warsaw		Poland	52.225000,21.041667
+Poland			51.919438,19.145136
+Lisbon		Portugal	38.725000,-9.141667
+Monsaraz		Portugal	38.433333,-7.383333
+Evora		Portugal	38.550000,-7.950000
+Cabo da Roca		Portugal	38.780833,-9.498333
+Peneda-Geres National Park		Portugal	41.716667,-8.150000
+Portugal			39.399872,-8.224454
+San Juan		Puerto Rico	18.491667,-66.125000
+Puerto Rico			18.220833,-66.590149
+Doha		Qatar	25.258333,51.591667
+Qatar			25.258333,51.591667
+Bucharest		Romania	44.425000,26.108333
+Romania			45.943161,24.966760
+Kiev		Ukraine	50.458333,30.508333
+Ukraine			48.379433,31.165580
+Petropavlovsk		Kazakhstan	52.891667,158.708333
+Tbilisi		Georgia	41.725000,44.808333
+Georgia			41.725000,44.808333
+Lake Baikal		Russia	51.491667,55.775000
+Moscow		Russia	55.775000,37.675000
+Russia			61.524010,105.318756
+Odessa		Ukraine	46.491667,30.741667
+Ulan Ude		Russia	51.841667,107.841667
+Volgograd		Russia	48.804722,44.585556
+Kostroma		Russia	57.750000,40.933333
+St. Petersburg		Russia	59.941667,30.308333
+Uglitsch		Russia	57.527500,38.331667
+Yaroslavl		Russia	57.591667,39.841667
+Kigali		Rwanda	-1.958333,30.075000
+Volcanoes National Park		Rwanda	-1.508333,29.608333
+Rwanda			-1.940278,29.873888
+Mecca		Saudi Arabia	22.491667,39.758333
+Jedda		Saudi Arabia	21.475000,39.175000
+Riyadh		Saudi Arabia	24.658333,46.708333
+Medina		Saudi Arabia	24.466667,39.600000
+Meda'in Saleh		Saudi Arabia	26.814167,37.947500
+Saudi Arabia			23.885942,45.079162
+Senegal			14.497401,-14.452362
+Dakar		Senegal	14.708333,-17.491667
+Singapore			1.308333,103.841667
+Mogadishu		Somalia	2.093631,45.333109
+Somalia			5.152149,46.199616
+Apia		Samoa	-13.808333,-171.758333
+Samoa			-13.808333,-171.758333
+San Marino	San Marino	Italy	43.933333,12.433333
+Sao Tome And Principe			0.333333,6.733333
+Bratislava		Slovakia	48.144722,17.112778
+Tatranska Lomnica		Slovakia	49.166667,20.283333
+Slovakia			48.669026,19.699024
+Ljubljana		Slovenia	46.051389,14.505556
+Triglavski National Park		Slovenia	46.383333,13.833333
+Slovenia			46.051389,14.505556
+Honiara		Solomon Islands	-9.466667,159.816667
+Solomon Islands			-9.466667,159.816667
+Cape Town		South Africa	-33.941667,18.491667
+South Africa			-30.559482,22.937506
+Belgrade		Serbia	44.800000,20.466667
+Serbia			44.800000,20.466667
+Freetown		Sierra Leone	8.479,-13.2684
+Sierra Leone			8.460555,-11.779889
+Johannesburg		South Africa	-26.191667,28.058333
+Kruger National Park		South Africa	-24.000000,31.666667
+Pretoria		South Africa	-25.758333,28.058333
+Durban		South Africa	-29.825000,31.025000
+Walker Bay		South Africa	-34.500000,19.333333
+George		South Africa	-33.966667,22.450000
+Aden		South Yemen	12.841667,45.041667
+South Yemen			15.552727,48.516388
+Barcelona	Catalonia	Spain	41.408333,2.158333
+Avila	Castile and Leon	Spain	40.650000,-4.700000
+Baiona	Galicia	Spain	42.114524,-8.856697
+Bilbao	Biscay	Spain	43.264167,-2.923750
+Cuenca	Castile-La Mancha	Spain	40.066667,-2.150000
+Madrid	Madrid	Spain	40.425000,-3.691667
+Santo Domingo de la Calzada	La Rioja	Spain	42.250000,-2.500000
+Salamanca	Castile and Leon	Spain	40.966667,-5.650000
+Valencia	Valencia	Spain	39.475000,-0.391667
+Granada	Andalusia	Spain	37.175000,-3.591667
+Roncesvalles	Navarre	Spain	42.989722,-1.334444
+Sevilla	Andalusia	Spain	37.391667,-5.975000
+Cordoba	Andalusia	Spain	37.879167,-4.779722
+Ibiza	Balearic Islands	Spain	38.980000,1.430000
+Majorca	Balearic Islands	Spain	39.566667,2.650000
+Marbella	Andalusia	Spain	36.516667,-4.883333
+Tenerife	Canary Islands	Spain	28.316667,-16.566667
+Zaragoza	Aragon	Spain	41.650000,-0.900000
+Toledo	Castile-La Mancha	Spain	39.867500,-4.023611
+Las Palmas de Gran Canaria	Canary Islands	Spain	28.135000,-15.435000
+Donana National Park	Andalusia	Spain	37.000000,-6.500000
+Teide National Park	Canary Islands	Spain	28.270833,-16.639167
+Cabo de Gata-Nijar Natural Park	Andalusia	Spain	36.850000,-2.100000
+Santiago de Compostela	Galicia	Spain	42.882500,-8.541111
+Spain			40.463667,-3.749220
+Colombo		Sri Lanka	6.908333,79.875000
+Sri Lanka			7.873054,80.771797
+Brimstone Hill Fortress National Park		St Kitts & Nevis	17.258333,-62.675000
+St Kitts & Nevis			17.258333,-62.675000
+Marigot Bay		St Lucia	14.041667,-60.975000
+St Lucia			14.041667,-60.975000
+Kingstown		St Vincent & The Grenadines	13.166667,-61.233333
+St Vincent & The Grenadines			13.166667,-61.233333
+Khartoum		Sudan	15.625000,32.558333
+Sudan			12.862807,30.217636
+Paramaribo		Surinam	5.825000,-55.158333
+Surinam			3.919305,-56.027783
+Mbabane		Eswatini	-26.316667,31.133333
+Eswatini			-26.522503,31.465866
+Stockholm		Sweden	59.358333,18.075000
+Sweden			60.128161,18.643501
+Zurich		Switzerland	47.391667,8.558333
+The Matterhorn		Switzerland	45.975000,7.658333
+Jungfrau		Switzerland	46.536744,7.962708
+Verbier		Switzerland	46.096770,7.229223
+Zermatt		Switzerland	46.019338,7.746026
+Gstaad		Switzerland	46.472927,7.286370
+Kandersteg		Switzerland	46.500000,7.666667
+Berne		Switzerland	46.958333,7.441667
+Verbier		Switzerland	46.100000,7.216667
+Switzerland			46.818188,8.227512
+Victoria		Seychelles	-9.375000,46.475000
+Seychelles			-9.375000,46.475000
+Damascus		Syria	33.508333,36.341667
+Palmyra		Syria	34.608333,38.258333
+Syria			34.802075,38.996815
+Tainan		Taiwan	22.958333,120.208333
+Taipei		Taiwan	25.041667,121.525000
+Taiwan			23.697810,120.960514
+Dushanbe		Tajikistan	38.536667,68.780000
+Tajikistan			38.861034,71.276093
+Lome		Togo	6.137778,1.212500
+Togo			8.619543,0.824782
+Nukualofa		Tonga	-21.133333,-175.200000
+Tonga			-21.133333,-175.200000
+Dar es Salaam		Tanzania	-6.841667,39.308333
+Mt Kilimanjaro		Tanzania	-3.083056,37.500000
+Lindi		Tanzania	-10.008333,39.691667
+Ngorongoro crater		Tanzania	-3.191667,35.541667
+Zanzibar		Tanzania	-6.175000,39.341667
+Serengeti National Park		Tanzania	-1.250000,34.000000
+Tanzania			-6.369028,34.888822
+Bangkok		Thailand	13.741667,100.508333
+Chiang Mai		Thailand	18.791667,98.991667
+Phuket		Thailand	7.891667,98.408333
+Ko Samui		Thailand	9.508333,100.008333
+Thailand			15.870032,100.992541
+Port of Spain		Trinidad & Tobago	10.675000,-61.525000
+Trinidad & Tobago			10.675000,-61.525000
+Tunis		Tunisia	36.791667,10.208333
+Tunisia			33.886917,9.537499
+Adana		Turkey	36.991667,35.308333
+Antalya		Turkey	36.900000,30.683333
+Ankara		Turkey	39.958333,32.891667
+Cappadocia		Turkey	38.558333,34.675000
+Istanbul		Turkey	40.975000,28.841667
+Izmir		Turkey	38.441667,27.175000
+Turkey			38.963745,35.243322
+Cockburn Town		Turks And Caicos	21.808333,-71.225000
+Turks And Caicos			21.808333,-71.225000
+Ashgabat		Turkmenistan	37.966667,58.333333
+Turkmenistan			38.969719,59.556278
+Funafuti		Tuvalu	-8.516667,179.216667
+Tuvalu			-8.516667,179.216667
+Kampala		Uganda	0.325000,35.425000
+Bwindi Impenetrable Forest		Uganda	-1.080556,29.661389
+Uganda			1.373333,32.290275
+Brighton	East Sussex	U.K.	50.825000,-0.125000
+Belfast	County Antrim	U.K.	54.608333,-5.925000
+Bristol	Bristol	U.K.	51.441667,-2.591667
+Cotswolds	Gloucestershire	U.K.	52.000000,-1.700000
+Aberdeen	Aberdeen	U.K.	57.158333,-2.158333
+Bath	Somerset	U.K.	51.380833,-2.360278
+Birmingham	West Midlands	U.K.	52.491667,-1.941667
+Truro	Cornwall	U.K.	50.260000,-5.051000
+Eilean Donan Castle	Highland	U.K.	57.273889,-5.516111
+Inverness	Highland	U.K.	57.471667,-4.225278
+Isle of Skye	Highland	U.K.	57.411944,-6.189444
+Manchester	Greater Manchester	U.K.	53.466667,-2.233333
+Liverpool	Merseyside	U.K.	53.400000,-3.000000
+Cardiff	Wales	U.K.	51.475000,-3.175000
+Hadrian's Wall	Northumberland	U.K.	55.024167,-2.292500
+Edinburgh	Edinburgh	U.K.	55.925000,-3.191667
+Grasmere	Cumbria	U.K.	54.450000,-3.016667
+Glasgow	Glasgow	U.K.	55.875000,-4.291667
+Snowdonia	Wales	U.K.	52.900000,-3.850000
+Stonehenge	Wiltshire	U.K.	51.075000,-1.808333
+Stratford-upon-Avon	Warwickshire	U.K.	52.190000,-1.710000
+London	Greater London	U.K.	51.491667,-0.008333
+York	North Yorkshire	U.K.	53.958333,-1.080000
+North York Moors National Park	North Yorkshire	U.K.	54.409167,-0.904167
+U.K.			55.378051,-3.435973
+Abu Dhabi		United Arab Emirates	24.475000,54.375000
+Dubai		United Arab Emirates	25.308333,55.341667
+United Arab Emirates			23.424075,53.847818
+Montevideo		Uruguay	-34.858333,-56.225000
+Carmelo		Uruguay	-34.008333,-58.341667
+Uruguay			-32.522779,-55.765835
+Tashkent		Uzbekistan	41.275000,69.225000
+Uzbekistan			41.377491,64.585262
+Port Vila		Vanuatu	-17.750000,168.300000
+Vanuatu			-17.750000,168.300000
+Vatican City			41.900000,12.450000
+Angel Falls		Venezuela	5.958333,-62.508333
+Caracas		Venezuela	10.508333,-66.941667
+Maracaibo		Venezuela	10.658333,-71.608333
+Merida		Venezuela	8.408333,-71.141667
+Venezuela			6.423750,-66.589730
+Da Nang		Vietnam	16.075000,108.225000
+Hanoi		Vietnam	21.041667,105.875000
+Ho Chi Minh City		Vietnam	10.791667,106.708333
+Halong Bay		Vietnam	20.900000,107.200000
+Sapa		Vietnam	22.350000,103.866667
+Vietnam			14.058324,108.277199
+Tutuila		American Samoa	-14.341667,-170.008333
+American Samoa			-14.341667,-170.008333
+Sana		Yemen	15.404444,44.206667
+Yemen			15.404444,44.206667
+Kinshasa		Democratic Republic Of The Congo	-4.341667,15.308333
+Democratic Republic Of The Congo			-4.038333,21.758664
+Mbala		Zambia	-8.814171,31.331635
+Lusaka		Zambia	-15.416667,29.000000
+Victoria Falls		Zambia	-17.916667,25.866667
+Lower Zambezi National Park		Zambia	-15.750000,29.333333
+Zambia			-13.133897,27.849332
+Victoria Falls National Park		Zimbabwe	-17.916667,25.666667
+Harare		Zimbabwe	-17.841667,31.508333
+Hwange National Park		Zimbabwe	-19.000000,26.500000
+Zimbabwe			-19.015438,29.154857
+Birmingham	Alabama	U.S.A.	33.575000,-86.758333
+Huntsville	Alabama	U.S.A.	34.708333,-86.591667
+Monte Sano Mountain	Alabama	U.S.A.	34.745091,-86.511657
+Horse Shoe Bend	Alabama	U.S.A.	33.908575,-86.076373
+Mobile	Alabama	U.S.A.	30.675000,-88.258333
+Montgomery	Alabama	U.S.A.	32.391667,-86.375000
+Talladega	Alabama	U.S.A.	33.458333,-86.108333
+Tuscaloosa	Alabama	U.S.A.	33.225000,-87.625000
+Alabama		U.S.A.	32.318231,-86.902298
+Anchorage	Alaska	U.S.A.	61.175000,-150.025000
+Denali National Park	Alaska	U.S.A.	63.069444,-151.007222
+Kenai Fjords National Park	Alaska	U.S.A.	60.100987,-149.440438
+Fairbanks	Alaska	U.S.A.	64.825000,-147.875000
+Juneau	Alaska	U.S.A.	58.375000,-134.591667
+Glacier Bay National Park	Alaska	U.S.A.	58.758333,-136.508333
+Kodiak	Alaska	U.S.A.	57.758333,-152.491667
+Nome	Alaska	U.S.A.	64.508333,-165.441667
+Alaska		U.S.A.	63.588753,-154.493062
+Flagstaff	Arizona	U.S.A.	35.141667,-111.675000
+Sedona	Arizona	U.S.A.	35.091667,-111.675000
+Monument Valley	Arizona	U.S.A.	36.949169,-109.924008
+Grand Canyon National Park	Arizona	U.S.A.	36.258333,-112.508333
+Kingman	Arizona	U.S.A.	35.208333,-114.025000
+Nogales	Arizona	U.S.A.	31.358333,-110.925000
+Phoenix	Arizona	U.S.A.	33.441667,-112.025000
+Scottsdale	Arizona	U.S.A.	33.441667,-112.025000
+Tucson	Arizona	U.S.A.	32.125000,-110.941667
+Yuma	Arizona	U.S.A.	32.658333,-114.625000
+Arizona		U.S.A.	34.048928,-111.093731
+El Dorado	Arkansas	U.S.A.	33.225000,-92.825000
+Hot Springs	Arkansas	U.S.A.	34.491667,-93.108333
+Little Rock	Arkansas	U.S.A.	34.741667,-92.241667
+Texarkana	Arkansas	U.S.A.	33.458333,-93.991667
+Arkansas		U.S.A.	35.201050,-91.831833
+Anaheim	California	U.S.A.	33.841667,-117.925000
+Disneyland	California	U.S.A.	33.841667,-117.925000
+Sunnyvale	California	U.S.A.	37.369195,-122.036849
+Milpitas	California	U.S.A.	37.434601,-121.888654
+Fremont	California	U.S.A.	37.548615,-121.988479
+Bakersfield	California	U.S.A.	35.425000,-119.058333
+Burbank	California	U.S.A.	34.208333,-118.358333
+Cupertino	California	U.S.A.	37.325000,-122.058333
+Eureka	California	U.S.A.	40.991667,-124.108333
+Fresno	California	U.S.A.	36.775000,-119.725000
+Laguna Beach	California	U.S.A.	33.558333,-117.791667
+Long Beach	California	U.S.A.	33.825000,-118.158333
+Los Angeles	California	U.S.A.	34.058333,-118.241667
+Hollywood	California	U.S.A.	34.058333,-118.258333
+Modesto	California	U.S.A.	37.658333,-121.008333
+Monterey	California	U.S.A.	36.608333,-121.908333
+Napa Valley	California	U.S.A.	38.225000,-122.291667
+Needles	California	U.S.A.	34.608333,-114.625000
+Oakland	California	U.S.A.	37.825000,-122.325000
+Palm Springs	California	U.S.A.	33.825000,-116.541667
+Pasadena	California	U.S.A.	34.158333,-118.158333
+Petaluma	California	U.S.A.	38.241667,-122.641667
+Redding	California	U.S.A.	40.525000,-122.308333
+Death Valley National Park	California	U.S.A.	36.241944,-116.825833
+Sacramento	California	U.S.A.	38.525000,-121.508333
+Joshua Tree National Park	California	U.S.A.	33.925000,-116.008333
+San Diego	California	U.S.A.	32.741667,-117.175000
+San Francisco	California	U.S.A.	37.775000,-122.441667
+San Jose	California	U.S.A.	37.375000,-121.941667
+Santa Barbara	California	U.S.A.	34.441667,-119.841667
+Santa Cruz	California	U.S.A.	36.991667,-122.025000
+Santa Monica	California	U.S.A.	34.025000,-118.491667
+Lake Tahoe	California	U.S.A.	39.041667,-120.191667
+Sonoma	California	U.S.A.	38.525000,-122.825000
+Stockton	California	U.S.A.	37.908333,-121.258333
+Ukiah	California	U.S.A.	39.158333,-123.208333
+Mendocino	California	U.S.A.	39.325000,-123.808333
+Point Reyes	California	U.S.A.	38.058333,-122.791667
+Yosemite National Park	California	U.S.A.	37.758333,-119.675000
+Sequoia National Park	California	U.S.A.	36.433333,-118.683333
+California		U.S.A.	36.778261,-119.417932
+Rocky Mountain National Park	Colorado	U.S.A.	40.008333,-105.275000
+Black Canyon of the Gunnison National Park	Colorado	U.S.A.	38.566667,-107.716667
+Mesa Verde National Park	Colorado	U.S.A.	37.183889,-108.488611
+Colorado Springs	Colorado	U.S.A.	38.825000,-104.725000
+Denver	Colorado	U.S.A.	39.758333,-104.875000
+Durango	Colorado	U.S.A.	37.291667,-107.891667
+Aspen	Colorado	U.S.A.	39.191667,-106.825000
+Snowmass	Colorado	U.S.A.	39.331369,-106.986138
+Grand Junction	Colorado	U.S.A.	39.125000,-108.541667
+Vail	Colorado	U.S.A.	39.675000,-106.341667
+Trinidad	Colorado	U.S.A.	37.258333,-104.341667
+Colorado		U.S.A.	39.550051,-105.782067
+Bridgeport	Connecticut	U.S.A.	41.191667,-73.191667
+Hartford	Connecticut	U.S.A.	41.741667,-72.658333
+New Haven	Connecticut	U.S.A.	41.325000,-73.925000
+New London	Connecticut	U.S.A.	41.358333,-72.108333
+Stamford	Connecticut	U.S.A.	41.125000,-73.425000
+Greenwich	Connecticut	U.S.A.	41.041667,-73.641667
+Connecticut		U.S.A.	41.741667,-72.658333
+Dover	Delaware	U.S.A.	39.141667,-75.475000
+Wilmington	Delaware	U.S.A.	39.675000,-75.608333
+Rehoboth beach	Delaware	U.S.A.	38.715833,-75.083056
+Delaware		U.S.A.	38.910832,-75.527670
+Cape Kennedy	Florida	U.S.A.	28.491667,-80.575000
+Daytona Beach	Florida	U.S.A.	29.191667,-81.058333
+Fort Lauderdale	Florida	U.S.A.	26.075000,-80.158333
+Fort Myers	Florida	U.S.A.	26.591667,-81.875000
+Gainsville	Florida	U.S.A.	29.691667,-82.275000
+Jacksonville	Florida	U.S.A.	30.508333,-81.708333
+Key West	Florida	U.S.A.	24.558333,-81.758333
+Miami	Florida	U.S.A.	25.791667,-80.291667
+Orlando	Florida	U.S.A.	28.558333,-81.391667
+Panama City	Florida	U.S.A.	30.075000,-85.591667
+Pensacola	Florida	U.S.A.	30.425000,-87.225000
+St. Augustine	Florida	U.S.A.	29.975000,-81.341667
+St. Petersburg	Florida	U.S.A.	27.775000,-83.341667
+Tallahassee	Florida	U.S.A.	30.391667,-84.375000
+Tampa	Florida	U.S.A.	27.975000,-82.541667
+West Palm Beach	Florida	U.S.A.	26.691667,-80.108333
+Walt Disney World Resort	Florida	U.S.A.	28.400278,-82.438333
+Dry Tortugas National Park	Florida	U.S.A.	24.633333,-82.920000
+Biscayne National Park	Florida	U.S.A.	25.650000,-80.083333
+Florida		U.S.A.	28.558333,-81.391667
+Athens	Georgia	U.S.A.	33.958333,-83.325000
+Atlanta	Georgia	U.S.A.	33.658333,-84.441667
+Augusta	Georgia	U.S.A.	33.375000,-81.975000
+Dalton	Georgia	U.S.A.	34.575000,-84.958333
+Macon	Georgia	U.S.A.	32.708333,-83.658333
+Savannah	Georgia	U.S.A.	32.141667,-81.208333
+Valdosta	Georgia	U.S.A.	30.975000,-83.208333
+Georgia		U.S.A.	32.157435,-82.907123
+Hana	Hawaii (Maui)	U.S.A.	20.826726,-155.954361
+Hilo	Hawaii (The Big Island)	U.S.A.	19.725000,-155.091667
+Honolulu	Hawaii (Oahu)	U.S.A.	21.341667,-157.925000
+Kaneohe	Hawaii (Oahu)	U.S.A.	21.458333,-157.775000
+Kahului	Hawaii (Maui)	U.S.A.	20.826726,-155.954361
+Haleakala	Hawaii (Maui)	U.S.A.	20.709722,-156.253333
+Kaanapali	Hawaii (Maui)	U.S.A.	20.930814,-156.680143
+Lahaina	Hawaii (Maui)	U.S.A.	20.877535,-156.677089
+Kailua Kona	Hawaii (The Big Island)	U.S.A.	19.658333,-155.991667
+Lanai City	Hawaii (Lanai)	U.S.A.	20.827500,-156.921944
+Lihue	Hawaii (Kauai)	U.S.A.	21.974722,-159.365556
+Waimea	Hawaii (Kauai)	U.S.A.	21.959619,-159.675261
+Jo Jo's Shaved Ice	Hawaii (Kauai)	U.S.A.	21.959999,-159.675934
+Poipu	Hawaii (Kauai)	U.S.A.	21.883748,-159.467815
+Kalaupapa	Hawaii (Molokai)	U.S.A.	21.192500,-156.986111
+Mauna Loa	Hawaii (The Big Island)	U.S.A.	19.508333,-155.591667
+Mauna Kea	Hawaii (The Big Island)	U.S.A.	19.841667,-155.475000
+Volcanoes National Park	Hawaii (The Big Island)	U.S.A.	19.383333,-155.200000
+Hawaii		U.S.A.	19.725000,-155.091667
+Boise	Idaho	U.S.A.	43.575000,-116.225000
+Coeur DAlene	Idaho	U.S.A.	47.775000,-116.825000
+Idaho Falls	Idaho	U.S.A.	43.525000,-112.075000
+Twin Falls	Idaho	U.S.A.	42.491667,-114.491667
+Sun Valley	Idaho	U.S.A.	43.686593,-114.336132
+Idaho		U.S.A.	44.068202,-114.742041
+Aurora	Illinois	U.S.A.	41.758333,-88.341667
+Bloomington	Illinois	U.S.A.	40.491667,-88.958333
+Champaign	Illinois	U.S.A.	40.041667,-88.291667
+Chicago	Illinois	U.S.A.	41.791667,-87.758333
+Peoria	Illinois	U.S.A.	40.675000,-89.691667
+Rockford	Illinois	U.S.A.	42.358333,-89.058333
+Springfield	Illinois	U.S.A.	39.841667,-89.675000
+Waukegan	Illinois	U.S.A.	42.358333,-87.891667
+Illinois		U.S.A.	40.633125,-89.398528
+Bloomington	Indiana	U.S.A.	39.141667,-86.625000
+Evansville	Indiana	U.S.A.	38.058333,-87.541667
+Fort Wayne	Indiana	U.S.A.	41.008333,-85.208333
+Indianapolis	Indiana	U.S.A.	39.741667,-86.291667
+Kokomo	Indiana	U.S.A.	40.425000,-86.058333
+Muncie	Indiana	U.S.A.	40.191667,-85.358333
+Shelbyville	Indiana	U.S.A.	39.525000,-85.791667
+Gary	Indiana	U.S.A.	41.708333,-86.325000
+Terre Haute	Indiana	U.S.A.	39.458333,-87.308333
+Indiana		U.S.A.	40.551216,-85.602364
+Ames	Iowa	U.S.A.	42.041667,-93.808333
+Cedar Rapids	Iowa	U.S.A.	41.891667,-91.708333
+Des Moines	Iowa	U.S.A.	41.541667,-93.658333
+Dubuque	Iowa	U.S.A.	42.408333,-90.708333
+Iowa City	Iowa	U.S.A.	41.641667,-91.558333
+Mason City	Iowa	U.S.A.	43.158333,-93.341667
+Sioux City	Iowa	U.S.A.	42.408333,-96.391667
+Iowa		U.S.A.	41.878002,-93.097702
+Lawrence	Kansas	U.S.A.	38.960000,-95.253333
+Kansas City	Kansas	U.S.A.	39.106667,-94.676389
+Dodge City	Kansas	U.S.A.	37.775000,-99.975000
+Goodland	Kansas	U.S.A.	39.375000,-101.708333
+Liberal	Kansas	U.S.A.	37.058333,-100.975000
+Topeka	Kansas	U.S.A.	39.075000,-95.641667
+Wichita	Kansas	U.S.A.	37.658333,-97.425000
+Kansas		U.S.A.	39.011902,-98.484246
+Bowling Green	Kentucky	U.S.A.	35.975000,-86.475000
+Lexington	Kentucky	U.S.A.	38.041667,-84.608333
+Louisville	Kentucky	U.S.A.	38.191667,-85.741667
+Owensboro	Kentucky	U.S.A.	37.758333,-87.175000
+Kentucky		U.S.A.	37.839333,-84.270018
+Alexandria	Louisiana	U.S.A.	31.408333,-92.308333
+Baton Rouge	Louisiana	U.S.A.	30.541667,-91.158333
+Lafayette	Louisiana	U.S.A.	30.208333,-92.008333
+Lake Charles	Louisiana	U.S.A.	30.125000,-93.225000
+New Orleans	Louisiana	U.S.A.	29.991667,-90.258333
+Shreveport	Louisiana	U.S.A.	32.475000,-93.825000
+Louisiana		U.S.A.	31.244823,-92.145024
+Augusta	Maine	U.S.A.	44.325000,-69.808333
+Bangor	Maine	U.S.A.	44.808333,-68.841667
+Caribou	Maine	U.S.A.	46.875000,-68.025000
+Bar Harbour	Maine	U.S.A.	44.391667,-68.225000
+Acadia National Park	Maine	U.S.A.	44.215678,-68.345947
+Portland	Maine	U.S.A.	43.658333,-70.325000
+Maine		U.S.A.	45.253783,-69.445469
+Baltimore	Maryland	U.S.A.	39.341667,-76.425000
+Cumberland	Maryland	U.S.A.	39.625000,-78.775000
+Frederick	Maryland	U.S.A.	39.458333,-77.425000
+Salisbury	Maryland	U.S.A.	38.341667,-75.508333
+Maryland		U.S.A.	39.341667,-76.425000
+Boston	Massachusetts	U.S.A.	42.375000,-71.041667
+Gloucester	Massachusetts	U.S.A.	42.591667,-70.691667
+Greenfield	Massachusetts	U.S.A.	42.058333,-72.075000
+Hyannis	Massachusetts	U.S.A.	41.631944,-70.302778
+Lowell	Massachusetts	U.S.A.	42.658333,-71.325000
+Marthas Vineyard	Massachusetts	U.S.A.	41.400000,-70.616667
+Nantucket	Massachusetts	U.S.A.	41.283333,-70.100000
+New Bedford	Massachusetts	U.S.A.	41.691667,-70.975000
+Provincetown	Massachusetts	U.S.A.	42.058333,-70.179167
+Pittsfield	Massachusetts	U.S.A.	42.441667,-73.308333
+Springfield	Massachusetts	U.S.A.	42.208333,-72.541667
+Worcester	Massachusetts	U.S.A.	42.275000,-71.875000
+Wilmington	Massachusetts	U.S.A.	42.558857,-71.163377
+Massachusetts		U.S.A.	42.275000,-71.875000
+Alpena	Michigan	U.S.A.	45.075000,-83.441667
+Battle Creek	Michigan	U.S.A.	42.325000,-85.258333
+Detroit	Michigan	U.S.A.	42.425000,-83.025000
+Flint	Michigan	U.S.A.	42.975000,-83.741667
+Grand Rapids	Michigan	U.S.A.	42.891667,-85.525000
+Kalamazoo	Michigan	U.S.A.	42.291667,-85.608333
+Lansing	Michigan	U.S.A.	42.791667,-84.608333
+Marquette	Michigan	U.S.A.	46.575000,-87.408333
+Pontiac	Michigan	U.S.A.	42.675000,-83.425000
+Saginaw	Michigan	U.S.A.	43.541667,-84.091667
+Sault Ste. Marie	Michigan	U.S.A.	46.475000,-84.375000
+Ann Arbor	Michigan	U.S.A.	42.241667,-83.541667
+Michigan		U.S.A.	44.314844,-85.602364
+Albert Lea	Minnesota	U.S.A.	43.658333,-93.358333
+Bemidji	Minnesota	U.S.A.	47.525000,-94.941667
+Brainerd	Minnesota	U.S.A.	46.408333,-94.141667
+Duluth	Minnesota	U.S.A.	46.841667,-92.191667
+Fergus Falls	Minnesota	U.S.A.	46.275000,-96.075000
+International Falls	Minnesota	U.S.A.	48.575000,-93.391667
+Minneapolis/St. Paul	Minnesota	U.S.A.	44.891667,-93.225000
+Winona	Minnesota	U.S.A.	44.058333,-91.641667
+Minnesota		U.S.A.	46.729553,-94.6859000
+Biloxi	Mississippi	U.S.A.	30.425000,-88.925000
+Hattiesburg	Mississippi	U.S.A.	31.275000,-89.258333
+Jackson	Mississippi	U.S.A.	32.325000,-90.091667
+Tupelo	Mississippi	U.S.A.	34.275000,-88.775000
+Mississippi		U.S.A.	32.325000,-90.091667
+Hannibal	Missouri	U.S.A.	39.704167,-91.377500
+Osage Beach	Missouri	U.S.A.	39.708333,-91.358333
+St. Joseph	Missouri	U.S.A.	39.775000,-94.925000
+St. Louis	Missouri	U.S.A.	38.658333,-90.641667
+Springfield	Missouri	U.S.A.	37.241667,-93.391667
+Missouri		U.S.A.	37.964253,-91.831833
+Billings	Montana	U.S.A.	45.808333,-108.541667
+Big Sky Resort	Montana	U.S.A.	45.306497,-111.322059
+Glendive	Montana	U.S.A.	47.141667,-104.808333
+Glacier National Park	Montana	U.S.A.	48.800000,-114.000000
+Missoula	Montana	U.S.A.	46.925000,-114.091667
+Montana		U.S.A.	46.879682,-110.362566
+Lincoln	Nebraska	U.S.A.	40.858333,-96.758333
+North Platte	Nebraska	U.S.A.	41.141667,-100.691667
+Omaha	Nebraska	U.S.A.	41.308333,-95.908333
+Scottsbluff	Nebraska	U.S.A.	41.875000,-103.608333
+Nebraska		U.S.A.	41.141667,-100.691667
+Lake Tahoe	Nevada	U.S.A.	39.175000,-119.775000
+Las Vegas	Nevada	U.S.A.	36.091667,-115.175000
+Reno	Nevada	U.S.A.	39.508333,-119.791667
+Winnemucca	Nevada	U.S.A.	40.908333,-117.808333
+Nevada		U.S.A.	38.802669,-116.419010
+Berlin	New Hampshire	U.S.A.	44.058333,-71.025000
+Concord	New Hampshire	U.S.A.	43.208333,-71.508333
+Keene	New Hampshire	U.S.A.	42.925000,-72.291667
+Laconia	New Hampshire	U.S.A.	43.058333,-71.058333
+Manchester	New Hampshire	U.S.A.	42.941667,-71.441667
+Portsmouth	New Hampshire	U.S.A.	43.075000,-70.825000
+New Hampshire		U.S.A.	43.058333,-71.058333
+Atlantic City	New Jersey	U.S.A.	39.391667,-74.441667
+Ashubury Park	New Jersey	U.S.A.	40.325000,-74.025000
+Newark	New Jersey	U.S.A.	40.708333,-74.175000
+Trenton	New Jersey	U.S.A.	40.225000,-74.775000
+Vineland	New Jersey	U.S.A.	39.491667,-75.008333
+New Jersey		U.S.A.	40.058324,-74.405661
+Albuquerque	New Mexico	U.S.A.	35.058333,-106.625000
+Gallup	New Mexico	U.S.A.	35.525000,-108.791667
+Las Cruces	New Mexico	U.S.A.	32.308333,-106.925000
+Los Alamos	New Mexico	U.S.A.	35.875000,-106.325000
+Roswell	New Mexico	U.S.A.	33.308333,-104.541667
+Santa Fe	New Mexico	U.S.A.	35.625000,-106.091667
+Taos	New Mexico	U.S.A.	36.393889,-105.576667
+Tucumcari	New Mexico	U.S.A.	35.191667,-103.608333
+New Mexico		U.S.A.	35.058333,-106.625000
+Albany	New York	U.S.A.	42.758333,-73.808333
+Brooklyn	New York	U.S.A.	40.624722,-73.952222
+Buffalo	New York	U.S.A.	42.941667,-78.741667
+Adirondack Park	New York	U.S.A.	43.341667,-73.625000
+Catskills	New York	U.S.A.	41.941667,-74.008333
+NYC	New York	U.S.A.	40.791667,-73.975000
+New York City	New York	U.S.A.	40.791667,-73.975000
+Montauk	New York	U.S.A.	41.008333,-71.958333
+Niagara Falls	New York	U.S.A.	43.108333,-79.958333
+Plattsburg	New York	U.S.A.	44.658333,-73.475000
+Rochester	New York	U.S.A.	43.125000,-77.675000
+Schenectady	New York	U.S.A.	42.858333,-73.958333
+Syracuse	New York	U.S.A.	43.125000,-76.125000
+New York		U.S.A.	43.125000,-76.125000
+Asheville	North Carolina	U.S.A.	35.441667,-82.541667
+Charlotte	North Carolina	U.S.A.	35.225000,-80.941667
+Kitty Hawk	North Carolina	U.S.A.	36.275000,-76.191667
+Fayetteville	North Carolina	U.S.A.	35.175000,-79.025000
+Greensboro	North Carolina	U.S.A.	36.091667,-79.958333
+Raleigh/Durham	North Carolina	U.S.A.	35.875000,-78.791667
+Wilmington	North Carolina	U.S.A.	34.275000,-77.925000
+Winston-Salem	North Carolina	U.S.A.	36.141667,-80.225000
+North Carolina		U.S.A.	35.875000,-78.791667
+Bismarck	North Dakota	U.S.A.	46.775000,-100.758333
+Fargo	North Dakota	U.S.A.	46.908333,-96.808333
+Lake Sakakawea	North Dakota	U.S.A.	48.425000,-101.358333
+Williston	North Dakota	U.S.A.	48.158333,-103.591667
+North Dakota		U.S.A.	46.775000,-100.758333
+Akron	Ohio	U.S.A.	40.925000,-81.441667
+Ashtabula	Ohio	U.S.A.	41.858333,-80.808333
+Cincinnati	Ohio	U.S.A.	39.158333,-84.525000
+Cleveland	Ohio	U.S.A.	41.408333,-81.858333
+Columbus	Ohio	U.S.A.	40.008333,-82.891667
+Sandusky	Ohio	U.S.A.	41.458333,-82.725000
+Springfield	Ohio	U.S.A.	39.841667,-83.841667
+Toledo	Ohio	U.S.A.	41.608333,-83.808333
+Youngstown	Ohio	U.S.A.	41.275000,-80.675000
+Ohio		U.S.A.	40.008333,-82.891667
+Lawton	Oklahoma	U.S.A.	34.575000,-98.425000
+Oklahoma City	Oklahoma	U.S.A.	35.408333,-97.608333
+Tulsa	Oklahoma	U.S.A.	36.208333,-95.908333
+Woodward	Oklahoma	U.S.A.	36.608333,-99.525000
+Oklahoma		U.S.A.	35.408333,-97.608333
+Astoria	Oregon	U.S.A.	46.188889,-123.821111
+Hells Canyon National Recreational Area	Oregon	U.S.A.	46.158333,-123.891667
+Bend	Oregon	U.S.A.	44.075000,-121.325000
+Eugene	Oregon	U.S.A.	44.125000,-123.225000
+Crater Lake National park	Oregon	U.S.A.	42.933333,-122.116667
+Klamath Falls	Oregon	U.S.A.	42.158333,-121.741667
+Medford	Oregon	U.S.A.	42.375000,-122.875000
+Portland	Oregon	U.S.A.	45.608333,-122.608333
+Salem	Oregon	U.S.A.	44.925000,-123.025000
+Oregon		U.S.A.	43.804133,-120.554201
+Allentown	Pennsylvania	U.S.A.	40.658333,-75.441667
+Gettysburg	Pennsylvania	U.S.A.	39.941667,-77.641667
+Erie	Pennsylvania	U.S.A.	42.091667,-80.191667
+Hershey	Pennsylvania	U.S.A.	40.208333,-76.775000
+Lancaster	Pennsylvania	U.S.A.	40.125000,-76.308333
+Philadelphia	Pennsylvania	U.S.A.	39.891667,-75.258333
+Pittsburgh	Pennsylvania	U.S.A.	40.508333,-80.225000
+Scranton	Pennsylvania	U.S.A.	41.341667,-75.741667
+York	Pennsylvania	U.S.A.	39.925000,-76.758333
+Pennsylvania		U.S.A.	41.203322,-77.194525
+Newport	Rhode Island	U.S.A.	41.508333,-71.341667
+Providence	Rhode Island	U.S.A.	41.741667,-71.441667
+Rhode Island		U.S.A.	41.741667,-71.441667
+Charleston	South Carolina	U.S.A.	32.908333,-79.975000
+Columbia	South Carolina	U.S.A.	33.958333,-81.125000
+Myrtle Beach	South Carolina	U.S.A.	33.391667,-79.291667
+Greenville	South Carolina	U.S.A.	34.908333,-82.225000
+South Carolina		U.S.A.	33.958333,-81.125000
+Mount Rushmore	South Dakota	U.S.A.	43.878889,-103.459722
+Rapid City	South Dakota	U.S.A.	44.058333,-103.075000
+Sioux Falls	South Dakota	U.S.A.	43.575000,-96.741667
+Wind Cave National Park	South Dakota	U.S.A.	43.566667,-103.483333
+South Dakota		U.S.A.	43.969515,-99.901813
+Chattanooga	Tennessee	U.S.A.	35.041667,-85.208333
+Great Smoky Mountains National Park	Tennessee	U.S.A.	35.675000,-83.675000
+Knoxville	Tennessee	U.S.A.	35.825000,-83.991667
+Memphis	Tennessee	U.S.A.	35.058333,-90.008333
+Nashville	Tennessee	U.S.A.	36.125000,-86.691667
+Tennessee		U.S.A.	36.125000,-86.691667
+Amarillo	Texas	U.S.A.	35.241667,-100.708333
+Austin	Texas	U.S.A.	30.308333,-97.708333
+Brownsville	Texas	U.S.A.	25.908333,-97.441667
+Corpus Christi	Texas	U.S.A.	27.775000,-97.508333
+Dallas	Texas	U.S.A.	32.858333,-96.858333
+El Paso	Texas	U.S.A.	31.808333,-106.408333
+Fort Worth	Texas	U.S.A.	32.841667,-97.058333
+Galveston	Texas	U.S.A.	29.308333,-94.808333
+Houston	Texas	U.S.A.	29.975000,-95.358333
+Lubbock	Texas	U.S.A.	33.658333,-101.825000
+San Antonio	Texas	U.S.A.	29.541667,-98.475000
+Tyler	Texas	U.S.A.	32.358333,-95.275000
+Wichita Falls	Texas	U.S.A.	33.975000,-98.491667
+Big Bend National Park	Texas	U.S.A.	29.250000,-103.250000
+Austin		U.S.A.	30.308333,-97.708333
+Snowbird	Utah	U.S.A.	40.597606,-111.741941
+Moab	Utah	U.S.A.	38.608333,-109.608333
+Salt Lake City	Utah	U.S.A.	40.775000,-111.975000
+Zion National Park	Utah	U.S.A.	37.300000,-113.050000
+Arches National Park	Utah	U.S.A.	38.683333,-109.566667
+Bryce Canyon National Park	Utah	U.S.A.	37.566667,-112.183333
+Utah		U.S.A.	39.320980,-111.093731
+Brattleboro	Vermont	U.S.A.	42.858333,-72.575000
+Burlington	Vermont	U.S.A.	44.475000,-73.158333
+Killington	Vermont	U.S.A.	43.677500,-72.780280
+Rutland	Vermont	U.S.A.	43.608333,-72.975000
+Vermont		U.S.A.	44.558803,-72.577841
+Shenandoah National Park	Virginia	U.S.A.	38.458333,-78.908333
+Norfolk	Virginia	U.S.A.	36.908333,-76.208333
+Richmond	Virginia	U.S.A.	37.508333,-77.341667
+Roanoke	Virginia	U.S.A.	37.325000,-79.975000
+Virginia		U.S.A.	37.431592,-78.671272
+Bellingham	Washington	U.S.A.	48.808333,-122.541667
+Olympia	Washington	U.S.A.	46.975000,-122.908333
+Seattle	Washington	U.S.A.	47.658333,-122.308333
+Spokane	Washington	U.S.A.	47.641667,-117.525000
+San Juan Island	Washington	U.S.A.	48.56,-122.94
+Walla Walla	Washington	U.S.A.	46.108333,-118.291667
+Yakima	Washington	U.S.A.	46.575000,-120.541667
+North Cascades National Park	Washington	U.S.A.	48.700000,-121.200000
+Olympic National Park	Washington	U.S.A.	47.969444,-123.498333
+Washington		U.S.A.	47.751060,-120.740067
+Charleston	West Virginia	U.S.A.	38.375000,-81.608333
+Martinsburg	West Virginia	U.S.A.	39.408333,-77.991667
+Parkersburg	West Virginia	U.S.A.	39.275000,-81.575000
+Wheeling	West Virginia	U.S.A.	40.125000,-80.708333
+West Virginia		U.S.A.	38.597627,-80.454903
+Ashland	Wisconsin	U.S.A.	46.575000,-90.975000
+Eau Claire	Wisconsin	U.S.A.	44.875000,-91.491667
+Fond Du Lac	Wisconsin	U.S.A.	43.808333,-88.458333
+Green Bay	Wisconsin	U.S.A.	44.491667,-88.141667
+La Crosse	Wisconsin	U.S.A.	43.875000,-91.258333
+Madison	Wisconsin	U.S.A.	43.141667,-89.341667
+Milwaukee	Wisconsin	U.S.A.	42.958333,-87.908333
+Wausau	Wisconsin	U.S.A.	44.925000,-89.625000
+Wisconsin		U.S.A.	43.784440,-88.787868
+Cheyenne	Wyoming	U.S.A.	41.158333,-104.825000
+Yellowstone National Park	Wyoming	U.S.A.	44.6,-110.5
+Jackson Hole	Wyoming	U.S.A.	43.479663,-110.755373
+Grand Teton Nat. Park	Wyoming	U.S.A.	43.841667,-110.841667
+Wyoming		U.S.A.	43.075968,-107.290284
+Washington DC		U.S.A.	38.908333,-77.033333
+Calgary	Alberta	Canada	51.108333,-114.025000
+Banff National park	Alberta	Canada	51.100000,-115.350000
+Edmonton	Alberta	Canada	53.575000,-113.525000
+Grande Prairie	Alberta	Canada	55.191667,-118.891667
+Jasper National park	Alberta	Canada	52.758333,-118.175000
+Kluane National Park	Alberta	Canada	60.566667,-140.125000
+Fort McMurray	Alberta	Canada	56.658333,-111.225000
+Medicine Hat	Alberta	Canada	50.025000,-110.725000
+Dawson Creek	British Columbia	Canada	55.741667,-120.191667
+Fort Nelson	British Columbia	Canada	58.841667,-122.591667
+Kamloops	British Columbia	Canada	50.725000,-120.425000
+Prince George	British Columbia	Canada	53.891667,-122.691667
+Prince Rupert	British Columbia	Canada	54.291667,-130.391667
+Vancouver	British Columbia	Canada	49.191667,-123.175000
+Victoria	British Columbia	Canada	48.425000,-123.325000
+Churchill	Manitoba	Canada	58.758333,-94.075000
+Winnipeg	Manitoba	Canada	49.908333,-97.241667
+Campbellton	New Brunswick	Canada	48.008333,-66.675000
+Fredericton	New Brunswick	Canada	45.875000,-66.541667
+Saint Joh	New Brunswick	Canada	45.325000,-65.891667
+Corner Brook	Newfoundland	Canada	48.975000,-57.958333
+St Johns	Newfoundland	Canada	47.625000,-52.758333
+Yellowknife	Northwest Territories	Canada	62.475000,-114.458333
+Cape Breton	Nova Scotia	Canada	46.008333,-60.508333
+Halifax	Nova Scotia	Canada	44.658333,-63.575000
+Yarmouth	Nova Scotia	Canada	43.841667,-66.091667
+Kenora	Ontario	Canada	49.808333,-94.375000
+Ottawa	Ontario	Canada	45.325000,-75.675000
+Sault Ste. Marie	Ontario	Canada	46.541667,-84.508333
+Thunder Bay	Ontario	Canada	48.375000,-89.325000
+Toronto	Ontario	Canada	43.691667,-79.641667
+Charlottetown	Prince Edward Island	Canada	46.291667,-63.141667
+Chicoutimi	Quebec	Canada	48.425000,-71.091667
+Montreal	Quebec	Canada	45.475000,-73.758333
+Quebec	Quebec	Canada	46.808333,-71.391667
+Val Do	Quebec	Canada	48.058333,-77.791667
+Prince Albert	Saskatchewan	Canada	53.225000,-105.691667
+Regina	Saskatchewan	Canada	50.441667,-104.675000
+Saskatoon	Saskatchewan	Canada	52.175000,-106.691667
+Whitehorse	Yukon Territory	Canada	60.725000,-135.075000
+Bondi Beach		Australia	-33.890542,151.274856
+Schonbrunn Palace		Austria	48.184516,16.311865
+Melk Abbey		Austria	48.228056,15.333889
+Hofburg Imperial Palace		Austria	48.206507,16.365262
+Salzburg		Austria	47.800499,13.033333
+Hohensalzburg Fortress		Austria	47.795000,13.047222
+Innsbruck		Austria	47.266667,11.383333
+Zell am See		Austria	47.316667,12.796748
+Zurs, Lech		Austria	47.170547,10.163170
+Altun Ha		Belize	17.752603,-88.362777
+Ambergris Caye		Belize	17.751501,-88.073250
+Caracol		Belize	16.764014,-89.119111
+Xunantunich		Belize	17.083889,-89.133889
+Chengde		China mainland	41.029951,117.885210
+Forbidden City		China mainland	39.916689,116.390790
+Tiananmen Square		China mainland	39.916689,116.390790
+Hong Kong Disneyland		Hong Kong	22.271457,113.948611
+Jade Buddha Temple		China mainland	31.224353,121.475916
+Lama Temple		China mainland	39.908173,116.397947
+Potala Palace		China mainland	29.656843,91.125101
+Temple of Heaven		China mainland	39.916689,116.390790
+The Bund		China mainland	31.224353,121.475916
+Three Gorges Dam		China mainland	30.860002,111.212390
+Zhuhai Guangdong		China mainland	30.860002,111.212390
+Arenal National Park		Costa Rica	10.551619,-84.891716
+Manuel Antonio National Park		Costa Rica	10.158680,-84.822290
+Jaco		Costa Rica	9.616667,-84.633333
+Mljet island		Croatia	42.733333,17.516667
+Baracoa		Cuba	20.350000,-74.500000
+Karlovy Vary		Czech Republic	50.228333,12.866111
+Amalienborg Palace		Denmark	55.684444,12.592778
+Tivoli Gardens		Denmark	55.673611,12.568333
+Temple of Karnak		Egypt	25.718740,32.657400
+Kandavu Island		Fiji	-19.050000,178.216670
+Malolo lai lai		Fiji	-17.772759,177.198830
+Vanua Levu		Fiji	-16.626822,179.017933
+Suva		Fiji	-18.142599,178.431000
+Arc de Triomphe	Ile-de-France	France	48.873800,2.295000
+Sacre Coeur de Montmarte	Ile-de-France	France	48.886000,2.343000
+Alencon	Normandy	France	48.431422,0.094530
+Eiffel Tower	Ile-de-France	France	48.858300,2.294500
+Moulin Rouge	Ile-de-France	France	48.884167,2.332222
+The Louvre	Ile-de-France	France	48.860395,2.337599
+Notre Dame Cathedral	Ile-de-France	France	48.853000,2.349800
+Centre Pompido	Ile-de-France	France	48.860395,2.337599
+Disneyland Paris	Ile-de-France	France	48.872200,2.780300
+Chambord Castle	Center Loire Valley	France	47.616000,1.517000
+Chartres Cathedral	Center Loire Valley	France	48.447222,1.487778
+Bora Bora		French Polynesia	-16.500414,-151.741490
+Moorea		French Polynesia	-17.526302,-149.817978
+Black Forest	Baden-Wurttemberg	Germany	48.759800,8.239792
+Burg Eltz Castle	Rhineland-Palatinate	Germany	50.204900,7.336700
+Acropolis	Attica	Greece	37.971421,23.726166
+Temple of Poseidon	Attica	Greece	37.650058,24.024466
+Temple of Zeus	Attica	Greece	37.969372,23.733078
+Apra Harbor		Guam	13.423157,144.660517
+Cocos Island		Guam	13.328228,144.683835
+Talofofo Falls		Guam	13.351667,144.753065
+Hagatna		Guam	13.466710,144.746506
+Lombok		Indonesia	-8.506890,116.671900
+Persepolis		Iran	29.933236,52.896138
+Dingle		Ireland	52.139915,-10.271530
+Blarney Castle		Ireland	51.928889,-8.570833
+Cliffs Of Moher		Ireland	52.936111,-9.470833
+Guinness Brewery		Ireland	53.342778,-6.266111
+Rock of Cashel		Ireland	52.518056,-7.911389
+St. Patrick's Cathedral		Ireland	53.339444,-6.271389
+Messina	Sicily	Italy	38.183333,15.556732
+Portofino	Liguria	Italy	44.322321,9.192692
+Rimini	Emilia-Romagna	Italy	44.058951,12.566667
+Sorrento	Campania	Italy	40.626321,14.375738
+Verona	Veneto	Italy	45.433333,10.983333
+St Mark's Square	Veneto	Italy	45.427561,12.352992
+Castello Vicchiomaggio	Tuscany	Italy	43.609331,11.285458
+Colosseum	Lazio	Italy	41.890169,12.492269
+Greve in Chianti	Tuscany	Italy	43.583333,11.316667
+Mount Etna	Sicily	Italy	37.755067,14.995250
+Ponte Vecchio	Veneto	Italy	43.767989,11.253192
+Saint Peter's Basilica	Vatican City	Italy	41.902222,12.453333
+Hakone		Japan	35.221500,139.044557
+Himeji Castle		Japan	34.839370,134.694024
+Ise Shima National Park		Japan	34.484299,136.784470
+Kinkakuji Temple		Japan	35.019638,135.761908
+Kurashiki		Japan	34.555470,133.757026
+Ocean Dome		Japan	31.920343,131.421343
+Mount Koya		Japan	34.212500,135.586389
+Tokyo Disneyland		Japan	35.632778,139.880556
+Batu Caves		Malaysia	3.233333,101.666667
+Langkawi Island		Malaysia	6.378194,99.790178
+Mount Kinabalu		Malaysia	6.073091,116.561943
+Petronas Towers		Malaysia	3.150210,101.707703
+Sunway Lagoon Theme Park		Malaysia	3.070138,101.607224
+Taman Negara National Park		Malaysia	3.974341,102.438058
+Eindhoven		The Netherlands	51.438100,5.475200
+Rotterdam		The Netherlands	51.921667,4.481111
+The Hague		The Netherlands	52.078250,4.313560
+Utrecht		The Netherlands	52.093333,5.119444
+Anne Frank House		The Netherlands	52.375580,4.884400
+Bay of Islands		New Zealand	-35.181293,174.199209
+Lake Taupo		New Zealand	-38.790290,175.889555
+Kumgangsan Tourist Region		North Korea	38.526111,128.051667
+Boracay Island		Philippines	11.971839,121.927400
+Gdansk		Poland	54.366667,18.466111
+Slowinski National Park		Poland	54.703333,17.306944
+Malbork Castle		Poland	54.033333,19.133333
+Kazimierz Dolny		Poland	51.316667,21.954248
+Conimbriga Ruins		Portugal	40.099444,-8.493333
+Torre de Belem		Portugal	38.691389,-9.215833
+Kyonggi-Do		South Korea	37.414285,127.468140
+Lotte World		South Korea	37.532308,126.957440
+Alhambra	Andalusia	Spain	37.176892,-3.589986
+La Sagrada Familia	Catalonia	Spain	41.383333,2.183333
+El Museo del Prado	Madrid	Spain	40.416741,-3.703250
+Pamplona	Navarre	Spain	42.817991,-1.644215
+Ice Hotel		Sweden	67.852229,20.597657
+Visby		Sweden	57.640711,18.296064
+Gothenburg		Sweden	57.696981,11.986383
+Liseberg		Sweden	57.696981,11.986383
+Skeppsholmen Island		Sweden	59.325796,18.084700
+Malmo		Sweden	55.603331,13.001303
+Ephesus		Turkey	37.939722,27.340833
+Temple of Artemis		Turkey	37.939722,27.340833
+Hagia Sophia		Turkey	41.012379,28.975926
+Topkapi Palace		Turkey	41.012379,28.975926
+Alton Towers	West Midlands	U.K.	51.150822,-0.975245
+Big Ben	Greater London	U.K.	51.502114,-0.128866
+Brodick Castle	Isle of Arran	U.K.	55.603899,-5.323493
+Buckingham Palace	Greater London	U.K.	51.498336,-0.143731
+Canterbury Cathedral	Kent	U.K.	51.278180,1.080913
+Dover Castle	Kent	U.K.	51.129296,1.319366
+Hyde Park	Greater London	U.K.	51.512837,-0.161449
+Kensington Gardens	Greater London	U.K.	51.512837,-0.161449
+Leeds Castle	Kent	U.K.	51.247336,0.633029
+London Eye	Greater London	U.K.	51.503402,-0.121368
+Stirling Castle	Stirling	U.K.	56.117222,-3.939722
+Trafalgar Square	Greater London	U.K.	51.507765,-0.128792
+Westminster Abbey	Greater London	U.K.	51.495551,-0.131830
+Windsor Castle	Berkshire	U.K.	51.478853,-0.597805
+Blackpool Pleasure Beach	Lancashire	U.K.	53.789918,-3.056147
+The Tate	Greater London	U.K.	51.498046,-0.168084
+Kafue National Park		Zambia	-15.766667,25.916667
+Fisherman's Wharf	California	U.S.A.	37.810046,-122.417725
+Golden Gate Bridge	California	U.S.A.	37.818774,-122.478415
+Alcatraz	California	U.S.A.	37.826664,-122.423012
+Universal Studios	California	U.S.A.	34.033303,-118.372082
+SeaWorld San Diego	California	U.S.A.	32.763903,-117.229457
+Grauman's Chinese Theater	California	U.S.A.	34.098001,-118.326645
+SeaWorld Orlando	Florida	U.S.A.	28.410675,-81.466432
+Universal Studios	Florida	U.S.A.	28.476115,-81.465051
+Busch Gardens	Florida	U.S.A.	28.038806,-82.419641
+Waikiki Beach	Hawaii	U.S.A.	21.284981,-157.834623
+Navy Pier	Illinois	U.S.A.	41.891624,-87.611843
+Faneuil Hall Marketplace	Massachusetts	U.S.A.	42.359584,-71.055675
+Lake Mead	Nevada	U.S.A.	36.266414,-114.417892
+Time Square	New York	U.S.A.	40.758986,-73.985026
+Statue of Liberty	New York	U.S.A.	40.692245,-74.052500
+Empire State Building	New York	U.S.A.	40.746785,-73.985762
+Delaware Water Gap	Pennsylvania	U.S.A.	40.977482,-75.138560
+Temple Square	Utah	U.S.A.	40.771592,-111.888189
+Washington Monument	Washington DC	U.S.A.	38.890306,-77.031371
+Lincoln Memorial	Washington DC	U.S.A.	38.889367,-77.049942
+Jefferson Memorial	Washington DC	U.S.A.	38.880721,-77.035964
+The White House	Washington DC	U.S.A.	38.897854,-77.036415
+Salinas	California	U.S.A.	36.677540,-121.656007
+San Marcos Pass	California	U.S.A.	34.511661,-119.824585
+Coronado	California	U.S.A.	32.680348,-117.175966
+Inyo National Forest	California	U.S.A.	36.309186,-117.549585
+Sea Ranch	California	U.S.A.	38.715280,-123.453330
+Tomales Bay	California	U.S.A.	38.163151,-122.892552
+Montana De Oro State Park	California	U.S.A.	35.317601,-120.848664
+Little Petroglyph Canyon	California	U.S.A.	35.637009,-117.669813
+San Luis Obispo	California	U.S.A.	35.269561,-120.670380
+Kings Canyon National Park	California	U.S.A.	36.588144,-119.004215
+Santa Catalina Island	California	U.S.A.	33.388602,-118.454658
+Lassen Volcanic National Park	California	U.S.A.	40.486833,-121.392291
+Avila Beach	California	U.S.A.	35.182134,-120.732715
+Beverly Hills	California	U.S.A.	34.075162,-118.398632
+Dana Point	California	U.S.A.	33.472765,-117.697950
+La Jolla	California	U.S.A.	32.847521,-117.274609
+Malibu	California	U.S.A.	34.025802,-118.765006
+Newport Beach	California	U.S.A.	33.621339,-117.930654
+Palm Desert	California	U.S.A.	33.739810,-116.373788
+Rancho Mirage	California	U.S.A.	33.757892,-116.425666
+San Juan Capistrano	California	U.S.A.	33.503584,-117.654758
+Venice	California	U.S.A.	33.989029,-118.462421
+Belvedere	California	U.S.A.	37.872973,-122.463132
+Berkeley	California	U.S.A.	37.872222,-122.268403
+Big Sur	California	U.S.A.	36.269973,-121.807748
+Bodega Bay	California	U.S.A.	38.322843,-123.036913
+Calistoga	California	U.S.A.	38.579855,-122.578351
+Capitola	California	U.S.A.	36.978688,-121.953116
+Carmel	California	U.S.A.	36.529949,-121.879031
+Crescent City	California	U.S.A.	41.758134,-124.198072
+Elk	California	U.S.A.	39.130939,-123.711700
+Ferndale	California	U.S.A.	40.581120,-124.259969
+Jenner	California	U.S.A.	38.449086,-123.114721
+Los Gatos	California	U.S.A.	37.232902,-121.964385
+Muir Woods	California	U.S.A.	37.899961,-122.579423
+Nevada City	California	U.S.A.	39.258844,-121.018458
+Pebble Beach	California	U.S.A.	36.586784,-121.943354
+Sausalito	California	U.S.A.	37.856331,-122.495222
+Shelter Cove	California	U.S.A.	40.028592,-124.072576
+Menlo Park	California	U.S.A.	37.484130,-122.169472
+Boulder Creek	California	U.S.A.	37.134186,-122.126390
+Los Altos	California	U.S.A.	37.369110,-122.096034
+Redwood City	California	U.S.A.	37.477652,-122.223384
+Santa Clara	California	U.S.A.	37.352313,-121.967982
+Plymouth	California	U.S.A.	38.481800,-120.844845
+Half Moon Bay	California	U.S.A.	37.469987,-122.433822
+Mammoth Mountain	California	U.S.A.	37.630769,-119.032634
+Heavenly Ski Resort	California	U.S.A.	39.030095,-120.089036
+Squaw Valley	California	U.S.A.	36.688682,-119.195424
+San Mateo	California	U.S.A.	37.554286,-122.313044
+Woodside	California	U.S.A.	37.427334,-122.261808
+Oak Park	Illinois	U.S.A.	41.888601,-87.794370
+South Bend	Indiana	U.S.A.	41.694159,-86.250624
+Boring	Oregon	U.S.A.	45.431866,-122.373024
+Vancouver	Washington	U.S.A.	45.640189,-122.681398
+Tiburon	California	U.S.A.	37.890316,-122.478995
+Ana Nuevo State Reserve	California	U.S.A.	37.399598,-122.363792
+High River	Alberta	Canada	50.581079,-113.871428
+Eastend	Saskatchewan	Canada	49.514133,-108.820332
+Yonge-Dundas Square	Ontario	Canada	43.670233,-79.386755
+Saguenay St. Lawrence Marine Park	Quebec	Canada	48.143534,-69.722300
+Bay of Fundy	Nova Scotia	Canada	44.970827,-65.043318
+La Ronde	Quebec	Canada	45.523211,-73.613980
+Mont Tremblant	Quebec	Canada	46.195505,-74.622811
+Whistler Blackcomb	British Columbia	Canada	50.115248,-122.959146
+The Forks	Manitoba	Canada	49.895452,-97.138273
+Stanley Park	British Columbia	Canada	49.296115,-123.139978
+Granville Island	British Columbia	Canada	49.270732,-123.133875
+Licenza	Lazio	Italy	42.066667,12.900000
+Monte Terminillo	Lazio	Italy	42.47,12.98
+Soriano nel Cimino	Lazio	Italy	42.419444,12.234167
+Isole Pontine	Lazio	Italy	40.884722,13.154167
+Lago di Bolsena	Lazio	Italy	42.6,11.933333
+Santa Marinella	Lazio	Italy	42.033333,11.85
+Torrita di Siena	Tuscany	Italy	43.166667,11.766667
+Val d'Orcia	Tuscany	Italy	43.066667,11.55
+Pitigliano	Tuscany	Italy	42.633333,11.666667
+Lucca	Tuscany	Italy	43.843534,10.504646
+Trapani	Sicily	Italy	38.016667,12.516667
+Pantelleria Island	Sicily	Italy	36.833333,11.95
+Aeolian Islands	Sicily	Italy	38.533333,14.9
+Aegadian Islands	Sicily	Italy	37.966667,12.2
+Partanna	Sicily	Italy	37.716667,12.883333
+Albenga	Liguria	Italy	44.050556,8.127222
+Bergamo	Lombardy	Italy	45.673889,9.704167
+Palo Alto	California	U.S.A.	37.4445,-122.1602
+Noosa		Australia	-26.422612,153.060747
+Surfers Paradise		Australia	-28.002280,153.431052
+Byron Bay		Australia	-28.643387,153.612224
+Manly Beach		Australia	-33.798336,151.289581
+Margaret River		Australia	-33.951030,115.073828
+McLaren Vale		Australia	-35.217820,138.541823
+Bells Beach		Australia	-38.367595,144.281720
+Fraser Island		Australia	-25.266315,153.156085
+Hunter Valley		Australia	-32.937600,151.142665
+Perisher and Thredbo		Australia	-36.431480,148.447330
+Lord Howe Island		Australia	-31.555326,159.082121
+McMurdo-Station		Antarctica	-77.84792,166.673584
+Natxitua	Biscay	Spain	43.388333,-2.608738
+Yekaterinburg	Urals Federal District	Russia	56.833333,60.583333
+Krasnoyarsk	Siberia	Russia	56.020000,93.06
+Iskutsk	Siberia	Russia	52.283333,104.3
+Khabarovsk		Russia	48.483333,135.066667
+Vladivostok		Russia	43.133333,131.9
+Tarskaya		Russia	57.18583,96.24139
+Kharkiv		Ukraine	49.916667,36.316667
+Ulaan-Baatar		Mongolia	47.93,106.91
+Lake Khovsgol		Mongolia	51.1,100.5
+Novosibirsk		Russia	55.016667,82.933333
+Nizhny Novgorod		Russia	56.333333,44.0
+Omsk		Russia	54.983333,73.366667
+Rostov-on-Don		Russia	47.233333,39.7
+Samara		Russia	53.233333,50.166667
+Ufa		Russia	54.75,55.966667
+Chelyabinsk		Russia	55.166667,61.4
+Kazan		Russia	55.783333,49.166667
+Perm		Russia	58.0,56.316667

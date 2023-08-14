@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- PEALISTv1: TextSize:0| -->
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sectionName</key>
+		<string>Rotor &amp; Cabinet Settings</string>
+		<key>groups</key>
+		<array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Cabinet</string>
+							<key>parameterID</key>
+							<integer>2</integer>
+							<key>preferredControlType</key>
+							<string>menu</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Horn Deflector</string>
+							<key>parameterID</key>
+							<integer>3</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+					</array>
+				</array>
+			</dict>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<array>
+						<string></string>
+						<dict>
+							<key>name</key>
+							<string>Acc/Dec Scale</string>
+							<key>parameterID</key>
+							<integer>6</integer>
+							<key>preferredControlType</key>
+							<string>knob</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Rotor Fast Rate</string>
+							<key>parameterID</key>
+							<integer>5</integer>
+							<key>preferredControlType</key>
+							<string>knob</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Rotor Speed</string>
+							<key>parameterID</key>
+							<integer>1</integer>
+							<key>preferredControlType</key>
+							<string>segmentedControl</string>
+						</dict>
+					</array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Motor Control</string>
+							<key>parameterID</key>
+							<integer>4</integer>
+							<key>preferredControlType</key>
+							<string>menu</string>
+						</dict>
+					</array>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionName</key>
+		<string>Microphone Settings</string>
+		<key>groups</key>
+		<array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Horn Mic</string>
+							<key>parameterID</key>
+							<integer>10</integer>
+							<key>preferredControlType</key>
+							<string>menu</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Drum Mic</string>
+							<key>parameterID</key>
+							<integer>12</integer>
+							<key>preferredControlType</key>
+							<string>menu</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Mic Position</string>
+							<key>parameterID</key>
+							<integer>9</integer>
+							<key>preferredControlType</key>
+							<string>segmentedControl</string>
+						</dict>
+					</array>
+				</array>
+			</dict>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Mic Distance</string>
+						<key>parameterID</key>
+						<integer>7</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Mic Angle</string>
+						<key>parameterID</key>
+						<integer>8</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Horn Stereo Width</string>
+						<key>parameterID</key>
+						<integer>11</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Drum Stereo Width</string>
+						<key>parameterID</key>
+						<integer>13</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Balance</string>
+						<key>parameterID</key>
+						<integer>14</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

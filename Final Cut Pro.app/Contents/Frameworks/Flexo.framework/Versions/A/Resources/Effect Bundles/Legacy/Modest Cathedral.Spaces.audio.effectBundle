@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EffectBundle version="1">
+    <!--This table defines an effect bundle-->
+    <EffectBundleParts>
+        <EffectBundlePart name="Grandiose">
+            <defaultValue>6.5</defaultValue>
+            <Effects>
+                <Effect version="1" name="AUMatrixReverb" effectIndex="0">
+                    <effectID>AudioUnit: 0x617566786d7265766170706c</effectID>
+                    <Parameters>
+                        <ParameterFolder name="Global" id="1">
+                            <parameter name="pre-delay" id="4">0.01492500025779009</parameter>
+                            <parameter name="modulation rate" id="12">0.8699650168418884</parameter>
+                            <parameter name="modulation depth" id="13">0.75</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="Small Room" id="2">
+                            <parameter name="small size" id="2">0.02821799926459789</parameter>
+                            <parameter name="small density" id="6">0.4950000047683716</parameter>
+                            <parameter name="small hifreq absorption" id="9">0.9480000138282776</parameter>
+                            <parameter name="small delay range" id="11">0.6153849959373474</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="Large Room" id="3">
+                            <parameter name="large size" id="3">0.09260000288486481</parameter>
+                            <parameter name="large delay" id="5">0.001000000047497451</parameter>
+                            <parameter name="large density" id="7">0.9999899864196777</parameter>
+                            <parameter name="large delay range" id="8">0.4300000071525574</parameter>
+                            <parameter name="large hifreq absorption" id="10">0.3840000033378601</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="EQ" id="4">
+                            <parameter name="filter frequency" id="14">800</parameter>
+                            <parameter name="filter bandwidth" id="15">3</parameter>
+                            <parameter name="filter gain" id="16">0</parameter>
+                        </ParameterFolder>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="1" value="1">
+                    <EffectSnapshot name="AUMatrixReverb" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <ParameterFolder name="Global" id="1">
+                                <parameter name="dry/wet mix" id="0">2.063027858734131</parameter>
+                                <parameter name="small/large mix" id="1">34.24811172485352</parameter>
+                            </ParameterFolder>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="6.5">
+                    <EffectSnapshot name="AUMatrixReverb" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <ParameterFolder name="Global" id="1">
+                                <parameter name="dry/wet mix" id="0">6.480588912963867</parameter>
+                                <parameter name="small/large mix" id="1">85.5</parameter>
+                            </ParameterFolder>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="90">
+                    <EffectSnapshot name="AUMatrixReverb" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <ParameterFolder name="Global" id="1">
+                                <parameter name="dry/wet mix" id="0">89.15207672119141</parameter>
+                                <parameter name="small/large mix" id="1">75.89939880371094</parameter>
+                            </ParameterFolder>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+    </EffectBundleParts>
+</EffectBundle>

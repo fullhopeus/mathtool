@@ -1,0 +1,6 @@
+framework module AudioEffects {
+  umbrella header "AudioEffects.h"
+
+  export *
+  module * { export * }
+}

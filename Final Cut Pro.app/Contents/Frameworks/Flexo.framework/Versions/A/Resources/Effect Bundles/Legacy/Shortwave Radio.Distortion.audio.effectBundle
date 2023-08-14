@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EffectBundle version="1">
+    <!--This table defines an effect bundle-->
+    <EffectBundleParts>
+        <EffectBundlePart name="Basic">
+            <defaultValue>0</defaultValue>
+            <Effects>
+                <Effect version="1" name="AUDistortion" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678646973746170706c</effectID>
+                    <Parameters>
+                        <ParameterFolder name="delay" id="1">
+                            <parameter name="delay" id="0">28.1</parameter>
+                            <parameter name="decay" id="1">2.15</parameter>
+                            <parameter name="delay mix" id="2">58.8</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="ring modulation" id="2">
+                            <parameter name="ring mod freq 1" id="10">29.56</parameter>
+                            <parameter name="ring mod freq 2" id="11">87.41000000000008</parameter>
+                            <parameter name="ring mod balance" id="12">89.90000000000001</parameter>
+                            <parameter name="ring mod mix" id="13">98.59999999999999</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="decimation" id="3">
+                            <parameter name="decimation" id="3">39</parameter>
+                            <parameter name="rounding" id="4">20</parameter>
+                            <parameter name="decimation mix" id="5">0</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="cubic polynomial" id="4">
+                            <parameter name="linear term" id="6">0</parameter>
+                            <parameter name="squared term" id="7">0</parameter>
+                            <parameter name="cubic term" id="8">0</parameter>
+                            <parameter name="polynomial mix" id="9">0</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="soft clip" id="5">
+                            <parameter name="soft clip gain" id="14">13.9</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="mix" id="7">
+                            <parameter name="wet/dry mix" id="15">100</parameter>
+                        </ParameterFolder>
+                    </Parameters>
+                </Effect>
+            </Effects>
+        </EffectBundlePart>
+        <EffectBundlePart name="Shortwave Radio">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="AURogerBeep" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678726f67726170706c</effectID>
+                    <Parameters>
+                        <parameter name="in gate threshold" id="0">-60</parameter>
+                        <parameter name="in gate time" id="1">0</parameter>
+                        <parameter name="out gate threshold" id="2">-60</parameter>
+                        <parameter name="out gate time" id="3">200</parameter>
+                        <parameter name="sensitivity" id="4" referenceEnumValue="heavy">2</parameter>
+                        <parameter name="roger type" id="5" referenceEnumValue="noise burst">1</parameter>
+                        <parameter name="roger level" id="6">-28.15574836730957</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="Clip Distortion" effectIndex="1">
+                    <effectID>AudioUnit: 0x61756678000000bf454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Clip Symmetry [%]" id="3">50</parameter>
+                        <parameter name="Input Gain [dB]" id="9">60</parameter>
+                        <parameter name="Output Gain [dB]" id="10">60</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="Ringshifter" effectIndex="2">
+                    <effectID>AudioUnit: 0x61756678000000fc454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Freq. Shift Mode" id="4" referenceEnumValue="Exponential">0</parameter>
+                        <parameter name="Env->Osc Modulation" id="5">447</parameter>
+                        <parameter name="Operating Mode" id="8" referenceEnumValue="Ringmodulation Sine">0</parameter>
+                        <parameter name="Feedback" id="9">0</parameter>
+                        <parameter name="Stereo Width" id="10">0</parameter>
+                        <parameter name="LFO->Dry/Wet Modulation" id="14">49</parameter>
+                        <parameter name="Env Follower On" id="16" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Env Sensivity [dB]" id="17">12</parameter>
+                        <parameter name="Env Attack [ms]" id="18">76</parameter>
+                        <parameter name="Env Release [ms]" id="19">100</parameter>
+                        <parameter name="LFO On" id="21" referenceBoolValue="YES">1</parameter>
+                        <parameter name="LFO Symmetry" id="24">3</parameter>
+                        <parameter name="Delay Amount" id="27">0</parameter>
+                        <parameter name="Delay Time [ms]" id="29">0</parameter>
+                        <parameter name="Delay Low Cut [Hz]" id="30">0</parameter>
+                        <parameter name="Delay High Cut [Hz]" id="31">90</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="AutoFilter" effectIndex="3">
+                    <effectID>AudioUnit: 0x61756678000000a2454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Input Distortion [%]" id="1">0</parameter>
+                        <parameter name="Output Distortion [%]" id="2">0</parameter>
+                        <parameter name="Resonance [%]" id="4">0</parameter>
+                        <parameter name="Fatness [%]" id="5">100</parameter>
+                        <parameter name="Filter Mode" id="6" referenceEnumValue="18dB">2</parameter>
+                        <parameter name="Stereophase [°]" id="10">18</parameter>
+                        <parameter name="Waveform" id="11" referenceEnumValue="RND">4</parameter>
+                        <parameter name="Pulsewidth [%]" id="12">50</parameter>
+                        <parameter name="Retrigger" id="14" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Threshold [dB]" id="16">100</parameter>
+                        <parameter name="Attack [ms]" id="17">0</parameter>
+                        <parameter name="Decay [ms]" id="18">13</parameter>
+                        <parameter name="Sustain [%]" id="19">50</parameter>
+                        <parameter name="Release [ms]" id="20">13</parameter>
+                        <parameter name="Env Cutoff Mod [%]" id="21">0</parameter>
+                        <parameter name="Env Dynamic [%]" id="22">50</parameter>
+                        <parameter name="Main Out [dB]" id="23">100</parameter>
+                        <parameter name="Dry Signal [%]" id="28">0</parameter>
+                        <parameter name="Stereo Spread" id="31">100</parameter>
+                        <parameter name="Pre Filter Distortion Mode" id="33" referenceEnumValue="Classic">0</parameter>
+                        <parameter name="Filter" id="34" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Envelope" id="35" referenceBoolValue="YES">1</parameter>
+                        <parameter name="LFO" id="36" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Distortion" id="37" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Side Chain Link" id="38" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Post Filter Distortion Mode" id="39" referenceEnumValue="Classic">0</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="Phaser" effectIndex="4">
+                    <effectID>AudioUnit: 0x6175667800000098454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Rate LFO 1 [Hz]" id="1">20</parameter>
+                        <parameter name="Rate LFO 2 [Hz]" id="2">67</parameter>
+                        <parameter name="LFO Mix [%]" id="3">0</parameter>
+                        <parameter name="Feedback [%]" id="4">0</parameter>
+                        <parameter name="Sweep Floor [Hz]" id="5">8</parameter>
+                        <parameter name="Sweep Ceiling [Hz]" id="6">41</parameter>
+                        <parameter name="Stages" id="7" referenceEnumValue="12">8</parameter>
+                        <parameter name="LFO Env Follow [%]" id="8">51</parameter>
+                        <parameter name="Phase [°]" id="9">18</parameter>
+                        <parameter name="Env Follow [%]" id="11">100</parameter>
+                        <parameter name="Warmth" id="12" referenceBoolValue="YES">1</parameter>
+                        <parameter name="FB Filter" id="13" referenceBoolValue="NO">0</parameter>
+                        <parameter name="LP Cutoff [Hz]" id="14">119</parameter>
+                        <parameter name="HP Cutoff [Hz]" id="15">0</parameter>
+                        <parameter name="LFO 1 Sync" id="19" referenceBoolValue="NO">0</parameter>
+                        <parameter name="LFO 2 Sync" id="20" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Sweep Mode" id="21" referenceEnumValue="Squared">0</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="Direction Mixer" effectIndex="5">
+                    <effectID>AudioUnit: 0x61756678000000b6454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Input" id="1" referenceEnumValue="LR">0</parameter>
+                        <parameter name="Direction [°]" id="2">360</parameter>
+                        <parameter name="Spread" id="3">0</parameter>
+                        <parameter name="Split" id="4" referenceBoolValue="NO">0</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="Distortion" effectIndex="6">
+                    <effectID>AudioUnit: 0x61756678000000a4454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Level Compensation" id="4" referenceBoolValue="NO">0</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="7" value="0">
+                    <EffectSnapshot name="Clip Distortion" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Clip Drive [dB]" id="1">32</parameter>
+                            <parameter name="Clip Tone [Hz]" id="2">95</parameter>
+                            <parameter name="Mix [%]" id="4">95</parameter>
+                            <parameter name="Clip Filter [Hz]" id="5">70</parameter>
+                            <parameter name="LP Filter [Hz]" id="6">119</parameter>
+                            <parameter name="HiShelving Gain [dB]" id="7">87</parameter>
+                            <parameter name="HiShelving Freqency [Hz]" id="8">16</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Ringshifter" effectIndex="2">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Dry/Wet" id="12">0</parameter>
+                            <parameter name="Env->Dry/Wet Modulation" id="13">50</parameter>
+                            <parameter name="Frequency" id="2">500</parameter>
+                            <parameter name="LFO Rate [Hz]" id="23">6</parameter>
+                            <parameter name="LFO Smooth" id="25">28</parameter>
+                            <parameter name="LFO->Osc Modulation" id="6">462</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="AutoFilter" effectIndex="3">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="LFO Cutoff Mod [%]" id="13">0</parameter>
+                            <parameter name="Cutoff [%]" id="3">100</parameter>
+                            <parameter name="LFO Rate [Hz]" id="32">240</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Phaser" effectIndex="4">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Output Mix [%]" id="10">50</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Distortion" effectIndex="6">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Drive [dB]" id="1">0</parameter>
+                            <parameter name="Tone [Hz]" id="2">97</parameter>
+                            <parameter name="Output [dB]" id="3">62</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="7" value="50">
+                    <EffectSnapshot name="Clip Distortion" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Clip Drive [dB]" id="1">32</parameter>
+                            <parameter name="Clip Tone [Hz]" id="2">68</parameter>
+                            <parameter name="Mix [%]" id="4">50</parameter>
+                            <parameter name="Clip Filter [Hz]" id="5">87</parameter>
+                            <parameter name="LP Filter [Hz]" id="6">114</parameter>
+                            <parameter name="HiShelving Gain [dB]" id="7">60</parameter>
+                            <parameter name="HiShelving Freqency [Hz]" id="8">87</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Ringshifter" effectIndex="2">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Dry/Wet" id="12">38</parameter>
+                            <parameter name="Env->Dry/Wet Modulation" id="13">49</parameter>
+                            <parameter name="Frequency" id="2">0</parameter>
+                            <parameter name="LFO Rate [Hz]" id="23">13</parameter>
+                            <parameter name="LFO Smooth" id="25">23</parameter>
+                            <parameter name="LFO->Osc Modulation" id="6">0</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="AutoFilter" effectIndex="3">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="LFO Cutoff Mod [%]" id="13">13</parameter>
+                            <parameter name="Cutoff [%]" id="3">88</parameter>
+                            <parameter name="LFO Rate [Hz]" id="32">48</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Phaser" effectIndex="4">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Output Mix [%]" id="10">67</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Distortion" effectIndex="6">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Drive [dB]" id="1">17</parameter>
+                            <parameter name="Tone [Hz]" id="2">93</parameter>
+                            <parameter name="Output [dB]" id="3">68</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="7" value="100">
+                    <EffectSnapshot name="Clip Distortion" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Clip Drive [dB]" id="1">53</parameter>
+                            <parameter name="Clip Tone [Hz]" id="2">72</parameter>
+                            <parameter name="Mix [%]" id="4">95</parameter>
+                            <parameter name="Clip Filter [Hz]" id="5">112</parameter>
+                            <parameter name="LP Filter [Hz]" id="6">114</parameter>
+                            <parameter name="HiShelving Gain [dB]" id="7">71</parameter>
+                            <parameter name="HiShelving Freqency [Hz]" id="8">87</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Ringshifter" effectIndex="2">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Dry/Wet" id="12">27</parameter>
+                            <parameter name="Env->Dry/Wet Modulation" id="13">91</parameter>
+                            <parameter name="Frequency" id="2">0</parameter>
+                            <parameter name="LFO Rate [Hz]" id="23">5</parameter>
+                            <parameter name="LFO Smooth" id="25">28</parameter>
+                            <parameter name="LFO->Osc Modulation" id="6">0</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="AutoFilter" effectIndex="3">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="LFO Cutoff Mod [%]" id="13">9</parameter>
+                            <parameter name="Cutoff [%]" id="3">85</parameter>
+                            <parameter name="LFO Rate [Hz]" id="32">48</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Phaser" effectIndex="4">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Output Mix [%]" id="10">67</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Distortion" effectIndex="6">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Drive [dB]" id="1">28</parameter>
+                            <parameter name="Tone [Hz]" id="2">96</parameter>
+                            <parameter name="Output [dB]" id="3">46</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+    </EffectBundleParts>
+</EffectBundle>

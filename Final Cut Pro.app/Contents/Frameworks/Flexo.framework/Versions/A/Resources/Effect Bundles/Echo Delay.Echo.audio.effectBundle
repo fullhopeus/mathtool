@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EffectBundle version="1">
+    <!--This table defines an effect bundle-->
+    <EffectBundleParts>
+        <EffectBundlePart name=".3 seconds">
+            <defaultValue>20</defaultValue>
+            <Effects>
+                <Effect version="1" name="AUDelay" effectIndex="0">
+                    <effectID>AudioUnit: 0x6175667864656c796170706c</effectID>
+                    <Parameters></Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="1" value="10">
+                    <EffectSnapshot name="AUDelay" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="dry/wet mix" id="0">10</parameter>
+                            <parameter name="delay time" id="1">0.2892768085002899</parameter>
+                            <parameter name="feedback" id="2">14.1509428024292</parameter>
+                            <parameter name="lowpass cutoff frequency" id="3">578.6619262695312</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="20">
+                    <EffectSnapshot name="AUDelay" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="dry/wet mix" id="0">20</parameter>
+                            <parameter name="delay time" id="1">0.2992518842220306</parameter>
+                            <parameter name="feedback" id="2">23.58490562438965</parameter>
+                            <parameter name="lowpass cutoff frequency" id="3">1897.52587890625</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="60">
+                    <EffectSnapshot name="AUDelay" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="dry/wet mix" id="0">60</parameter>
+                            <parameter name="delay time" id="1">0.2892768085002899</parameter>
+                            <parameter name="feedback" id="2">45</parameter>
+                            <parameter name="lowpass cutoff frequency" id="3">3051.356689453125</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+        <EffectBundlePart name="Metallic PA Echo">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="AUDistortion" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678646973746170706c</effectID>
+                    <Parameters>
+                        <ParameterFolder name="delay" id="1">
+                            <parameter name="delay" id="0">473.2999877929688</parameter>
+                            <parameter name="delay mix" id="2">100</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="ring modulation" id="2">
+                            <parameter name="ring mod freq 1" id="10">0.5</parameter>
+                            <parameter name="ring mod freq 2" id="11">0.5</parameter>
+                            <parameter name="ring mod balance" id="12">0</parameter>
+                            <parameter name="ring mod mix" id="13">0</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="decimation" id="3">
+                            <parameter name="decimation" id="3">0</parameter>
+                            <parameter name="rounding" id="4">0</parameter>
+                            <parameter name="decimation mix" id="5">0</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="cubic polynomial" id="4">
+                            <parameter name="linear term" id="6">0</parameter>
+                            <parameter name="squared term" id="7">0</parameter>
+                            <parameter name="cubic term" id="8">0</parameter>
+                            <parameter name="polynomial mix" id="9">0</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="soft clip" id="5">
+                            <parameter name="soft clip gain" id="14">3.799999952316284</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="mix" id="7"></ParameterFolder>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="1" value="1">
+                    <EffectSnapshot name="AUDistortion" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <ParameterFolder name="delay" id="1">
+                                <parameter name="decay" id="1">3.990235090255737</parameter>
+                            </ParameterFolder>
+                            <ParameterFolder name="mix" id="7">
+                                <parameter name="wet/dry mix" id="15">10</parameter>
+                            </ParameterFolder>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="50">
+                    <EffectSnapshot name="AUDistortion" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <ParameterFolder name="delay" id="1">
+                                <parameter name="decay" id="1">6.636532783508301</parameter>
+                            </ParameterFolder>
+                            <ParameterFolder name="mix" id="7">
+                                <parameter name="wet/dry mix" id="15">50</parameter>
+                            </ParameterFolder>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="100">
+                    <EffectSnapshot name="AUDistortion" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <ParameterFolder name="delay" id="1">
+                                <parameter name="decay" id="1">6.851681709289551</parameter>
+                            </ParameterFolder>
+                            <ParameterFolder name="mix" id="7">
+                                <parameter name="wet/dry mix" id="15">100</parameter>
+                            </ParameterFolder>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+        <EffectBundlePart name="Basic">
+            <defaultValue>0</defaultValue>
+            <Effects>
+                <Effect version="1" name="AUDistortion" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678646973746170706c</effectID>
+                    <Parameters>
+                        <ParameterFolder name="delay" id="1">
+                            <parameter name="delay" id="0">473.2999877929688</parameter>
+                            <parameter name="decay" id="1">6.739999771118164</parameter>
+                            <parameter name="delay mix" id="2">100</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="ring modulation" id="2">
+                            <parameter name="ring mod freq 1" id="10">0.5</parameter>
+                            <parameter name="ring mod freq 2" id="11">0.5</parameter>
+                            <parameter name="ring mod balance" id="12">0</parameter>
+                            <parameter name="ring mod mix" id="13">0</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="decimation" id="3">
+                            <parameter name="decimation" id="3">0</parameter>
+                            <parameter name="rounding" id="4">0</parameter>
+                            <parameter name="decimation mix" id="5">0</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="cubic polynomial" id="4">
+                            <parameter name="linear term" id="6">0</parameter>
+                            <parameter name="squared term" id="7">0</parameter>
+                            <parameter name="cubic term" id="8">0</parameter>
+                            <parameter name="polynomial mix" id="9">0</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="soft clip" id="5">
+                            <parameter name="soft clip gain" id="14">3.799999952316284</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="mix" id="7">
+                            <parameter name="wet/dry mix" id="15">100</parameter>
+                        </ParameterFolder>
+                    </Parameters>
+                </Effect>
+            </Effects>
+        </EffectBundlePart>
+    </EffectBundleParts>
+</EffectBundle>

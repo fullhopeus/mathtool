@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EffectBundle version="1">
+    <!--This table defines an effect bundle-->
+    <EffectBundleParts>
+        <EffectBundlePart name="Average Robot">
+            <defaultValue>-2</defaultValue>
+            <Effects>
+                <Effect version="1" name="Vocal Transformer" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678000000f9454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Mix [%]" id="3">100</parameter>
+                        <parameter name="Robotize" id="4" referenceBoolValue="YES">1</parameter>
+                        <parameter name="PitchBase" id="5">39</parameter>
+                        <parameter name="PitchTracking [%]" id="6">130</parameter>
+                        <parameter name="Glide [ms]" id="7">0</parameter>
+                        <parameter name="Grain Size [ms]" id="8">0</parameter>
+                        <parameter name="Formants" id="9" referenceEnumValue="Process always">0</parameter>
+                        <parameter name="Fine Pitch [ct]" id="10">100</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="1" value="-5">
+                    <EffectSnapshot name="Vocal Transformer" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Pitch" id="1">19</parameter>
+                            <parameter name="Formant" id="2">19</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="-2">
+                    <EffectSnapshot name="Vocal Transformer" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Pitch" id="1">22</parameter>
+                            <parameter name="Formant" id="2">22</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="5">
+                    <EffectSnapshot name="Vocal Transformer" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Pitch" id="1">29</parameter>
+                            <parameter name="Formant" id="2">29</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+    </EffectBundleParts>
+</EffectBundle>

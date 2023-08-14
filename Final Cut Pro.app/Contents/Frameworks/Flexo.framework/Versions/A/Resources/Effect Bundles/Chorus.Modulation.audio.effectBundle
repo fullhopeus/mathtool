@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EffectBundle version="1">
+    <!--This table defines an effect bundle-->
+    <EffectBundleParts>
+        <EffectBundlePart name="Chorus">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="Chorus" effectIndex="0">
+                    <effectID>AudioUnit: 0x6175667800000091454d4147</effectID>
+                    <Parameters>
+                        <parameter name="D-mode" id="4" referenceBoolValue="NO">0</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="1" value="0">
+                    <EffectSnapshot name="Chorus" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix [%]" id="1">9</parameter>
+                            <parameter name="Intensity [%]" id="2">0</parameter>
+                            <parameter name="Rate [Hz]" id="3">0</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="50">
+                    <EffectSnapshot name="Chorus" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix [%]" id="1">50</parameter>
+                            <parameter name="Intensity [%]" id="2">38</parameter>
+                            <parameter name="Rate [Hz]" id="3">22</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="100">
+                    <EffectSnapshot name="Chorus" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix [%]" id="1">49</parameter>
+                            <parameter name="Intensity [%]" id="2">48</parameter>
+                            <parameter name="Rate [Hz]" id="3">115</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+    </EffectBundleParts>
+</EffectBundle>

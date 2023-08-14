@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EffectBundle version="1">
+    <!--This table defines an effect bundle-->
+    <EffectBundleParts>
+        <EffectBundlePart name="Normal">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="Fat EQ" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678000000ad454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Band 1" id="1" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Mode 1" id="2" referenceEnumValue="Shelf">0</parameter>
+                        <parameter name="Frequency 1 [Hz]" id="3">0</parameter>
+                        <parameter name="Order 1" id="4">2</parameter>
+                        <parameter name="Band 2" id="6" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Mode 2" id="7" referenceEnumValue="Par">0</parameter>
+                        <parameter name="Frequency 2 [Hz]" id="8">24</parameter>
+                        <parameter name="Q-Factor 2" id="9">9</parameter>
+                        <parameter name="Band 3" id="11" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Band 4" id="15" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Mode 4" id="16" referenceEnumValue="Par">0</parameter>
+                        <parameter name="Q-Factor 4" id="18">8</parameter>
+                        <parameter name="Band 5" id="20" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Mode 5" id="21" referenceEnumValue="Shelf">0</parameter>
+                        <parameter name="Frequency 5 [Hz]" id="22">107</parameter>
+                        <parameter name="Order 5" id="23">2</parameter>
+                        <parameter name="Masterlevel [dB]" id="25">40</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="1" value="-100">
+                    <EffectSnapshot name="Fat EQ" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Gain 2 [dB]" id="10">29</parameter>
+                            <parameter name="Frequency 3 [Hz]" id="12">57</parameter>
+                            <parameter name="Q-Factor 3" id="13">11</parameter>
+                            <parameter name="Gain 3 [dB]" id="14">26</parameter>
+                            <parameter name="Frequency 4 [Hz]" id="17">94</parameter>
+                            <parameter name="Gain 4 [dB]" id="19">19</parameter>
+                            <parameter name="Gain 5 [dB]" id="24">64</parameter>
+                            <parameter name="Gain 1 [dB]" id="5">70</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="0">
+                    <EffectSnapshot name="Fat EQ" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Gain 2 [dB]" id="10">36</parameter>
+                            <parameter name="Frequency 3 [Hz]" id="12">79</parameter>
+                            <parameter name="Q-Factor 3" id="13">13</parameter>
+                            <parameter name="Gain 3 [dB]" id="14">36</parameter>
+                            <parameter name="Frequency 4 [Hz]" id="17">91</parameter>
+                            <parameter name="Gain 4 [dB]" id="19">36</parameter>
+                            <parameter name="Gain 5 [dB]" id="24">36</parameter>
+                            <parameter name="Gain 1 [dB]" id="5">36</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="50">
+                    <EffectSnapshot name="Fat EQ" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Gain 2 [dB]" id="10">36</parameter>
+                            <parameter name="Frequency 3 [Hz]" id="12">79</parameter>
+                            <parameter name="Q-Factor 3" id="13">13</parameter>
+                            <parameter name="Gain 3 [dB]" id="14">47</parameter>
+                            <parameter name="Frequency 4 [Hz]" id="17">91</parameter>
+                            <parameter name="Gain 4 [dB]" id="19">36</parameter>
+                            <parameter name="Gain 5 [dB]" id="24">26</parameter>
+                            <parameter name="Gain 1 [dB]" id="5">26</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="100">
+                    <EffectSnapshot name="Fat EQ" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Gain 2 [dB]" id="10">36</parameter>
+                            <parameter name="Frequency 3 [Hz]" id="12">79</parameter>
+                            <parameter name="Q-Factor 3" id="13">13</parameter>
+                            <parameter name="Gain 3 [dB]" id="14">60</parameter>
+                            <parameter name="Frequency 4 [Hz]" id="17">91</parameter>
+                            <parameter name="Gain 4 [dB]" id="19">37</parameter>
+                            <parameter name="Gain 5 [dB]" id="24">16</parameter>
+                            <parameter name="Gain 1 [dB]" id="5">16</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+        <EffectBundlePart name="Steeper Slope">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="Fat EQ" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678000000ad454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Band 1" id="1" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Mode 1" id="2" referenceEnumValue="Shelf">0</parameter>
+                        <parameter name="Frequency 1 [Hz]" id="3">0</parameter>
+                        <parameter name="Order 1" id="4">2</parameter>
+                        <parameter name="Band 2" id="6" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Mode 2" id="7" referenceEnumValue="Par">0</parameter>
+                        <parameter name="Q-Factor 2" id="9">13</parameter>
+                        <parameter name="Band 3" id="11" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Band 4" id="15" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Mode 4" id="16" referenceEnumValue="Par">0</parameter>
+                        <parameter name="Q-Factor 4" id="18">15</parameter>
+                        <parameter name="Band 5" id="20" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Mode 5" id="21" referenceEnumValue="Shelf">0</parameter>
+                        <parameter name="Frequency 5 [Hz]" id="22">107</parameter>
+                        <parameter name="Order 5" id="23">2</parameter>
+                        <parameter name="Masterlevel [dB]" id="25">40</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="1" value="-100">
+                    <EffectSnapshot name="Fat EQ" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Gain 2 [dB]" id="10">50</parameter>
+                            <parameter name="Frequency 3 [Hz]" id="12">65</parameter>
+                            <parameter name="Q-Factor 3" id="13">11</parameter>
+                            <parameter name="Gain 3 [dB]" id="14">10</parameter>
+                            <parameter name="Frequency 4 [Hz]" id="17">99</parameter>
+                            <parameter name="Gain 4 [dB]" id="19">48</parameter>
+                            <parameter name="Gain 5 [dB]" id="24">56</parameter>
+                            <parameter name="Gain 1 [dB]" id="5">57</parameter>
+                            <parameter name="Frequency 2 [Hz]" id="8">19</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="0">
+                    <EffectSnapshot name="Fat EQ" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Gain 2 [dB]" id="10">36</parameter>
+                            <parameter name="Frequency 3 [Hz]" id="12">79</parameter>
+                            <parameter name="Q-Factor 3" id="13">13</parameter>
+                            <parameter name="Gain 3 [dB]" id="14">36</parameter>
+                            <parameter name="Frequency 4 [Hz]" id="17">95</parameter>
+                            <parameter name="Gain 4 [dB]" id="19">36</parameter>
+                            <parameter name="Gain 5 [dB]" id="24">36</parameter>
+                            <parameter name="Gain 1 [dB]" id="5">36</parameter>
+                            <parameter name="Frequency 2 [Hz]" id="8">19</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="50">
+                    <EffectSnapshot name="Fat EQ" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Gain 2 [dB]" id="10">30</parameter>
+                            <parameter name="Frequency 3 [Hz]" id="12">79</parameter>
+                            <parameter name="Q-Factor 3" id="13">13</parameter>
+                            <parameter name="Gain 3 [dB]" id="14">49</parameter>
+                            <parameter name="Frequency 4 [Hz]" id="17">95</parameter>
+                            <parameter name="Gain 4 [dB]" id="19">28</parameter>
+                            <parameter name="Gain 5 [dB]" id="24">25</parameter>
+                            <parameter name="Gain 1 [dB]" id="5">26</parameter>
+                            <parameter name="Frequency 2 [Hz]" id="8">19</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="100">
+                    <EffectSnapshot name="Fat EQ" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Gain 2 [dB]" id="10">22</parameter>
+                            <parameter name="Frequency 3 [Hz]" id="12">79</parameter>
+                            <parameter name="Q-Factor 3" id="13">13</parameter>
+                            <parameter name="Gain 3 [dB]" id="14">62</parameter>
+                            <parameter name="Frequency 4 [Hz]" id="17">102</parameter>
+                            <parameter name="Gain 4 [dB]" id="19">22</parameter>
+                            <parameter name="Gain 5 [dB]" id="24">16</parameter>
+                            <parameter name="Gain 1 [dB]" id="5">16</parameter>
+                            <parameter name="Frequency 2 [Hz]" id="8">29</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+    </EffectBundleParts>
+</EffectBundle>

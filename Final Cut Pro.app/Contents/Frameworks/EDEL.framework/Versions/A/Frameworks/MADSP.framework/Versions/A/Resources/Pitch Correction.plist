@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- PEALISTv1: TextSize:0| -->
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sectionName</key>
+		<string>Note Quantize</string>
+		<key>groups</key>
+		<array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Scale/Chord Type</string>
+							<key>parameterID</key>
+							<integer>18</integer>
+							<key>preferredControlType</key>
+							<string>menu</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Root Note</string>
+							<key>parameterID</key>
+							<integer>17</integer>
+							<key>preferredControlType</key>
+							<string>menu</string>
+						</dict>
+					</array>
+					<dict>
+						<key>name</key>
+						<string>Quantize Gap</string>
+						<key>parameterID</key>
+						<integer>38</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Use C</string>
+							<key>parameterID</key>
+							<integer>5</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Use C#</string>
+							<key>parameterID</key>
+							<integer>6</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+					</array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Use D</string>
+							<key>parameterID</key>
+							<integer>7</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Use D#</string>
+							<key>parameterID</key>
+							<integer>8</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+					</array>
+					<dict>
+						<key>name</key>
+						<string>Use E</string>
+						<key>parameterID</key>
+						<integer>9</integer>
+						<key>preferredControlType</key>
+						<string>toggle</string>
+					</dict>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Use F</string>
+							<key>parameterID</key>
+							<integer>10</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Use F#</string>
+							<key>parameterID</key>
+							<integer>11</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+					</array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Use G</string>
+							<key>parameterID</key>
+							<integer>12</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Use G#</string>
+							<key>parameterID</key>
+							<integer>13</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+					</array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Use A</string>
+							<key>parameterID</key>
+							<integer>14</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Use A#</string>
+							<key>parameterID</key>
+							<integer>15</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+					</array>
+					<dict>
+						<key>name</key>
+						<string>Use B</string>
+						<key>parameterID</key>
+						<integer>16</integer>
+						<key>preferredControlType</key>
+						<string>toggle</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionName</key>
+		<string>Note Bypass</string>
+		<key>groups</key>
+		<array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Bypass all</string>
+						<key>parameterID</key>
+						<integer>37</integer>
+						<key>preferredControlType</key>
+						<string>toggle</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Bypass C</string>
+							<key>parameterID</key>
+							<integer>45</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Bypass C#</string>
+							<key>parameterID</key>
+							<integer>46</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+					</array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Bypass D</string>
+							<key>parameterID</key>
+							<integer>47</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Bypass D#</string>
+							<key>parameterID</key>
+							<integer>48</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+					</array>
+					<dict>
+						<key>name</key>
+						<string>Bypass E</string>
+						<key>parameterID</key>
+						<integer>49</integer>
+						<key>preferredControlType</key>
+						<string>toggle</string>
+					</dict>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Bypass F</string>
+							<key>parameterID</key>
+							<integer>50</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Bypass F#</string>
+							<key>parameterID</key>
+							<integer>51</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+					</array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Bypass G</string>
+							<key>parameterID</key>
+							<integer>52</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Bypass G#</string>
+							<key>parameterID</key>
+							<integer>53</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+					</array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Bypass A</string>
+							<key>parameterID</key>
+							<integer>54</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Bypass A#</string>
+							<key>parameterID</key>
+							<integer>55</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+					</array>
+					<dict>
+						<key>name</key>
+						<string>Bypass B</string>
+						<key>parameterID</key>
+						<integer>56</integer>
+						<key>preferredControlType</key>
+						<string>toggle</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionName</key>
+		<string>Global</string>
+		<key>groups</key>
+		<array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Use Global Tuning</string>
+							<key>parameterID</key>
+							<integer>44</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Reference</string>
+							<key>parameterID</key>
+							<integer>4</integer>
+							<key>preferredControlType</key>
+							<string>readout</string>
+						</dict>
+					</array>
+					<dict>
+						<key>name</key>
+						<string>Pitch Range</string>
+						<key>parameterID</key>
+						<integer>57</integer>
+						<key>preferredControlType</key>
+						<string>menu</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array/>
+			</dict>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>Detune</string>
+					<key>parameterID</key>
+					<integer>27</integer>
+					<key>preferredControlType</key>
+					<string>knob</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>Response</string>
+					<key>parameterID</key>
+					<integer>31</integer>
+					<key>preferredControlType</key>
+					<string>knob</string>
+				</dict>
+			</array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Use Vocaltransformer</string>
+							<key>parameterID</key>
+							<integer>60</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Follow Song Key</string>
+							<key>parameterID</key>
+							<integer>59</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+					</array>
+				</array>
+			</dict>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Display Pitch</string>
+						<key>parameterID</key>
+						<integer>58</integer>
+						<key>preferredControlType</key>
+						<string>menu</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

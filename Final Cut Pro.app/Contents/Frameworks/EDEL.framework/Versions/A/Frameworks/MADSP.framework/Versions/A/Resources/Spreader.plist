@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- PEALISTv1: TextSize:0| -->
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sectionName</key>
+		<string></string>
+		<key>groups</key>
+		<array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>LFO Speed</string>
+						<key>parameterID</key>
+						<integer>2</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>LFO Intensity</string>
+						<key>parameterID</key>
+						<integer>1</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Channel Delay</string>
+						<key>parameterID</key>
+						<integer>3</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Mix</string>
+						<key>parameterID</key>
+						<integer>4</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

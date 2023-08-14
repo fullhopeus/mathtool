@@ -1,0 +1,5 @@
+framework module Helium [system] {
+
+	header "HeliumModule.h"
+
+}

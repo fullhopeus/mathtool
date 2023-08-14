@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE iMovieEffectExportMap
+[
+<!ELEMENT iMovieEffectExportMap (iMovieEffect)*>
+<!ELEMENT iMovieEffect (fcpEffect, effectChannel*, effectChannelMap*, textAdjustment*)>
+<!ATTLIST iMovieEffect effectID CDATA #REQUIRED>
+
+<!ELEMENT fcpEffect EMPTY>
+<!ATTLIST fcpEffect effectID CDATA #REQUIRED>
+<!ATTLIST fcpEffect name CDATA #IMPLIED>
+
+<!ELEMENT effectChannel EMPTY>
+<!ATTLIST effectChannel key CDATA #REQUIRED>
+<!ATTLIST effectChannel value CDATA #REQUIRED>
+
+<!ELEMENT effectChannelMap EMPTY>
+<!ATTLIST effectChannelMap key CDATA #REQUIRED>
+<!ATTLIST effectChannelMap srcKey CDATA #REQUIRED>
+
+<!ELEMENT textAdjustment EMPTY>
+<!ATTLIST textAdjustment fontScale CDATA #IMPLIED>
+]>
+
+
+<iMovieEffectExportMap>
+    <!--This table defines how effects in iMovie translate to effects in Final Cut Pro-->
+
+    <!--Background effects-->
+	<iMovieEffect effectID=".../Generators.localized/Textures.localized/Silk-Orange.localized/Silk-Orange.motn">
+		<fcpEffect effectID=".../Generators.localized/Textures.localized/Fabric.localized/Fabric.motn" name="Fabric"/>
+		<effectChannel key="9999/987397866/100/987397867/2/100" value="16"/>
+    </iMovieEffect>
+	<iMovieEffect effectID=".../Generators.localized/Textures.localized/Silk-Beige.localized/Silk-Beige.motn">
+		<fcpEffect effectID=".../Generators.localized/Textures.localized/Fabric.localized/Fabric.motn" name="Fabric"/>
+		<effectChannel key="9999/987397866/100/987397867/2/100" value="15"/>
+    </iMovieEffect>
+	<iMovieEffect effectID="ConsumerSolidBlack">
+		<fcpEffect effectID=".../Generators.localized/Solids.localized/Grey Scale.localized/Grey Scale.motn" name="Grey Scale"/>
+		<effectChannel key="9999/10103/100/10104/2/100" value="10"/>
+    </iMovieEffect>
+	<iMovieEffect effectID="ConsumerSolidWhite">
+		<fcpEffect effectID=".../Generators.localized/Solids.localized/Grey Scale.localized/Grey Scale.motn" name="Grey Scale"/>
+		<effectChannel key="9999/10103/100/10104/2/100" value="9"/>
+    </iMovieEffect>
+	<iMovieEffect effectID="ConsumerSolidGreen">
+		<fcpEffect effectID=".../Generators.localized/Solids.localized/iMovie.localized/iMovie.motn" name="iMovie"/>
+		<effectChannel key="9999/998995880/100/998995881/2/100" value="4"/>
+    </iMovieEffect>
+	<iMovieEffect effectID="ConsumerSolidBlue">
+		<fcpEffect effectID=".../Generators.localized/Solids.localized/iMovie.localized/iMovie.motn" name="iMovie"/>
+		<effectChannel key="9999/998995880/100/998995881/2/100" value="1"/>
+    </iMovieEffect>
+	<iMovieEffect effectID="ConsumerSolidGray">
+		<fcpEffect effectID=".../Generators.localized/Solids.localized/iMovie.localized/iMovie.motn" name="iMovie"/>
+		<effectChannel key="9999/998995880/100/998995881/2/100" value="3"/>
+    </iMovieEffect>
+	<iMovieEffect effectID="ConsumerSolidTan">
+		<fcpEffect effectID=".../Generators.localized/Solids.localized/iMovie.localized/iMovie.motn" name="iMovie"/>
+		<effectChannel key="9999/998995880/100/998995881/2/100" value="7"/>
+    </iMovieEffect>
+	<iMovieEffect effectID="ConsumerSolidOrange">
+		<fcpEffect effectID=".../Generators.localized/Solids.localized/iMovie.localized/iMovie.motn" name="iMovie"/>
+		<effectChannel key="9999/998995880/100/998995881/2/100" value="5"/>
+    </iMovieEffect>
+	<iMovieEffect effectID="ConsumerSolidRed">
+		<fcpEffect effectID=".../Generators.localized/Solids.localized/iMovie.localized/iMovie.motn" name="iMovie"/>
+		<effectChannel key="9999/998995880/100/998995881/2/100" value="6"/>
+    </iMovieEffect>
+	<iMovieEffect effectID=".../Generators.localized/Textures.localized/Gradient.localized/Gradient.motn">
+		<fcpEffect effectID=".../Generators.localized/Textures.localized/Gradient.localized/Gradient.motn" name="Gradient"/>
+		<effectChannel key="9999/1999778061/100/1999778063/2/100" value="1"/>
+    </iMovieEffect>
+
+    <!--Title effects-->
+	<iMovieEffect effectID=".../Titles.localized/Lower Thirds.localized/Torn Edge - Tan.localized/Torn Edge - Tan.moti">
+		<fcpEffect effectID=".../Titles.localized/Lower Thirds.localized/Torn Edge.localized/Torn Edge.moti" name="Torn Edge"/>
+		<effectChannel key="9999/999459954/100/999459959/2/100" value="0"/>
+    </iMovieEffect>
+	<iMovieEffect effectID=".../Titles.localized/Lower Thirds.localized/Torn Edge - Black.localized/Torn Edge - Black.moti">
+		<fcpEffect effectID=".../Titles.localized/Lower Thirds.localized/Torn Edge.localized/Torn Edge.moti" name="Torn Edge"/>
+		<effectChannel key="9999/999459954/100/999459959/2/100" value="1"/>
+    </iMovieEffect>
+	<iMovieEffect effectID=".../Titles.localized/Lower Thirds.localized/Soft Bar - Black.localized/Soft Bar - Black.moti">
+		<fcpEffect effectID=".../Titles.localized/Lower Thirds.localized/Soft Bar.localized/Soft Bar.moti" name="Soft Bar"/>
+		<effectChannel key="9999/1978705159/100/1978705160/2/100" value="1"/>
+		<effectChannel key="9999/10025/10055/2/354/403/401" value="0"/>
+		<effectChannel key="9999/10025/10090/2/354/403/401" value="0"/>
+		<effectChannel key="9999/1978703885/1978703886/2/323" value="-1536"/>
+		<effectChannel key="9999/1978703885/1978703886/2/324" value="1536"/>
+		<effectChannel key="9999/1978703885/1978703898/2/323" value="-1536"/>
+		<effectChannel key="9999/1978703885/1978703898/2/324" value="1536"/>
+    </iMovieEffect>
+	<iMovieEffect effectID=".../Titles.localized/Lower Thirds.localized/Soft Bar - White.localized/Soft Bar - White.moti">
+		<fcpEffect effectID=".../Titles.localized/Lower Thirds.localized/Soft Bar.localized/Soft Bar.moti" name="Soft Bar"/>
+		<effectChannel key="9999/1978705159/100/1978705160/2/100" value="0"/>
+    </iMovieEffect>
+	<iMovieEffect effectID=".../Titles.localized/Build In:Out.localized/Zoom.localized/Zoom.moti">
+		<fcpEffect effectID=".../Titles.localized/Build In:Out.localized/Zoom.localized/Zoom.moti" name="Zoom"/>
+		<effectChannel key="9999/10087/989689692/2/323" value="-768.000000"/>
+		<effectChannel key="9999/10087/989689692/2/324" value="768.000000"/>
+		<effectChannel key="9999/10087/989689692/2/326" value="-5.988894"/>
+		<effectChannel key="9999/10087/989689692/2/325" value="294.273926"/>
+		<effectChannel key="9999/10087/989689655/2/323" value="-768.000000"/>
+		<effectChannel key="9999/10087/989689655/2/324" value="768.000000"/>
+		<effectChannel key="9999/10087/989689655/2/326" value="-118.951981"/>
+		<effectChannel key="9999/10087/989689655/2/325" value="133.562822"/>
+    </iMovieEffect>
+	<iMovieEffect effectID=".../Titles.localized/Bumper:Opener.localized/Pull Focus.localized/Pull Focus.moti">
+		<fcpEffect effectID=".../Titles.localized/Bumper:Opener.localized/Pull Focus.localized/Pull Focus.moti" name="Pull Focus"/>
+		<effectChannel key="9999/987115522/987115275/987213663/2/323" value="-768.000000"/>
+		<effectChannel key="9999/987115522/987115275/987213663/2/324" value="768.000000"/>
+		<effectChannel key="9999/987115522/987115275/987213663/2/326" value="-64.040000"/>
+		<effectChannel key="9999/987115522/987115275/987213663/2/325" value="238.000000"/>
+		<effectChannel key="9999/987115522/987115275/989690384/2/323" value="-768.000000"/>
+		<effectChannel key="9999/987115522/987115275/989690384/2/324" value="768.000000"/>
+		<effectChannel key="9999/987115522/987115275/989690384/2/326" value="-137.000000"/>
+		<effectChannel key="9999/987115522/987115275/989690384/2/325" value="-14.000000"/>
+    </iMovieEffect>
+	<iMovieEffect effectID=".../Titles.localized/Build In:Out.localized/Horizontal Blur.localized/Horizontal Blur.moti">
+		<fcpEffect effectID=".../Titles.localized/Build In:Out.localized/Horizontal Blur.localized/Horizontal Blur.moti" name="Horizontal Blur"/>
+		<effectChannel key="9999/10087/987364635/2/323" value="-768.000000"/>
+		<effectChannel key="9999/10087/987364635/2/324" value="768.000000"/>
+		<effectChannel key="9999/10087/987364635/2/326" value="-27.457475"/>
+		<effectChannel key="9999/10087/987364635/2/325" value="238.000000"/>
+		<effectChannel key="9999/10087/987367061/2/323" value="-768.000000"/>
+		<effectChannel key="9999/10087/987367061/2/324" value="768.000000"/>
+		<effectChannel key="9999/10087/987367061/2/326" value="-137.000000"/>
+		<effectChannel key="9999/10087/987367061/2/325" value="52.745023"/>
+    </iMovieEffect>
+	<iMovieEffect effectID=".../Titles.localized/Build In:Out.localized/Centered.localized/Centered.moti">
+		<fcpEffect effectID=".../Titles.localized/Build In:Out.localized/Centered.localized/Centered.moti" name="Centered"/>
+		<effectChannel key="9999/10087/10034/2/323" value="-768.000000"/>
+		<effectChannel key="9999/10087/10034/2/324" value="768.000000"/>
+		<effectChannel key="9999/10087/10034/2/326" value="-64.000000"/>
+		<effectChannel key="9999/10087/10034/2/325" value="238.000000"/>
+		<effectChannel key="9999/10087/10094/2/323" value="-768.000000"/>
+		<effectChannel key="9999/10087/10094/2/324" value="768.000000"/>
+		<effectChannel key="9999/10087/10094/2/326" value="-137.000000"/>
+		<effectChannel key="9999/10087/10094/2/325" value="118.000000"/>
+    </iMovieEffect>
+
+    <!--General effects-->
+	<iMovieEffect effectID="FFSimpleMaskEffect">
+		<fcpEffect effectID=".../Effects.localized/Keying.localized/Mask.localized/Mask.moef" name="Mask"/>
+		<effectChannelMap key="9999/999163913/3/999165618/1" srcKey="4001"/>
+		<effectChannelMap key="9999/999163913/3/999164017/1" srcKey="4002"/>
+		<effectChannelMap key="9999/999163913/3/999164958/1" srcKey="4003"/>
+		<effectChannelMap key="9999/999163913/3/999165348/1" srcKey="4004"/>
+    </iMovieEffect>
+	
+	<!--Color effects-->
+	<iMovieEffect effectID="FFConsumerBalanceColorEffect">
+		<fcpEffect effectID="FFBalanceColorEffect" name="Balance"/>
+	</iMovieEffect>
+	<iMovieEffect effectID="FFConsumerMatchHueEffectID">
+		<fcpEffect effectID="FFColorMatchHue" name="Match Color"/>
+	</iMovieEffect>
+	
+
+</iMovieEffectExportMap>

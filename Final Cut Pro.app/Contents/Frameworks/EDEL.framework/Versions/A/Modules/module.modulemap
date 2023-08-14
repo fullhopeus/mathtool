@@ -1,0 +1,6 @@
+framework module EDEL {
+  umbrella header "EDEL.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- PEALISTv1: TextSize:0| -->
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sectionName</key>
+		<string>Test Tone</string>
+		<key>groups</key>
+		<array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Frequency</string>
+							<key>parameterID</key>
+							<integer>3</integer>
+							<key>preferredControlType</key>
+							<string>largeKnob</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Waveform</string>
+							<key>parameterID</key>
+							<integer>1</integer>
+							<key>preferredControlType</key>
+							<string>segmentedControl</string>
+						</dict>
+					</array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>AntiAlias</string>
+							<key>parameterID</key>
+							<integer>2</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Decorrelated Noise</string>
+							<key>parameterID</key>
+							<integer>13</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+					</array>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionName</key>
+		<string>Sine Sweep</string>
+		<key>onOffParameter</key>
+		<dict>
+			<key>name</key>
+			<string>Section On/Off Toggle</string>
+			<key>parameterID</key>
+			<real>4</real>
+		</dict>
+		<key>groups</key>
+		<array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Sweep Time</string>
+							<key>parameterID</key>
+							<integer>5</integer>
+							<key>preferredControlType</key>
+							<string>largeKnob</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Sweep Mode</string>
+							<key>parameterID</key>
+							<integer>11</integer>
+							<key>preferredControlType</key>
+							<string>segmentedControl</string>
+						</dict>
+					</array>
+				</array>
+			</dict>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Sweep Start Freq</string>
+						<key>parameterID</key>
+						<integer>6</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Sweep End Freq</string>
+						<key>parameterID</key>
+						<integer>7</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Sweep Trigger</string>
+							<key>parameterID</key>
+							<integer>8</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Sweep Repeat</string>
+							<key>parameterID</key>
+							<integer>9</integer>
+							<key>preferredControlType</key>
+							<string>segmentedControl</string>
+						</dict>
+					</array>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionName</key>
+		<string>Output</string>
+		<key>groups</key>
+		<array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Level</string>
+							<key>parameterID</key>
+							<integer>10</integer>
+							<key>preferredControlType</key>
+							<string>largeKnob</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Dim</string>
+							<key>parameterID</key>
+							<integer>12</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+					</array>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

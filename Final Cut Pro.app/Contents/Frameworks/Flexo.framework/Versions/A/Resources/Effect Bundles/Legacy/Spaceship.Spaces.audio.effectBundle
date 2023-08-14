@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EffectBundle version="1">
+    <!--This table defines an effect bundle-->
+    <EffectBundleParts>
+        <EffectBundlePart name="Spaceship">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="Chorus" effectIndex="0">
+                    <effectID>AudioUnit: 0x6175667800000091454d4147</effectID>
+                    <Parameters>
+                        <parameter name="D-mode" id="4" referenceBoolValue="NO">0</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="PlatinumVerb" effectIndex="1">
+                    <effectID>AudioUnit: 0x6175667800000097454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Predelay [ms]" id="2">10</parameter>
+                        <parameter name="Room Shape" id="4">2</parameter>
+                        <parameter name="Stereo Base [m]" id="5">2</parameter>
+                        <parameter name="Balance ER/Reverb [%]" id="6">50</parameter>
+                        <parameter name="Initial Delay [ms]" id="7">10</parameter>
+                        <parameter name="Spread [%]" id="8">73</parameter>
+                        <parameter name="Density [%]" id="10">50</parameter>
+                        <parameter name="Low Ratio [%]" id="11">20</parameter>
+                        <parameter name="Crossover [Hz]" id="12">71</parameter>
+                        <parameter name="High Cut [Hz]" id="13">83</parameter>
+                        <parameter name="Low Freq Level [dB]" id="14">60</parameter>
+                        <parameter name="Diffusion [%]" id="15">80</parameter>
+                        <parameter name="ER Scale [%]" id="16">99</parameter>
+                        <parameter name="Dry [%]" id="19">80</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="Ensemble" effectIndex="2">
+                    <effectID>AudioUnit: 0x61756678000000a1454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Voices" id="3">2</parameter>
+                        <parameter name="Rate LFO 1 [Hz]" id="4">32</parameter>
+                        <parameter name="Rate LFO 2 [Hz]" id="6">60</parameter>
+                        <parameter name="Random Rate [Hz]" id="8">15</parameter>
+                        <parameter name="Phase [%]" id="10">19</parameter>
+                        <parameter name="Spread [%]" id="11">50</parameter>
+                        <parameter name="LFO 1" id="12" referenceBoolValue="YES">1</parameter>
+                        <parameter name="LFO 2" id="13" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Random" id="14" referenceBoolValue="YES">1</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="3" value="0">
+                    <EffectSnapshot name="Chorus" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix [%]" id="1">20</parameter>
+                            <parameter name="Intensity [%]" id="2">13</parameter>
+                            <parameter name="Rate [Hz]" id="3">7</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="PlatinumVerb" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Wet [%]" id="20">42</parameter>
+                            <parameter name="Room Size [m]" id="3">0</parameter>
+                            <parameter name="Reverb Time [sec]" id="9">28</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Ensemble" effectIndex="2">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix [%]" id="1">35</parameter>
+                            <parameter name="Effect Volume [dB]" id="2">65</parameter>
+                            <parameter name="Intensity LFO 1 [%]" id="5">32</parameter>
+                            <parameter name="Intensity LFO 2 [%]" id="7">32</parameter>
+                            <parameter name="Random Intensity [%]" id="9">37</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="3" value="50">
+                    <EffectSnapshot name="Chorus" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix [%]" id="1">50</parameter>
+                            <parameter name="Intensity [%]" id="2">20</parameter>
+                            <parameter name="Rate [Hz]" id="3">15</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="PlatinumVerb" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Wet [%]" id="20">70</parameter>
+                            <parameter name="Room Size [m]" id="3">4</parameter>
+                            <parameter name="Reverb Time [sec]" id="9">29</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Ensemble" effectIndex="2">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix [%]" id="1">59</parameter>
+                            <parameter name="Effect Volume [dB]" id="2">65</parameter>
+                            <parameter name="Intensity LFO 1 [%]" id="5">52</parameter>
+                            <parameter name="Intensity LFO 2 [%]" id="7">32</parameter>
+                            <parameter name="Random Intensity [%]" id="9">37</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="3" value="100">
+                    <EffectSnapshot name="Chorus" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix [%]" id="1">50</parameter>
+                            <parameter name="Intensity [%]" id="2">120</parameter>
+                            <parameter name="Rate [Hz]" id="3">40</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="PlatinumVerb" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Wet [%]" id="20">96</parameter>
+                            <parameter name="Room Size [m]" id="3">20</parameter>
+                            <parameter name="Reverb Time [sec]" id="9">36</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Ensemble" effectIndex="2">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix [%]" id="1">86</parameter>
+                            <parameter name="Effect Volume [dB]" id="2">50</parameter>
+                            <parameter name="Intensity LFO 1 [%]" id="5">89</parameter>
+                            <parameter name="Intensity LFO 2 [%]" id="7">87</parameter>
+                            <parameter name="Random Intensity [%]" id="9">80</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+    </EffectBundleParts>
+</EffectBundle>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EffectBundle version="1">
+    <!--This table defines an effect bundle-->
+    <EffectBundleParts>
+        <EffectBundlePart name="Basic">
+            <defaultValue>100</defaultValue>
+            <Effects>
+                <Effect version="1" name="Pitch Correction" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678000000eb454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Detune [ct]" id="27">50</parameter>
+                        <parameter name="Bypass all" id="37" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Use Global Tuning" id="44" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Follow Song Key" id="59" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Use Vocaltransformer" id="60" referenceBoolValue="NO">0</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="1" value="0">
+                    <EffectSnapshot name="Pitch Correction" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Response [ms]" id="31">100</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="100">
+                    <EffectSnapshot name="Pitch Correction" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Response [ms]" id="31">0</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+    </EffectBundleParts>
+</EffectBundle>

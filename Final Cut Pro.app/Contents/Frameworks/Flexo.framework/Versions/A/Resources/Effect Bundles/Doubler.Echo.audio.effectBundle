@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EffectBundle version="1">
+    <!--This table defines an effect bundle-->
+    <EffectBundleParts>
+        <EffectBundlePart name="Delay Double">
+            <defaultValue>5</defaultValue>
+            <Effects>
+                <Effect version="1" name="Stereo Delay" effectIndex="0">
+                    <effectID>AudioUnit: 0x6175667800000094454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Delay Time Left [ms]" id="3">25</parameter>
+                        <parameter name="Feedback Left [%]" id="5">0</parameter>
+                        <parameter name="Feedback Right [%]" id="6">0</parameter>
+                        <parameter name="Crossfeed R->L [%]" id="8">0</parameter>
+                        <parameter name="Input Left" id="16" referenceEnumValue="Left">1</parameter>
+                        <parameter name="Input Right" id="17" referenceEnumValue="Right">2</parameter>
+                        <parameter name="FB Phase Left" id="18" referenceEnumValue="normal">0</parameter>
+                        <parameter name="FB Phase Right" id="19" referenceEnumValue="normal">0</parameter>
+                        <parameter name="FB Phase L->R" id="20" referenceEnumValue="normal">0</parameter>
+                        <parameter name="FB Phase R->L" id="21" referenceEnumValue="normal">0</parameter>
+                        <parameter name="Stereo Link" id="27" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Routing Preset" id="59" referenceEnumValue="Customized">0</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="1" value="1">
+                    <EffectSnapshot name="Stereo Delay" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix Left [%]" id="1">21</parameter>
+                            <parameter name="Mix Right [%]" id="2">34</parameter>
+                            <parameter name="Delay Time Right [ms]" id="4">35</parameter>
+                            <parameter name="Crossfeed L->R [%]" id="7">0</parameter>
+                            <parameter name="High Cut Left [Hz]" id="23">96</parameter>
+                            <parameter name="Low Cut Left [Hz]" id="24">29</parameter>
+                            <parameter name="High Cut Right [Hz]" id="25">96</parameter>
+                            <parameter name="Low Cut Right [Hz]" id="26">29</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="5">
+                    <EffectSnapshot name="Stereo Delay" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix Left [%]" id="1">33</parameter>
+                            <parameter name="Mix Right [%]" id="2">64</parameter>
+                            <parameter name="Delay Time Right [ms]" id="4">35</parameter>
+                            <parameter name="Crossfeed L->R [%]" id="7">0</parameter>
+                            <parameter name="High Cut Left [Hz]" id="23">77</parameter>
+                            <parameter name="Low Cut Left [Hz]" id="24">16</parameter>
+                            <parameter name="High Cut Right [Hz]" id="25">77</parameter>
+                            <parameter name="Low Cut Right [Hz]" id="26">16</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="10">
+                    <EffectSnapshot name="Stereo Delay" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix Left [%]" id="1">30</parameter>
+                            <parameter name="Mix Right [%]" id="2">64</parameter>
+                            <parameter name="Delay Time Right [ms]" id="4">45</parameter>
+                            <parameter name="Crossfeed L->R [%]" id="7">13</parameter>
+                            <parameter name="High Cut Left [Hz]" id="23">105</parameter>
+                            <parameter name="Low Cut Left [Hz]" id="24">29</parameter>
+                            <parameter name="High Cut Right [Hz]" id="25">105</parameter>
+                            <parameter name="Low Cut Right [Hz]" id="26">29</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+    </EffectBundleParts>
+</EffectBundle>

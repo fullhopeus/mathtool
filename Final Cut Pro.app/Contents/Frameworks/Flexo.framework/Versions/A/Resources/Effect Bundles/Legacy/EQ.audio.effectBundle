@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EffectBundle version="1">
+    <!--This table defines an effect bundle-->
+    <EffectBundleParts>
+        <EffectBundlePart name="Flat">
+            <defaultValue>0</defaultValue>
+            <Effects>
+                <Effect version="1" name="AUGraphicEQ" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678677265716170706c</effectID>
+                    <Parameters>
+                        <ParameterFolder name="" id="1">
+                            <parameter name="number of bands" id="10000" referenceEnumValue="10 Bands">0</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="" id="2">
+                            <parameter name="32 Hz" id="0">0</parameter>
+                            <parameter name="64 Hz" id="1">0</parameter>
+                            <parameter name="128 Hz" id="2">0</parameter>
+                            <parameter name="256 Hz" id="3">0</parameter>
+                            <parameter name="512 Hz" id="4">0</parameter>
+                            <parameter name="1024 Hz" id="5">0</parameter>
+                            <parameter name="2048 Hz" id="6">0</parameter>
+                            <parameter name="4096 Hz" id="7">0</parameter>
+                            <parameter name="8192 Hz" id="8">0</parameter>
+                            <parameter name="16384 Hz" id="9">0</parameter>
+                        </ParameterFolder>
+                    </Parameters>
+                </Effect>
+            </Effects>
+        </EffectBundlePart>
+        <EffectBundlePart name="Voice Enhance">
+            <defaultValue>0</defaultValue>
+            <Effects>
+                <Effect version="1" name="AUGraphicEQ" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678677265716170706c</effectID>
+                    <Parameters>
+                        <ParameterFolder name="" id="1">
+                            <parameter name="number of bands" id="10000" referenceEnumValue="10 Bands">0</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="" id="2">
+                            <parameter name="32 Hz" id="0">-2</parameter>
+                            <parameter name="64 Hz" id="1">-3</parameter>
+                            <parameter name="128 Hz" id="2">-3</parameter>
+                            <parameter name="256 Hz" id="3">1</parameter>
+                            <parameter name="512 Hz" id="4">4</parameter>
+                            <parameter name="1024 Hz" id="5">4</parameter>
+                            <parameter name="2048 Hz" id="6">3</parameter>
+                            <parameter name="4096 Hz" id="7">1</parameter>
+                            <parameter name="8192 Hz" id="8">0</parameter>
+                            <parameter name="16384 Hz" id="9">-1</parameter>
+                        </ParameterFolder>
+                    </Parameters>
+                </Effect>
+            </Effects>
+        </EffectBundlePart>
+        <EffectBundlePart name="Music Enhance">
+            <defaultValue>0</defaultValue>
+            <Effects>
+                <Effect version="1" name="AUGraphicEQ" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678677265716170706c</effectID>
+                    <Parameters>
+                        <ParameterFolder name="" id="1">
+                            <parameter name="number of bands" id="10000" referenceEnumValue="10 Bands">0</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="" id="2">
+                            <parameter name="32 Hz" id="0">3</parameter>
+                            <parameter name="64 Hz" id="1">6</parameter>
+                            <parameter name="128 Hz" id="2">9</parameter>
+                            <parameter name="256 Hz" id="3">7</parameter>
+                            <parameter name="512 Hz" id="4">6</parameter>
+                            <parameter name="1024 Hz" id="5">5</parameter>
+                            <parameter name="2048 Hz" id="6">7</parameter>
+                            <parameter name="4096 Hz" id="7">9</parameter>
+                            <parameter name="8192 Hz" id="8">11</parameter>
+                            <parameter name="16384 Hz" id="9">8</parameter>
+                        </ParameterFolder>
+                    </Parameters>
+                </Effect>
+            </Effects>
+        </EffectBundlePart>
+        <EffectBundlePart name="Loudness">
+            <defaultValue>0</defaultValue>
+            <Effects>
+                <Effect version="1" name="AUGraphicEQ" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678677265716170706c</effectID>
+                    <Parameters>
+                        <ParameterFolder name="" id="1">
+                            <parameter name="number of bands" id="10000" referenceEnumValue="10 Bands">0</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="" id="2">
+                            <parameter name="32 Hz" id="0">6</parameter>
+                            <parameter name="64 Hz" id="1">4</parameter>
+                            <parameter name="128 Hz" id="2">0</parameter>
+                            <parameter name="256 Hz" id="3">0</parameter>
+                            <parameter name="512 Hz" id="4">-2</parameter>
+                            <parameter name="1024 Hz" id="5">0</parameter>
+                            <parameter name="2048 Hz" id="6">-1</parameter>
+                            <parameter name="4096 Hz" id="7">-5</parameter>
+                            <parameter name="8192 Hz" id="8">5</parameter>
+                            <parameter name="16384 Hz" id="9">1</parameter>
+                        </ParameterFolder>
+                    </Parameters>
+                </Effect>
+            </Effects>
+        </EffectBundlePart>
+        <EffectBundlePart name="Hum Reduction">
+            <defaultValue>0</defaultValue>
+            <Effects>
+                <Effect version="1" name="AUGraphicEQ" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678677265716170706c</effectID>
+                    <Parameters>
+                        <ParameterFolder name="" id="1">
+                            <parameter name="number of bands" id="10000" referenceEnumValue="10 Bands">0</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="" id="2">
+                            <parameter name="32 Hz" id="0">0</parameter>
+                            <parameter name="64 Hz" id="1">-12</parameter>
+                            <parameter name="128 Hz" id="2">0</parameter>
+                            <parameter name="256 Hz" id="3">0</parameter>
+                            <parameter name="512 Hz" id="4">0</parameter>
+                            <parameter name="1024 Hz" id="5">0</parameter>
+                            <parameter name="2048 Hz" id="6">0</parameter>
+                            <parameter name="4096 Hz" id="7">0</parameter>
+                            <parameter name="8192 Hz" id="8">0</parameter>
+                            <parameter name="16384 Hz" id="9">0</parameter>
+                        </ParameterFolder>
+                    </Parameters>
+                </Effect>
+            </Effects>
+        </EffectBundlePart>
+        <EffectBundlePart name="Bass Boost">
+            <defaultValue>0</defaultValue>
+            <Effects>
+                <Effect version="1" name="AUGraphicEQ" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678677265716170706c</effectID>
+                    <Parameters>
+                        <ParameterFolder name="" id="1">
+                            <parameter name="number of bands" id="10000" referenceEnumValue="10 Bands">0</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="" id="2">
+                            <parameter name="32 Hz" id="0">5</parameter>
+                            <parameter name="64 Hz" id="1">4</parameter>
+                            <parameter name="128 Hz" id="2">3</parameter>
+                            <parameter name="256 Hz" id="3">2</parameter>
+                            <parameter name="512 Hz" id="4">1</parameter>
+                            <parameter name="1024 Hz" id="5">0</parameter>
+                            <parameter name="2048 Hz" id="6">0</parameter>
+                            <parameter name="4096 Hz" id="7">0</parameter>
+                            <parameter name="8192 Hz" id="8">0</parameter>
+                            <parameter name="16384 Hz" id="9">0</parameter>
+                        </ParameterFolder>
+                    </Parameters>
+                </Effect>
+            </Effects>
+        </EffectBundlePart>
+        <EffectBundlePart name="Bass Reduce">
+            <defaultValue>0</defaultValue>
+            <Effects>
+                <Effect version="1" name="AUGraphicEQ" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678677265716170706c</effectID>
+                    <Parameters>
+                        <ParameterFolder name="" id="1">
+                            <parameter name="number of bands" id="10000" referenceEnumValue="10 Bands">0</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="" id="2">
+                            <parameter name="32 Hz" id="0">-5</parameter>
+                            <parameter name="64 Hz" id="1">-4</parameter>
+                            <parameter name="128 Hz" id="2">-3</parameter>
+                            <parameter name="256 Hz" id="3">-2</parameter>
+                            <parameter name="512 Hz" id="4">-1</parameter>
+                            <parameter name="1024 Hz" id="5">0</parameter>
+                            <parameter name="2048 Hz" id="6">0</parameter>
+                            <parameter name="4096 Hz" id="7">0</parameter>
+                            <parameter name="8192 Hz" id="8">0</parameter>
+                            <parameter name="16384 Hz" id="9">0</parameter>
+                        </ParameterFolder>
+                    </Parameters>
+                </Effect>
+            </Effects>
+        </EffectBundlePart>
+        <EffectBundlePart name="Treble Boost">
+            <defaultValue>0</defaultValue>
+            <Effects>
+                <Effect version="1" name="AUGraphicEQ" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678677265716170706c</effectID>
+                    <Parameters>
+                        <ParameterFolder name="" id="1">
+                            <parameter name="number of bands" id="10000" referenceEnumValue="10 Bands">0</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="" id="2">
+                            <parameter name="32 Hz" id="0">0</parameter>
+                            <parameter name="64 Hz" id="1">0</parameter>
+                            <parameter name="128 Hz" id="2">0</parameter>
+                            <parameter name="256 Hz" id="3">0</parameter>
+                            <parameter name="512 Hz" id="4">0</parameter>
+                            <parameter name="1024 Hz" id="5">1</parameter>
+                            <parameter name="2048 Hz" id="6">2</parameter>
+                            <parameter name="4096 Hz" id="7">3</parameter>
+                            <parameter name="8192 Hz" id="8">4</parameter>
+                            <parameter name="16384 Hz" id="9">5</parameter>
+                        </ParameterFolder>
+                    </Parameters>
+                </Effect>
+            </Effects>
+        </EffectBundlePart>
+        <EffectBundlePart name="Treble Reduce">
+            <defaultValue>0</defaultValue>
+            <Effects>
+                <Effect version="1" name="AUGraphicEQ" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678677265716170706c</effectID>
+                    <Parameters>
+                        <ParameterFolder name="" id="1">
+                            <parameter name="number of bands" id="10000" referenceEnumValue="10 Bands">0</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="" id="2">
+                            <parameter name="32 Hz" id="0">0</parameter>
+                            <parameter name="64 Hz" id="1">0</parameter>
+                            <parameter name="128 Hz" id="2">0</parameter>
+                            <parameter name="256 Hz" id="3">0</parameter>
+                            <parameter name="512 Hz" id="4">0</parameter>
+                            <parameter name="1024 Hz" id="5">-1</parameter>
+                            <parameter name="2048 Hz" id="6">-3</parameter>
+                            <parameter name="4096 Hz" id="7">-4</parameter>
+                            <parameter name="8192 Hz" id="8">-5</parameter>
+                            <parameter name="16384 Hz" id="9">-6</parameter>
+                        </ParameterFolder>
+                    </Parameters>
+                </Effect>
+            </Effects>
+        </EffectBundlePart>
+    </EffectBundleParts>
+</EffectBundle>

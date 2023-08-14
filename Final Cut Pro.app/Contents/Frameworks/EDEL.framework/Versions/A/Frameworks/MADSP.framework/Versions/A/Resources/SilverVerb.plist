@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- PEALISTv1: TextSize:0| -->
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sectionName</key>
+		<string>Room</string>
+		<key>groups</key>
+		<array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Pre Delay</string>
+						<key>parameterID</key>
+						<integer>2</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Reflectivity</string>
+						<key>parameterID</key>
+						<integer>3</integer>
+						<key>preferredControlType</key>
+						<string>largeKnob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Room Size</string>
+						<key>parameterID</key>
+						<integer>4</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Density/Time</string>
+						<key>parameterID</key>
+						<integer>7</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Low Cut</string>
+						<key>parameterID</key>
+						<integer>6</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>High Cut</string>
+						<key>parameterID</key>
+						<integer>5</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+						<key>New Child</key>
+						<string></string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionName</key>
+		<string>Modulation</string>
+		<key>onOffParameter</key>
+		<dict>
+			<key>name</key>
+			<string>Section On/Off Toggle</string>
+			<key>parameterID</key>
+			<real>13</real>
+		</dict>
+		<key>groups</key>
+		<array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Modulation Rate</string>
+						<key>parameterID</key>
+						<integer>8</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Modulation Phase</string>
+						<key>parameterID</key>
+						<integer>10</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Modulation Int</string>
+						<key>parameterID</key>
+						<integer>9</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionName</key>
+		<string>Output</string>
+		<key>groups</key>
+		<array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Dry</string>
+						<key>parameterID</key>
+						<integer>11</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Wet</string>
+						<key>parameterID</key>
+						<integer>12</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

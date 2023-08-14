@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- PEALISTv1: TextSize:0| -->
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sectionName</key>
+		<string>EQ</string>
+		<key>onOffParameter</key>
+		<dict>
+			<key>name</key>
+			<string>on/off</string>
+			<key>parameterID</key>
+			<real>15</real>
+		</dict>
+		<key>groups</key>
+		<array>
+			<array>
+				<dict>
+					<key>name</key>
+					<string>31.25 Hz</string>
+					<key>parameterID</key>
+					<integer>10</integer>
+					<key>preferredControlType</key>
+					<string>slider</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>62.5 Hz</string>
+					<key>parameterID</key>
+					<integer>9</integer>
+					<key>preferredControlType</key>
+					<string>slider</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>125 Hz</string>
+					<key>parameterID</key>
+					<integer>8</integer>
+					<key>preferredControlType</key>
+					<string>slider</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>250 Hz</string>
+					<key>parameterID</key>
+					<integer>7</integer>
+					<key>preferredControlType</key>
+					<string>slider</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>500 Hz</string>
+					<key>parameterID</key>
+					<integer>6</integer>
+					<key>preferredControlType</key>
+					<string>slider</string>
+				</dict>
+			</array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>1 kHz</string>
+						<key>parameterID</key>
+						<integer>5</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>2 kHz</string>
+						<key>parameterID</key>
+						<integer>4</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>4 kHz</string>
+						<key>parameterID</key>
+						<integer>3</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>8 kHz</string>
+						<key>parameterID</key>
+						<integer>2</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>16 kHz</string>
+						<key>parameterID</key>
+						<integer>1</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Detune</string>
+						<key>parameterID</key>
+						<integer>12</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionName</key>
+		<string>Output</string>
+		<key>groups</key>
+		<array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Output Mode</string>
+							<key>parameterID</key>
+							<integer>13</integer>
+							<key>preferredControlType</key>
+							<string>menu</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Phase</string>
+							<key>parameterID</key>
+							<integer>11</integer>
+							<key>preferredControlType</key>
+							<string>segmentedControl</string>
+						</dict>
+					</array>
+				</array>
+			</dict>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Drive</string>
+						<key>parameterID</key>
+						<integer>14</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Volume</string>
+						<key>parameterID</key>
+						<integer>16</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

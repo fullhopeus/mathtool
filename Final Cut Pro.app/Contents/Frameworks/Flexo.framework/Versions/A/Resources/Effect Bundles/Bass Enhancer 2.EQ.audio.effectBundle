@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EffectBundle version="2">
+    <!--This table defines an effect bundle-->
+    <EffectBundleParts>
+        <EffectBundlePart name="Bass Enhancer 2">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="Channel EQ" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678000000ec454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Low Shelf Frequency [Hz]" id="6">250</parameter>
+                        <parameter name="Low Shelf Gain [dB]" id="7">315</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="2" value="0">
+                    <EffectSnapshot name="Channel EQ" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Low Shelf Gain [dB]" id="7">240</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="2" value="50">
+                    <EffectSnapshot name="Channel EQ" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Low Shelf Gain [dB]" id="7">315</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="2" value="100">
+                    <EffectSnapshot name="Channel EQ" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Low Shelf Gain [dB]" id="7">390</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+    </EffectBundleParts>
+</EffectBundle>

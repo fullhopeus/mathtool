@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<axel version="0.645">
+    <colorLooksPuckControlObject>
+        <colorLooksPuckControlObject id="FE9AA132-B842-4EEC-9EF5-8C0BC39B6B50">
+            <userDefaults nil="true"></userDefaults>
+            <name>Fall Sun</name>
+            <puckControlGroups>
+                <puckControlGroup id="C35CE627-BC4C-494A-9D7B-D5EEA1A4E18A">
+                    <userDefaults nil="true"></userDefaults>
+                    <name>color</name>
+                    <puckControlValues>
+                        <puckControlValue id="89E6B9E9-E9FA-4777-8932-174E1293DAB7">
+                            <userDefaults nil="true"></userDefaults>
+                            <name>global</name>
+                            <x>0</x>
+                            <y>0.4999999999999998</y>
+                        </puckControlValue>
+                        <puckControlValue id="A4A94C7A-C04B-4F7D-A6DA-F97A95E21FF7">
+                            <userDefaults nil="true"></userDefaults>
+                            <name>highlight</name>
+                            <x>0.1566038781163435</x>
+                            <y>0.527363184079602</y>
+                        </puckControlValue>
+                        <puckControlValue id="B4FA1B87-D82A-4124-8802-D504AD7201F7">
+                            <userDefaults nil="true"></userDefaults>
+                            <name>midtone</name>
+                            <x>0.07068421052631578</x>
+                            <y>0.5149253731343284</y>
+                        </puckControlValue>
+                        <puckControlValue id="B4E1E2C2-61B5-4EC6-829A-5FC7C9800146">
+                            <userDefaults nil="true"></userDefaults>
+                            <name>shadow</name>
+                            <x>0.677285318559557</x>
+                            <y>0.5049751243781094</y>
+                        </puckControlValue>
+                    </puckControlValues>
+                </puckControlGroup>
+                <puckControlGroup id="3E02A220-28B5-401B-AED7-3476E1905FED">
+                    <userDefaults nil="true"></userDefaults>
+                    <name>saturation</name>
+                    <puckControlValues>
+                        <puckControlValue id="7B3CA403-DD21-46EF-806F-F5154010EAE7">
+                            <userDefaults nil="true"></userDefaults>
+                            <name>global</name>
+                            <x>0</x>
+                            <y>0.5</y>
+                        </puckControlValue>
+                        <puckControlValue id="E9E78CB3-B32D-4D3D-A27D-BB441CA06DE5">
+                            <userDefaults nil="true"></userDefaults>
+                            <name>highlight</name>
+                            <x>0</x>
+                            <y>0.4079601990049751</y>
+                        </puckControlValue>
+                        <puckControlValue id="B50E516E-3B5E-4F56-B404-3C7C39F1DEE0">
+                            <userDefaults nil="true"></userDefaults>
+                            <name>midtone</name>
+                            <x>0</x>
+                            <y>0.3805970149253731</y>
+                        </puckControlValue>
+                        <puckControlValue id="029B2B9D-1E73-498C-B71B-BC52EFF5EEBA">
+                            <userDefaults nil="true"></userDefaults>
+                            <name>shadow</name>
+                            <x>0</x>
+                            <y>0.4577114427860697</y>
+                        </puckControlValue>
+                    </puckControlValues>
+                </puckControlGroup>
+                <puckControlGroup id="62647B9A-1065-4847-A17F-5F11961BACFB">
+                    <userDefaults nil="true"></userDefaults>
+                    <name>exposure</name>
+                    <puckControlValues>
+                        <puckControlValue id="540CC702-059B-4483-A096-C415401815D1">
+                            <userDefaults nil="true"></userDefaults>
+                            <name>global</name>
+                            <x>0</x>
+                            <y>0.5000000000000001</y>
+                        </puckControlValue>
+                        <puckControlValue id="10A76606-8BDA-4178-A3A9-267D3DBC1A54">
+                            <userDefaults nil="true"></userDefaults>
+                            <name>highlight</name>
+                            <x>0</x>
+                            <y>0.9577114427860697</y>
+                        </puckControlValue>
+                        <puckControlValue id="555ACD8D-0B68-457E-899D-FE4C779A9329">
+                            <userDefaults nil="true"></userDefaults>
+                            <name>midtone</name>
+                            <x>0</x>
+                            <y>0.5348258706467662</y>
+                        </puckControlValue>
+                        <puckControlValue id="A04FE277-CE02-43C5-9CF5-C5386065A2EB">
+                            <userDefaults nil="true"></userDefaults>
+                            <name>shadow</name>
+                            <x>0</x>
+                            <y>0.3706467661691542</y>
+                        </puckControlValue>
+                    </puckControlValues>
+                </puckControlGroup>
+            </puckControlGroups>
+        </colorLooksPuckControlObject>
+    </colorLooksPuckControlObject>
+</axel>

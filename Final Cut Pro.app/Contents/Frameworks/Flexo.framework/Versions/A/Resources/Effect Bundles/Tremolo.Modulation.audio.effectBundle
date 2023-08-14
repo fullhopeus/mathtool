@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EffectBundle version="1">
+    <!--This table defines an effect bundle-->
+    <EffectBundleParts>
+        <EffectBundlePart name="Tremolo">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="Tremolo" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678000000b9454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Symmetry [%]" id="3">52</parameter>
+                        <parameter name="Smoothing [%]" id="4">47</parameter>
+                        <parameter name="Stereophase [°]" id="5">36</parameter>
+                        <parameter name="Offset [°]" id="7">18</parameter>
+                        <parameter name="Translate Rate" id="9" referenceEnumValue="free -&gt; sync">0</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="1" value="0">
+                    <EffectSnapshot name="Tremolo" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Depth [%]" id="1">60</parameter>
+                            <parameter name="Rate" id="2">353</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="50">
+                    <EffectSnapshot name="Tremolo" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Depth [%]" id="1">67</parameter>
+                            <parameter name="Rate" id="2">376</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="100">
+                    <EffectSnapshot name="Tremolo" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Depth [%]" id="1">100</parameter>
+                            <parameter name="Rate" id="2">387</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+    </EffectBundleParts>
+</EffectBundle>

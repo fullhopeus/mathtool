@@ -1,0 +1,6 @@
+framework module MXFExportSDK {
+  umbrella header "MXFExportSDK.h"
+
+  export *
+  module * { export * }
+}

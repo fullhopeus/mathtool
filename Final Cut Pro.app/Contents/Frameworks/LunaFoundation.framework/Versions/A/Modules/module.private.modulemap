@@ -1,0 +1,5 @@
+framework module LunaFoundation_Private [system] {
+  umbrella "PrivateHeaders"
+
+  module * { export * }
+}

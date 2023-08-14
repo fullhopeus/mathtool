@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- PEALISTv1: TextSize:0| -->
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sectionName</key>
+		<string>Band 1</string>
+		<key>onOffParameter</key>
+		<dict>
+			<key>name</key>
+			<string>Monitor Band 1</string>
+			<key>parameterID</key>
+			<real>46</real>
+		</dict>
+		<key>groups</key>
+		<array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Gain Reduction 1</string>
+						<key>parameterID</key>
+						<integer>58</integer>
+						<key>preferredControlType</key>
+						<string>readout</string>
+					</dict>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Bypass 1</string>
+							<key>parameterID</key>
+							<integer>53</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Solo 1</string>
+							<key>parameterID</key>
+							<integer>57</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+					</array>
+					<dict>
+						<key>name</key>
+						<string>Xover Frequency 1/2</string>
+						<key>parameterID</key>
+						<integer>25</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>groupName</key>
+				<string>Compressor</string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Comp. Threshold 1</string>
+						<key>parameterID</key>
+						<integer>41</integer>
+						<key>preferredControlType</key>
+						<string>largeKnob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Comp. Ratio 1</string>
+						<key>parameterID</key>
+						<integer>42</integer>
+						<key>preferredControlType</key>
+						<string>largeKnob</string>
+					</dict>
+				</array>
+			</dict>
+			<array>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Attack 1</string>
+						<key>parameterID</key>
+						<integer>44</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Release 1</string>
+						<key>parameterID</key>
+						<integer>45</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Det. Attack Time 1</string>
+						<key>parameterID</key>
+						<integer>37</integer>
+						<key>preferredControlType</key>
+						<string>readout</string>
+					</dict>
+				</array>
+				<dict>
+					<key>name</key>
+					<string>Make Up 1</string>
+					<key>parameterID</key>
+					<integer>43</integer>
+					<key>preferredControlType</key>
+					<string>slider</string>
+				</dict>
+			</array>
+			<dict>
+				<key>groupName</key>
+				<string>Expander</string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Exp. Threshold 1</string>
+						<key>parameterID</key>
+						<integer>39</integer>
+						<key>preferredControlType</key>
+						<string>largeKnob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Exp. Ratio 1</string>
+						<key>parameterID</key>
+						<integer>40</integer>
+						<key>preferredControlType</key>
+						<string>largeKnob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Reduction 1</string>
+						<key>parameterID</key>
+						<integer>38</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionName</key>
+		<string>Band 2</string>
+		<key>onOffParameter</key>
+		<dict>
+			<key>name</key>
+			<string>Monitor Band 2</string>
+			<key>parameterID</key>
+			<real>35</real>
+		</dict>
+		<key>groups</key>
+		<array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Gain Reduction 2</string>
+						<key>parameterID</key>
+						<integer>59</integer>
+						<key>preferredControlType</key>
+						<string>readout</string>
+					</dict>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Bypass 2</string>
+							<key>parameterID</key>
+							<integer>52</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Solo 2</string>
+							<key>parameterID</key>
+							<integer>56</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+					</array>
+					<dict>
+						<key>name</key>
+						<string>Xover Frequency 2/3</string>
+						<key>parameterID</key>
+						<integer>14</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>groupName</key>
+				<string>Compressor</string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Comp. Threshold 2</string>
+						<key>parameterID</key>
+						<integer>30</integer>
+						<key>preferredControlType</key>
+						<string>largeKnob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Comp. Ratio 2</string>
+						<key>parameterID</key>
+						<integer>31</integer>
+						<key>preferredControlType</key>
+						<string>largeKnob</string>
+					</dict>
+				</array>
+			</dict>
+			<array>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Attack 2</string>
+						<key>parameterID</key>
+						<integer>33</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Release 2</string>
+						<key>parameterID</key>
+						<integer>34</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Det. Attack Time 2</string>
+						<key>parameterID</key>
+						<integer>26</integer>
+						<key>preferredControlType</key>
+						<string>readout</string>
+					</dict>
+				</array>
+				<dict>
+					<key>name</key>
+					<string>Make Up 2</string>
+					<key>parameterID</key>
+					<integer>32</integer>
+					<key>preferredControlType</key>
+					<string>slider</string>
+				</dict>
+			</array>
+			<dict>
+				<key>groupName</key>
+				<string>Expander</string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Exp. Threshold 2</string>
+						<key>parameterID</key>
+						<integer>28</integer>
+						<key>preferredControlType</key>
+						<string>largeKnob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Exp. Ratio 2</string>
+						<key>parameterID</key>
+						<integer>29</integer>
+						<key>preferredControlType</key>
+						<string>largeKnob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Reduction 2</string>
+						<key>parameterID</key>
+						<integer>27</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionName</key>
+		<string>Band 3</string>
+		<key>onOffParameter</key>
+		<dict>
+			<key>name</key>
+			<string>Monitor Band 3</string>
+			<key>parameterID</key>
+			<real>24</real>
+		</dict>
+		<key>groups</key>
+		<array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Gain Reduction 3</string>
+						<key>parameterID</key>
+						<integer>60</integer>
+						<key>preferredControlType</key>
+						<string>readout</string>
+					</dict>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Bypass 3</string>
+							<key>parameterID</key>
+							<integer>51</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Solo 3</string>
+							<key>parameterID</key>
+							<integer>55</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+					</array>
+					<dict>
+						<key>name</key>
+						<string>Xover Frequency 3/4</string>
+						<key>parameterID</key>
+						<integer>3</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+					</dict>
+				</array>
+			</dict>
+			<dict>
+				<key>groupName</key>
+				<string>Compressor</string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Comp. Threshold 3</string>
+						<key>parameterID</key>
+						<integer>19</integer>
+						<key>preferredControlType</key>
+						<string>largeKnob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Comp. Ratio 3</string>
+						<key>parameterID</key>
+						<integer>20</integer>
+						<key>preferredControlType</key>
+						<string>largeKnob</string>
+					</dict>
+				</array>
+			</dict>
+			<array>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Attack 3</string>
+						<key>parameterID</key>
+						<integer>22</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Release 3</string>
+						<key>parameterID</key>
+						<integer>23</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Det. Attack Time 3</string>
+						<key>parameterID</key>
+						<integer>15</integer>
+						<key>preferredControlType</key>
+						<string>readout</string>
+					</dict>
+				</array>
+				<dict>
+					<key>name</key>
+					<string>Make Up 3</string>
+					<key>parameterID</key>
+					<integer>21</integer>
+					<key>preferredControlType</key>
+					<string>slider</string>
+				</dict>
+			</array>
+			<dict>
+				<key>groupName</key>
+				<string>Expander</string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Exp. Threshold 3</string>
+						<key>parameterID</key>
+						<integer>17</integer>
+						<key>preferredControlType</key>
+						<string>largeKnob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Exp. Ratio 3</string>
+						<key>parameterID</key>
+						<integer>18</integer>
+						<key>preferredControlType</key>
+						<string>largeKnob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Reduction 3</string>
+						<key>parameterID</key>
+						<integer>16</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionName</key>
+		<string>Band 4</string>
+		<key>onOffParameter</key>
+		<dict>
+			<key>name</key>
+			<string>Monitor Band 4</string>
+			<key>parameterID</key>
+			<real>13</real>
+		</dict>
+		<key>groups</key>
+		<array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Gain Reduction 4</string>
+						<key>parameterID</key>
+						<integer>61</integer>
+						<key>preferredControlType</key>
+						<string>readout</string>
+					</dict>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>Bypass 4</string>
+							<key>parameterID</key>
+							<integer>50</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Solo 4</string>
+							<key>parameterID</key>
+							<integer>54</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+					</array>
+				</array>
+			</dict>
+			<dict>
+				<key>groupName</key>
+				<string>Compressor</string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Comp. Threshold 4</string>
+						<key>parameterID</key>
+						<integer>8</integer>
+						<key>preferredControlType</key>
+						<string>largeKnob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Comp. Ratio 4</string>
+						<key>parameterID</key>
+						<integer>9</integer>
+						<key>preferredControlType</key>
+						<string>largeKnob</string>
+					</dict>
+				</array>
+			</dict>
+			<array>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Attack 4</string>
+						<key>parameterID</key>
+						<integer>11</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Release 4</string>
+						<key>parameterID</key>
+						<integer>12</integer>
+						<key>preferredControlType</key>
+						<string>knob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Det. Attack Time 4</string>
+						<key>parameterID</key>
+						<integer>4</integer>
+						<key>preferredControlType</key>
+						<string>readout</string>
+					</dict>
+				</array>
+				<dict>
+					<key>name</key>
+					<string>Make Up 4</string>
+					<key>parameterID</key>
+					<integer>10</integer>
+					<key>preferredControlType</key>
+					<string>slider</string>
+				</dict>
+			</array>
+			<dict>
+				<key>groupName</key>
+				<string>Expander</string>
+				<key>parameters</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>Exp. Threshold 4</string>
+						<key>parameterID</key>
+						<integer>6</integer>
+						<key>preferredControlType</key>
+						<string>largeKnob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Exp. Ratio 4</string>
+						<key>parameterID</key>
+						<integer>7</integer>
+						<key>preferredControlType</key>
+						<string>largeKnob</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>Reduction 4</string>
+						<key>parameterID</key>
+						<integer>5</integer>
+						<key>preferredControlType</key>
+						<string>slider</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>sectionName</key>
+		<string>Global</string>
+		<key>groups</key>
+		<array>
+			<dict>
+				<key>groupName</key>
+				<string></string>
+				<key>parameters</key>
+				<array>
+					<array>
+						<dict>
+							<key>name</key>
+							<string>AutoGain</string>
+							<key>parameterID</key>
+							<integer>49</integer>
+							<key>preferredControlType</key>
+							<string>toggle</string>
+						</dict>
+						<dict>
+							<key>name</key>
+							<string>Lookahead</string>
+							<key>parameterID</key>
+							<integer>2</integer>
+							<key>preferredControlType</key>
+							<string>readout</string>
+						</dict>
+					</array>
+					<dict>
+						<key>name</key>
+						<string>Master Gain</string>
+						<key>parameterID</key>
+						<integer>47</integer>
+						<key>preferredControlType</key>
+						<string>largeKnob</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EffectBundle version="1">
+    <!--This table defines an effect bundle-->
+    <EffectBundleParts>
+        <EffectBundlePart name="Alien">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="Ringshifter" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678000000fc454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Freq. Shift Mode" id="4" referenceEnumValue="Exponential">0</parameter>
+                        <parameter name="Operating Mode" id="8" referenceEnumValue="Frequency Shift Single">2</parameter>
+                        <parameter name="Dry/Wet" id="12">100</parameter>
+                        <parameter name="Env->Dry/Wet Modulation" id="13">50</parameter>
+                        <parameter name="LFO->Dry/Wet Modulation" id="14">50</parameter>
+                        <parameter name="Env Follower On" id="16" referenceBoolValue="YES">1</parameter>
+                        <parameter name="Env Sensivity [dB]" id="17">33</parameter>
+                        <parameter name="Env Attack [ms]" id="18">76</parameter>
+                        <parameter name="Env Release [ms]" id="19">59</parameter>
+                        <parameter name="LFO On" id="21" referenceBoolValue="YES">1</parameter>
+                        <parameter name="LFO Rate [Hz]" id="23">102</parameter>
+                        <parameter name="LFO Symmetry" id="24">47</parameter>
+                        <parameter name="LFO Smooth" id="25">100</parameter>
+                        <parameter name="Delay Amount" id="27">0</parameter>
+                        <parameter name="Delay Time [ms]" id="29">5</parameter>
+                        <parameter name="Delay Low Cut [Hz]" id="30">0</parameter>
+                        <parameter name="Delay High Cut [Hz]" id="31">90</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="Exciter" effectIndex="1">
+                    <effectID>AudioUnit: 0x61756678000000c5454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Frequency [Hz]" id="1">87</parameter>
+                        <parameter name="Color" id="2" referenceEnumValue="Color2">1</parameter>
+                        <parameter name="Harmonics [%]" id="3">62</parameter>
+                        <parameter name="Dry Signal" id="4" referenceBoolValue="YES">1</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="Flanger" effectIndex="2">
+                    <effectID>AudioUnit: 0x6175667800000092454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Intensity [%]" id="2">120</parameter>
+                        <parameter name="Rate [Hz]" id="3">120</parameter>
+                        <parameter name="Feedback [%]" id="4">51</parameter>
+                        <parameter name="Rate Sync" id="5" referenceBoolValue="NO">0</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="3" value="0">
+                    <EffectSnapshot name="Ringshifter" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Stereo Width" id="10">0</parameter>
+                            <parameter name="Frequency" id="2">278</parameter>
+                            <parameter name="Env->Osc Modulation" id="5">531</parameter>
+                            <parameter name="LFO->Osc Modulation" id="6">511</parameter>
+                            <parameter name="Feedback" id="9">0</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Flanger" effectIndex="2">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix [%]" id="1">0</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="3" value="50">
+                    <EffectSnapshot name="Ringshifter" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Stereo Width" id="10">87</parameter>
+                            <parameter name="Frequency" id="2">126</parameter>
+                            <parameter name="Env->Osc Modulation" id="5">792</parameter>
+                            <parameter name="LFO->Osc Modulation" id="6">361</parameter>
+                            <parameter name="Feedback" id="9">33</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Flanger" effectIndex="2">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix [%]" id="1">25</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="3" value="100">
+                    <EffectSnapshot name="Ringshifter" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Stereo Width" id="10">87</parameter>
+                            <parameter name="Frequency" id="2">128</parameter>
+                            <parameter name="Env->Osc Modulation" id="5">792</parameter>
+                            <parameter name="LFO->Osc Modulation" id="6">226</parameter>
+                            <parameter name="Feedback" id="9">95</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Flanger" effectIndex="2">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix [%]" id="1">45</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+        <EffectBundlePart name="Martian">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="AUDistortion" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678646973746170706c</effectID>
+                    <Parameters>
+                        <ParameterFolder name="delay" id="1">
+                            <parameter name="delay" id="0">0.1000000014901161</parameter>
+                            <parameter name="decay" id="1">9.729999542236328</parameter>
+                            <parameter name="delay mix" id="2">32.05716705322266</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="ring modulation" id="2">
+                            <parameter name="ring mod balance" id="12">67.50635528564453</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="decimation" id="3">
+                            <parameter name="decimation" id="3">0</parameter>
+                            <parameter name="rounding" id="4">65.19999694824219</parameter>
+                            <parameter name="decimation mix" id="5">0</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="cubic polynomial" id="4">
+                            <parameter name="linear term" id="6">1</parameter>
+                            <parameter name="squared term" id="7">0</parameter>
+                            <parameter name="cubic term" id="8">20</parameter>
+                            <parameter name="polynomial mix" id="9">0</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="soft clip" id="5">
+                            <parameter name="soft clip gain" id="14">-0</parameter>
+                        </ParameterFolder>
+                        <ParameterFolder name="mix" id="7">
+                            <parameter name="wet/dry mix" id="15">100</parameter>
+                        </ParameterFolder>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="Chorus" effectIndex="1">
+                    <effectID>AudioUnit: 0x6175667800000091454d4147</effectID>
+                    <Parameters>
+                        <parameter name="D-mode" id="4" referenceBoolValue="NO">0</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="2" value="0">
+                    <EffectSnapshot name="AUDistortion" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <ParameterFolder name="ring modulation" id="2">
+                                <parameter name="ring mod freq 1" id="10">103.6105041503906</parameter>
+                                <parameter name="ring mod freq 2" id="11">154.6234130859375</parameter>
+                                <parameter name="ring mod mix" id="13">52.14503860473633</parameter>
+                            </ParameterFolder>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Chorus" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix [%]" id="1">50</parameter>
+                            <parameter name="Intensity [%]" id="2">120</parameter>
+                            <parameter name="Rate [Hz]" id="3">10</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="2" value="50">
+                    <EffectSnapshot name="AUDistortion" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <ParameterFolder name="ring modulation" id="2">
+                                <parameter name="ring mod freq 1" id="10">103.6105041503906</parameter>
+                                <parameter name="ring mod freq 2" id="11">1708.0625</parameter>
+                                <parameter name="ring mod mix" id="13">89.95750427246094</parameter>
+                            </ParameterFolder>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Chorus" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix [%]" id="1">50</parameter>
+                            <parameter name="Intensity [%]" id="2">120</parameter>
+                            <parameter name="Rate [Hz]" id="3">26</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="2" value="100">
+                    <EffectSnapshot name="AUDistortion" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <ParameterFolder name="ring modulation" id="2">
+                                <parameter name="ring mod freq 1" id="10">290.0692443847656</parameter>
+                                <parameter name="ring mod freq 2" id="11">364.6337890625</parameter>
+                                <parameter name="ring mod mix" id="13">100</parameter>
+                            </ParameterFolder>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Chorus" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix [%]" id="1">100</parameter>
+                            <parameter name="Intensity [%]" id="2">34</parameter>
+                            <parameter name="Rate [Hz]" id="3">95</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+        <EffectBundlePart name="Moon Cat">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="Tremolo" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678000000b9454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Rate" id="2">400</parameter>
+                        <parameter name="Symmetry [%]" id="3">50</parameter>
+                        <parameter name="Stereophase [°]" id="5">36</parameter>
+                        <parameter name="Offset [°]" id="7">18</parameter>
+                        <parameter name="Translate Rate" id="9" referenceEnumValue="free -> sync">0</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="Phaser" effectIndex="1">
+                    <effectID>AudioUnit: 0x6175667800000098454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Feedback [%]" id="4">0</parameter>
+                        <parameter name="Sweep Floor [Hz]" id="5">10</parameter>
+                        <parameter name="Sweep Ceiling [Hz]" id="6">90</parameter>
+                        <parameter name="Stages" id="7" referenceEnumValue="4">0</parameter>
+                        <parameter name="LFO Env Follow [%]" id="8">0</parameter>
+                        <parameter name="Phase [°]" id="9">18</parameter>
+                        <parameter name="Output Mix [%]" id="10">100</parameter>
+                        <parameter name="Warmth" id="12" referenceBoolValue="YES">1</parameter>
+                        <parameter name="FB Filter" id="13" referenceBoolValue="NO">0</parameter>
+                        <parameter name="LP Cutoff [Hz]" id="14">119</parameter>
+                        <parameter name="HP Cutoff [Hz]" id="15">0</parameter>
+                        <parameter name="LFO 1 Sync" id="19" referenceBoolValue="NO">0</parameter>
+                        <parameter name="LFO 2 Sync" id="20" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Sweep Mode" id="21" referenceEnumValue="Squared">0</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="Flanger" effectIndex="2">
+                    <effectID>AudioUnit: 0x6175667800000092454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Rate Sync" id="5" referenceBoolValue="NO">0</parameter>
+                    </Parameters>
+                </Effect>
+                <Effect version="1" name="Stereo Delay" effectIndex="3">
+                    <effectID>AudioUnit: 0x6175667800000094454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Delay Time Left [ms]" id="3">115</parameter>
+                        <parameter name="Delay Time Right [ms]" id="4">115</parameter>
+                        <parameter name="Crossfeed L->R [%]" id="7">0</parameter>
+                        <parameter name="Crossfeed R->L [%]" id="8">0</parameter>
+                        <parameter name="Input Left" id="16" referenceEnumValue="Left">1</parameter>
+                        <parameter name="Input Right" id="17" referenceEnumValue="Right">2</parameter>
+                        <parameter name="FB Phase Left" id="18" referenceEnumValue="normal">0</parameter>
+                        <parameter name="FB Phase Right" id="19" referenceEnumValue="normal">0</parameter>
+                        <parameter name="FB Phase L->R" id="20" referenceEnumValue="normal">0</parameter>
+                        <parameter name="FB Phase R->L" id="21" referenceEnumValue="normal">0</parameter>
+                        <parameter name="High Cut Left [Hz]" id="23">95</parameter>
+                        <parameter name="Low Cut Left [Hz]" id="24">55</parameter>
+                        <parameter name="High Cut Right [Hz]" id="25">95</parameter>
+                        <parameter name="Low Cut Right [Hz]" id="26">55</parameter>
+                        <parameter name="Stereo Link" id="27" referenceBoolValue="NO">0</parameter>
+                        <parameter name="Routing Preset" id="59" referenceEnumValue="Straight">2</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="4" value="0">
+                    <EffectSnapshot name="Tremolo" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Depth [%]" id="1">62</parameter>
+                            <parameter name="Smoothing [%]" id="4">20</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Phaser" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Rate LFO 1 [Hz]" id="1">60</parameter>
+                            <parameter name="Env Follow [%]" id="11">46</parameter>
+                            <parameter name="Rate LFO 2 [Hz]" id="2">15</parameter>
+                            <parameter name="LFO Mix [%]" id="3">59</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Flanger" effectIndex="2">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix [%]" id="1">50</parameter>
+                            <parameter name="Intensity [%]" id="2">93</parameter>
+                            <parameter name="Rate [Hz]" id="3">17</parameter>
+                            <parameter name="Feedback [%]" id="4">50</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Stereo Delay" effectIndex="3">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix Left [%]" id="1">0</parameter>
+                            <parameter name="Mix Right [%]" id="2">0</parameter>
+                            <parameter name="Feedback Left [%]" id="5">7</parameter>
+                            <parameter name="Feedback Right [%]" id="6">9</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="4" value="50">
+                    <EffectSnapshot name="Tremolo" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Depth [%]" id="1">98</parameter>
+                            <parameter name="Smoothing [%]" id="4">20</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Phaser" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Rate LFO 1 [Hz]" id="1">100</parameter>
+                            <parameter name="Env Follow [%]" id="11">46</parameter>
+                            <parameter name="Rate LFO 2 [Hz]" id="2">26</parameter>
+                            <parameter name="LFO Mix [%]" id="3">65</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Flanger" effectIndex="2">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix [%]" id="1">50</parameter>
+                            <parameter name="Intensity [%]" id="2">112</parameter>
+                            <parameter name="Rate [Hz]" id="3">27</parameter>
+                            <parameter name="Feedback [%]" id="4">50</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Stereo Delay" effectIndex="3">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix Left [%]" id="1">8</parameter>
+                            <parameter name="Mix Right [%]" id="2">8</parameter>
+                            <parameter name="Feedback Left [%]" id="5">7</parameter>
+                            <parameter name="Feedback Right [%]" id="6">9</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="4" value="100">
+                    <EffectSnapshot name="Tremolo" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Depth [%]" id="1">100</parameter>
+                            <parameter name="Smoothing [%]" id="4">29</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Phaser" effectIndex="1">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Rate LFO 1 [Hz]" id="1">100</parameter>
+                            <parameter name="Env Follow [%]" id="11">4</parameter>
+                            <parameter name="Rate LFO 2 [Hz]" id="2">96</parameter>
+                            <parameter name="LFO Mix [%]" id="3">65</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Flanger" effectIndex="2">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix [%]" id="1">51</parameter>
+                            <parameter name="Intensity [%]" id="2">112</parameter>
+                            <parameter name="Rate [Hz]" id="3">58</parameter>
+                            <parameter name="Feedback [%]" id="4">65</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                    <EffectSnapshot name="Stereo Delay" effectIndex="3">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Mix Left [%]" id="1">8</parameter>
+                            <parameter name="Mix Right [%]" id="2">8</parameter>
+                            <parameter name="Feedback Left [%]" id="5">56</parameter>
+                            <parameter name="Feedback Right [%]" id="6">53</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+    </EffectBundleParts>
+</EffectBundle>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsumerSolidBlack</key>
+	<integer>0</integer>
+	<key>ConsumerSolidWhite</key>
+	<integer>1</integer>
+	<key>ConsumerSolidGreen</key>
+	<integer>2</integer>
+	<key>ConsumerSolidBlue</key>
+	<integer>3</integer>
+	<key>ConsumerSolidGray</key>
+	<integer>4</integer>
+	<key>ConsumerSolidTan</key>
+	<integer>5</integer>
+	<key>ConsumerSolidOrange</key>
+	<integer>6</integer>
+	<key>ConsumerSolidRed</key>
+	<integer>7</integer>
+</dict>
+</plist>

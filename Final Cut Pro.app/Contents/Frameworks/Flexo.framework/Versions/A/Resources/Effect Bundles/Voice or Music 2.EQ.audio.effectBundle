@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EffectBundle version="2">
+    <!--This table defines an effect bundle-->
+    <EffectBundleParts>
+        <EffectBundlePart name="Normal">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="Channel EQ" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678000000ec454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Low Shelf Frequency [Hz]" id="6">83</parameter>
+                        <parameter name="Low Shelf Gain [dB]" id="7">203</parameter>
+                        <parameter name="Low Shelf Q-Factor" id="8">42</parameter>
+                        <parameter name="Peak 2 Frequency [Hz]" id="14">384</parameter>
+                        <parameter name="Peak 2 Gain [dB]" id="15">245</parameter>
+                        <parameter name="Peak 3 Gain [dB]" id="19">238</parameter>
+                        <parameter name="Peak 4 Frequency [Hz]" id="22">681</parameter>
+                        <parameter name="Peak 4 Gain [dB]" id="23">276</parameter>
+                        <parameter name="High Shelf Frequency [Hz]" id="26">896</parameter>
+                        <parameter name="High Shelf Gain [dB]" id="27">180</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="1" value="0">
+                    <EffectSnapshot name="Channel EQ" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Low Shelf Frequency [Hz]" id="6">223</parameter>
+                            <parameter name="Low Shelf Gain [dB]" id="7">237</parameter>
+                            <parameter name="Low Shelf Q-Factor" id="8">38</parameter>
+                            <parameter name="Peak 2 Frequency [Hz]" id="14">315</parameter>
+                            <parameter name="Peak 2 Gain [dB]" id="15">251</parameter>
+                            <parameter name="Peak 3 Gain [dB]" id="19">254</parameter>
+                            <parameter name="Peak 4 Gain [dB]" id="23">247</parameter>
+                            <parameter name="High Shelf Frequency [Hz]" id="26">857</parameter>
+                            <parameter name="High Shelf Gain [dB]" id="27">254</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="50">
+                    <EffectSnapshot name="Channel EQ" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Low Shelf Frequency [Hz]" id="6">153</parameter>
+                            <parameter name="Low Shelf Gain [dB]" id="7">220</parameter>
+                            <parameter name="Low Shelf Q-Factor" id="8">40</parameter>
+                            <parameter name="Peak 2 Frequency [Hz]" id="14">350</parameter>
+                            <parameter name="Peak 2 Gain [dB]" id="15">248</parameter>
+                            <parameter name="Peak 3 Gain [dB]" id="19">246</parameter>
+                            <parameter name="Peak 4 Gain [dB]" id="23">262</parameter>
+                            <parameter name="High Shelf Frequency [Hz]" id="26">877</parameter>
+                            <parameter name="High Shelf Gain [dB]" id="27">217</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="100">
+                    <EffectSnapshot name="Channel EQ" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Low Shelf Frequency [Hz]" id="6">83</parameter>
+                            <parameter name="Low Shelf Gain [dB]" id="7">203</parameter>
+                            <parameter name="Low Shelf Q-Factor" id="8">42</parameter>
+                            <parameter name="Peak 2 Frequency [Hz]" id="14">384</parameter>
+                            <parameter name="Peak 2 Gain [dB]" id="15">245</parameter>
+                            <parameter name="Peak 3 Gain [dB]" id="19">238</parameter>
+                            <parameter name="Peak 4 Gain [dB]" id="23">276</parameter>
+                            <parameter name="High Shelf Frequency [Hz]" id="26">896</parameter>
+                            <parameter name="High Shelf Gain [dB]" id="27">180</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+        <EffectBundlePart name="Steeper Slope">
+            <defaultValue>50</defaultValue>
+            <Effects>
+                <Effect version="1" name="Channel EQ" effectIndex="0">
+                    <effectID>AudioUnit: 0x61756678000000ec454d4147</effectID>
+                    <Parameters>
+                        <parameter name="Low Shelf Frequency [Hz]" id="6">253</parameter>
+                        <parameter name="Low Shelf Gain [dB]" id="7">205</parameter>
+                        <parameter name="Low Shelf Q-Factor" id="8">42</parameter>
+                        <parameter name="Peak 1 Frequency [Hz]" id="10">257</parameter>
+                        <parameter name="Peak 1 Gain [dB]" id="11">233</parameter>
+                        <parameter name="Peak 2 Frequency [Hz]" id="14">559</parameter>
+                        <parameter name="Peak 2 Gain [dB]" id="15">247</parameter>
+                        <parameter name="Peak 3 Gain [dB]" id="19">238</parameter>
+                        <parameter name="Peak 4 Frequency [Hz]" id="22">689</parameter>
+                        <parameter name="Peak 4 Gain [dB]" id="23">279</parameter>
+                        <parameter name="High Shelf Frequency [Hz]" id="26">837</parameter>
+                        <parameter name="High Shelf Gain [dB]" id="27">190</parameter>
+                    </Parameters>
+                </Effect>
+            </Effects>
+            <Snapshots>
+                <Snapshot effectCount="1" value="0">
+                    <EffectSnapshot name="Channel EQ" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Low Shelf Frequency [Hz]" id="6">223</parameter>
+                            <parameter name="Low Shelf Gain [dB]" id="7">237</parameter>
+                            <parameter name="Low Shelf Q-Factor" id="8">38</parameter>
+                            <parameter name="Peak 1 Frequency [Hz]" id="10">288</parameter>
+                            <parameter name="Peak 1 Gain [dB]" id="11">262</parameter>
+                            <parameter name="Peak 2 Frequency [Hz]" id="14">315</parameter>
+                            <parameter name="Peak 2 Gain [dB]" id="15">251</parameter>
+                            <parameter name="Peak 3 Gain [dB]" id="19">254</parameter>
+                            <parameter name="Peak 4 Gain [dB]" id="23">247</parameter>
+                            <parameter name="High Shelf Frequency [Hz]" id="26">857</parameter>
+                            <parameter name="High Shelf Gain [dB]" id="27">254</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="50">
+                    <EffectSnapshot name="Channel EQ" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Low Shelf Frequency [Hz]" id="6">238</parameter>
+                            <parameter name="Low Shelf Gain [dB]" id="7">221</parameter>
+                            <parameter name="Low Shelf Q-Factor" id="8">40</parameter>
+                            <parameter name="Peak 1 Frequency [Hz]" id="10">272</parameter>
+                            <parameter name="Peak 1 Gain [dB]" id="11">247</parameter>
+                            <parameter name="Peak 2 Frequency [Hz]" id="14">437</parameter>
+                            <parameter name="Peak 2 Gain [dB]" id="15">249</parameter>
+                            <parameter name="Peak 3 Gain [dB]" id="19">246</parameter>
+                            <parameter name="Peak 4 Gain [dB]" id="23">263</parameter>
+                            <parameter name="High Shelf Frequency [Hz]" id="26">847</parameter>
+                            <parameter name="High Shelf Gain [dB]" id="27">222</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+                <Snapshot effectCount="1" value="100">
+                    <EffectSnapshot name="Channel EQ" effectIndex="0">
+                        <ParameterFolder name="Parameters" id="2">
+                            <parameter name="Low Shelf Frequency [Hz]" id="6">253</parameter>
+                            <parameter name="Low Shelf Gain [dB]" id="7">205</parameter>
+                            <parameter name="Low Shelf Q-Factor" id="8">42</parameter>
+                            <parameter name="Peak 1 Frequency [Hz]" id="10">257</parameter>
+                            <parameter name="Peak 1 Gain [dB]" id="11">233</parameter>
+                            <parameter name="Peak 2 Frequency [Hz]" id="14">559</parameter>
+                            <parameter name="Peak 2 Gain [dB]" id="15">247</parameter>
+                            <parameter name="Peak 3 Gain [dB]" id="19">238</parameter>
+                            <parameter name="Peak 4 Gain [dB]" id="23">279</parameter>
+                            <parameter name="High Shelf Frequency [Hz]" id="26">837</parameter>
+                            <parameter name="High Shelf Gain [dB]" id="27">190</parameter>
+                        </ParameterFolder>
+                    </EffectSnapshot>
+                </Snapshot>
+            </Snapshots>
+        </EffectBundlePart>
+    </EffectBundleParts>
+</EffectBundle>

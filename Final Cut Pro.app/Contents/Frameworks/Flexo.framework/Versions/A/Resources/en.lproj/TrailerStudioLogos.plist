@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>_LOCALIZABLE_</key>
+	<dict>
+		<key>##heading</key>
+		<string>Logo Style:</string>
+		<key>##label0</key>
+		<string>Black Background</string>
+		<key>##label1</key>
+		<string>Spinning Earth in Space</string>
+		<key>##label2</key>
+		<string>Sun Rays Through Clouds</string>
+		<key>##label3</key>
+		<string>Snowy Mountain Peak</string>
+		<key>##label4</key>
+		<string>Glowing Pyramid</string>
+		<key>##label5</key>
+		<string>Signals Across the Globe</string>
+		<key>##label6</key>
+		<string>Colored Bars</string>
+		<key>##label7</key>
+		<string>Dandelion</string>
+		<key>##label8</key>
+		<string>Galaxy</string>
+		<key>##label9</key>
+		<string>Street Lamp</string>
+		<key>##label10</key>
+		<string>Trees</string>
+	</dict>
+	<key>label</key>
+	<string>##heading</string>
+	<key>values</key>
+	<array>
+		<array>
+			<string>##label0</string>
+			<string>##label1</string>
+			<string>##label2</string>
+			<string>##label3</string>
+			<string>##label4</string>
+			<string>##label5</string>
+			<string>##label6</string>
+			<string>##label7</string>
+			<string>##label8</string>
+			<string>##label9</string>
+			<string>##label10</string>
+		</array>
+	</array>
+</dict>
+</plist>
