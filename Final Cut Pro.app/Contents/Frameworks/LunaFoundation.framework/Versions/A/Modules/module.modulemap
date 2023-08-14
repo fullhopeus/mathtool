@@ -1,6 +1,0 @@
-framework module LunaFoundation [system] {
-  umbrella header "LunaFoundation.h"
-
-  export *
-  module * { export * }
-}

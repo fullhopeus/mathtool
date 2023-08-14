@@ -1,6 +1,0 @@
-framework module DeepSkyLite {
-  umbrella header "DeepSkyLite.h"
-
-  export *
-  module * { export * }
-}

@@ -1,6 +1,0 @@
-framework module MIO {
-  umbrella header "MIO.h"
-
-  export *
-  module * { export * }
-}

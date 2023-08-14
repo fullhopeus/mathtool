@@ -1,5 +1,0 @@
-framework module HeliumSenso [system] {
-
-	header "HeliumSensoModule.h"
-
-}

@@ -1,5 +1,0 @@
-framework module LunaKit_Private [system] {
-  umbrella "PrivateHeaders"
-
-  module * { export * }
-}

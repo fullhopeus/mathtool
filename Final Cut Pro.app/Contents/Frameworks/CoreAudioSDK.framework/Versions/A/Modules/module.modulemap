@@ -1,6 +1,0 @@
-framework module CoreAudioSDK {
-  umbrella header "CoreAudioSDK.h"
-
-  export *
-  module * { export * }
-}

@@ -1,6 +1,0 @@
-framework module MDPKit {
-  umbrella header "MDPKit.h"
-
-  export *
-  module * { export * }
-}
