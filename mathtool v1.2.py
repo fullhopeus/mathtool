@@ -106,4 +106,5 @@ while True:
             if result is not None:
                 print("--> " + result)
         except Exception as e:
-            print("An error occurred:", e)
+            if e != 'invalid syntax (<string>, line 0)':
+                print("An error occurred:", e)
